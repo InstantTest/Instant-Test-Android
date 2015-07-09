@@ -1,0 +1,547 @@
+<examination duration="0:10:0" kind="Bank" draw="10" instruction="Choose one correct option from the following options" subject="Pharm">
+  <sections>
+    <section format="multiple choice" instruction="">
+      <question number="1">
+        <text type="text">During the second stage of anaesthesia (stage of disinhibition)</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">the patient is delirious and excited</option>
+          <option type="text" answer="false" weight=".00%">anaesthetic effect are prominent</option>
+          <option type="text" answer="false" weight=".00%">reflexes are abolished</option>
+          <option type="text" answer="false" weight=".00%">blood pressure is normal</option>
+          <option type="text" answer="false" weight=".00%">
+          </option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="2">
+        <text type="text">During initial clinical test, the minimal alycolar concentrations (MAC) value was found to be 1% for agent A</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">the blood/gas partition coefficient for A is higher than that of B</option>
+          <option type="text" answer="false" weight=".00%">This implies that</option>
+          <option type="text" answer="false" weight=".00%">a lower concentration of A will be required than B to produce anaesthesia</option>
+          <option type="text" answer="false" weight=".00%">A is less potent than B</option>
+          <option type="text" answer="false" weight=".00%">recovery from anaesthesia will be faster with A than with B</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="3">
+        <text type="text">Pharmacological effects of inhaled anaesthetic agents include the following</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">reduced vascular resistance but increased intracranial pressure</option>
+          <option type="text" answer="false" weight=".00%">generally, decrease arterial blood pressure</option>
+          <option type="text" answer="false" weight=".00%">decreased arterial CO2 tension</option>
+          <option type="text" answer="false" weight=".00%">decrease ventilatory response to hypoxia</option>
+          <option type="text" answer="false" weight=".00%">susceptible patients may develop malignant hyporthermia when exposed to nitrous oxide</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="4">
+        <text type="text">Arrhythmia is likely to follow the administration of adrenaline in a patient</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">diethyl ether</option>
+          <option type="text" answer="false" weight=".00%">nitrous oxide</option>
+          <option type="text" answer="false" weight=".00%">halothane</option>
+          <option type="text" answer="false" weight=".00%">ketamine</option>
+          <option type="text" answer="false" weight=".00%">Isoflurane</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="5">
+        <text type="text">Which of the following statements is true?</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">ketamine produces dissociative anaesthesia</option>
+          <option type="text" answer="false" weight=".00%">ketamine reduces arterial blood pressure and cerebrospinal fluid pressure</option>
+          <option type="text" answer="false" weight=".00%">droperidol and fentanyl are used to produce neuroleptanaesthesia</option>
+          <option type="text" answer="false" weight=".00%">confusion after neuroleptanaesthesia</option>
+          <option type="text" answer="false" weight=".00%">Propofol agent that can be used for induction of anaesthesia</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="6">
+        <text type="text">Agents used as preanaesthetic medication include</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">opioids</option>
+          <option type="text" answer="false" weight=".00%">tranquilizers</option>
+          <option type="text" answer="false" weight=".00%">antiarrythmic drugs</option>
+          <option type="text" answer="false" weight=".00%">sedatives</option>
+          <option type="text" answer="false" weight=".00%">antimuscarinic drugs</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="7">
+        <text type="text">At the cellular level, the mechanism by which local anaesthetic agent block nerve conduction include</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">blocking re-uptake of noradrenaline</option>
+          <option type="text" answer="false" weight=".00%">interfering with oxidative phosphorylation</option>
+          <option type="text" answer="false" weight=".00%">blocking the Na+ channel</option>
+          <option type="text" answer="false" weight=".00%">lowering conductance threshold</option>
+          <option type="text" answer="false" weight=".00%">interfering with the transient increase in sodium permeability produced by depolarization</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="8">
+        <text type="text">Absorption and distribution of local anaethetic from the site of injection</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">is enhanced when blood flow to the area is reduced</option>
+          <option type="text" answer="false" weight=".00%">determines the onset of action</option>
+          <option type="text" answer="false" weight=".00%">determines the duration of a vasoconstrictor</option>
+          <option type="text" answer="false" weight=".00%">may be reduced by the addition of a vasoconstrictor</option>
+          <option type="text" answer="false" weight=".00%">determines the likelihood of systemic toxicity</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="9">
+        <text type="text">Toxic effects of absorbed local anaesthetic include the following:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">at high plasma levels tachychardia and arrhythmias may be produced</option>
+          <option type="text" answer="false" weight=".00%">severe convulsions may be followed by coma with respiratory and cardiovascular depression</option>
+          <option type="text" answer="false" weight=".00%">renal damage may be caused by the ester type local anaesthetic</option>
+          <option type="text" answer="false" weight=".00%">vasodilatation and hypotension may follow systemic absorption of cocaine</option>
+          <option type="text" answer="false" weight=".00%">allergic reactions are common with systemic absorption of lidocaine</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="10">
+        <text type="text">The following statements is true of a sedative</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">produces drowsiness</option>
+          <option type="text" answer="false" weight=".00%">depresses CNS more than does a hypnotic</option>
+          <option type="text" answer="false" weight=".00%">has little or no effect on motor or mental function</option>
+          <option type="text" answer="false" weight=".00%">can induce hypnosis by increasing the dose</option>
+          <option type="text" answer="false" weight=".00%">exerts calming effect</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="11">
+        <text type="text">Sedative / hypnotics produce their salutary effect by:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">inhibiting 5-HT activity in amygdale</option>
+          <option type="text" answer="false" weight=".00%">increasing the frequency of opening of chloride ion channels</option>
+          <option type="text" answer="false" weight=".00%">increasing synaptic concentration of noradrenaline</option>
+          <option type="text" answer="false" weight=".00%">enhancing the affinity of GABA receptor for its neurotransmitter</option>
+          <option type="text" answer="false" weight=".00%">prolonging the duration of opening of sodium ion channels</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="12">
+        <text type="text">You will prescribe the following sedative hypnotic to allay anxiety in a patient with hepatic impairment</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">alprazolam</option>
+          <option type="text" answer="false" weight=".00%">lorazepam</option>
+          <option type="text" answer="false" weight=".00%">nitrazepam</option>
+          <option type="text" answer="false" weight=".00%">chlodiazepoxide</option>
+          <option type="text" answer="false" weight=".00%">oxazepam</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="13">
+        <text type="text">The effect of sedative/hypnotic on sleep</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">those with long half-lives active metabolites produce hangover</option>
+          <option type="text" answer="false" weight=".00%">individuals cannot be aroused from sleep</option>
+          <option type="text" answer="false" weight=".00%">tolerance develops after chronic usage for more than one week</option>
+          <option type="text" answer="false" weight=".00%">prolongs the duration with increased frequency of wake periods</option>
+          <option type="text" answer="false" weight=".00%">shortens the latency of onset</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="14">
+        <text type="text">Buspirone differs from benzodiazepines in that it</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">has no hypnotic, anticonvulsant and muscle relaxant action</option>
+          <option type="text" answer="false" weight=".00%">can be prescribed for those operating heavy machinery or driving</option>
+          <option type="text" answer="false" weight=".00%">takes a shorter time to produce anxiolytic effect</option>
+          <option type="text" answer="false" weight=".00%">cannot be prescribed with other CNS depressants</option>
+          <option type="text" answer="false" weight=".00%">is excreted unchanged in the urine</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="15">
+        <text type="text">This statement is true with regard to a pharmacological property of zolpidem:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">has no anticonvulsant or muscle relaxing properties</option>
+          <option type="text" answer="false" weight=".00%">acts on benzodiapine receptors</option>
+          <option type="text" answer="false" weight=".00%">tolerance occurs with prolonged use</option>
+          <option type="text" answer="false" weight=".00%">nightmares are prominent undesired effect</option>
+          <option type="text" answer="false" weight=".00%">exhibits minimal rebound insomnia</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="16">
+        <text type="text">Foods with high tyramine content can precipitate hypertensive crisis in a patient on</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">phenelzine</option>
+          <option type="text" answer="false" weight=".00%">fluoxetine</option>
+          <option type="text" answer="false" weight=".00%">isocarboxazid</option>
+          <option type="text" answer="false" weight=".00%">moclobemide</option>
+          <option type="text" answer="false" weight=".00%">desipramine</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="17">
+        <text type="text">The following statement is true with regard to a pharmacokinetic property of anti-depressants</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">prolongs gastric emptying</option>
+          <option type="text" answer="false" weight=".00%">can cause cumulative toxicity, particularly, in the obese</option>
+          <option type="text" answer="false" weight=".00%">generally, have long half-life</option>
+          <option type="text" answer="false" weight=".00%">elimination of MAO inhibitors depends on acetylation phenotype of the individual</option>
+          <option type="text" answer="false" weight=".00%">the dose should be reduced in the presence of renal impairment</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="18">
+        <text type="text">Pharmacodynamic effect of antidepressant</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">cause euphoria in normal individuals</option>
+          <option type="text" answer="false" weight=".00%">antipressant effect becomes manifest -3 weeks of chronic administration</option>
+          <option type="text" answer="false" weight=".00%">cause blurred vision and constipation</option>
+          <option type="text" answer="false" weight=".00%">depress cardiovascular reflexes</option>
+          <option type="text" answer="false" weight=".00%">shortens conduction time at all levels of intracardiac conduction system</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="19">
+        <text type="text">Clinical problem associated with the use of antidepressants</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">high abuse potential</option>
+          <option type="text" answer="false" weight=".00%">cannot be used to treat acute depression</option>
+          <option type="text" answer="false" weight=".00%">may precipitate ventricular dysrrhythmia in individuals with pre-existing conduction defect</option>
+          <option type="text" answer="false" weight=".00%">ANS effects may be confused with symptoms of depressive illness</option>
+          <option type="text" answer="false" weight=".00%">tolerance develops to antidepressant action</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="20">
+        <text type="text">For the elderly with depressive illness. You will prescribe</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">an imipramine congener</option>
+          <option type="text" answer="false" weight=".00%">amitriptyline congener</option>
+          <option type="text" answer="false" weight=".00%">a MAO inhibitor</option>
+          <option type="text" answer="false" weight=".00%">an atypical antidepressant</option>
+          <option type="text" answer="false" weight=".00%">a serotonin selective reuptake inhibitor</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="21">
+        <text type="text">Subgroup of antipsychotic drugs with low sedative and hypotensive actions but pronounced</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">aliphatic derivatives of phenothiazine</option>
+          <option type="text" answer="false" weight=".00%">piperidine derivatives of phenothiazine</option>
+          <option type="text" answer="false" weight=".00%">piperazine derivatives of phenothiazine</option>
+          <option type="text" answer="false" weight=".00%">butyrophenones</option>
+          <option type="text" answer="false" weight=".00%">thioxanthines</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="22">
+        <text type="text">The salutary effect of traditional antipsychotics is attributed to interruption of dopaminergic transmission in</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">nigrostriatal pathway</option>
+          <option type="text" answer="false" weight=".00%">incertohypothalamic pathway</option>
+          <option type="text" answer="false" weight=".00%">meduallary – periventricular pathway</option>
+          <option type="text" answer="false" weight=".00%">tubero-infundibular pathway</option>
+          <option type="text" answer="false" weight=".00%">mesolimbic-mesocortical pathway</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="23">
+        <text type="text">Neuroleptic syndrome caused by chlorpromazine includes</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">depressed state of wakefulness</option>
+          <option type="text" answer="false" weight=".00%">dimuniton of initiative to start conversation</option>
+          <option type="text" answer="false" weight=".00%">impaired intellectual faculty</option>
+          <option type="text" answer="false" weight=".00%">indifference to the environment</option>
+          <option type="text" answer="false" weight=".00%">use of excessive words to express oneself</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="24">
+        <text type="text">Neuroleptics drugs:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">can cause blurred vision, urinary retention and constipation</option>
+          <option type="text" answer="false" weight=".00%">increase arterial blood pressure</option>
+          <option type="text" answer="false" weight=".00%">may cause tardive dyskinesia</option>
+          <option type="text" answer="false" weight=".00%">reduce peripheral sensory input to the reticular formation</option>
+          <option type="text" answer="false" weight=".00%">do not affect endocrine function</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="25">
+        <text type="text">Pigmentary retinopathy is associated with</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">chlorpromazine</option>
+          <option type="text" answer="false" weight=".00%">perphenazine</option>
+          <option type="text" answer="false" weight=".00%">haloperidol</option>
+          <option type="text" answer="false" weight=".00%">thioridazine</option>
+          <option type="text" answer="false" weight=".00%">thiothixene</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="26">
+        <text type="text">This statement correctly describes a pharmacologic property of traditional neuroleptics</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">withdrawal symptoms are not severe</option>
+          <option type="text" answer="false" weight=".00%">have high abuse potential</option>
+          <option type="text" answer="false" weight=".00%">tolerance develops to secondary effects</option>
+          <option type="text" answer="false" weight=".00%">absorption from GIT is retarded by antacids</option>
+          <option type="text" answer="false" weight=".00%">
+          </option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="27">
+        <text type="text">Mu-opoid receptors mediate the following effect of morphine</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">hallucination</option>
+          <option type="text" answer="false" weight=".00%">cough suppression</option>
+          <option type="text" answer="false" weight=".00%">tachypnoea</option>
+          <option type="text" answer="false" weight=".00%">euphoria</option>
+          <option type="text" answer="false" weight=".00%">respiratory depression</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="28">
+        <text type="text">The following statement is true with regard to opioid-induced analgesia</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">modify reactive component of pain</option>
+          <option type="text" answer="false" weight=".00%">more effective in relieving pain of musculo-skeletal origin than of visceral origin</option>
+          <option type="text" answer="false" weight=".00%">more effective in relieving dull-constant pain than sharp-intermittent pain</option>
+          <option type="text" answer="false" weight=".00%">mediated at supraspinal level by kappa-opioid receptor</option>
+          <option type="text" answer="false" weight=".00%">results from suppression of synaptic transmission along pain pathway</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="29">
+        <text type="text">the following statement is true with regard to respiratory depression caused by morphine</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">due to decreased sensitivity of respiratory centre to hypoxia</option>
+          <option type="text" answer="false" weight=".00%">increases airway resistance</option>
+          <option type="text" answer="false" weight=".00%">increases intracranial pressure</option>
+          <option type="text" answer="false" weight=".00%">promotes atelectasis in post-operative patients</option>
+          <option type="text" answer="false" weight=".00%">not linearly related to the dose</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="30">
+        <text type="text">Morphine effect on GIT</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">causes accumulation of fluid and electrolytes in intestinal lumen</option>
+          <option type="text" answer="false" weight=".00%">increases amplitude of propulsive contraction</option>
+          <option type="text" answer="false" weight=".00%">increases bile duct pressure</option>
+          <option type="text" answer="false" weight=".00%">hastens gastric emptying</option>
+          <option type="text" answer="false" weight=".00%">causes inattention to normal sensory stimuli for defaecation</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="31">
+        <text type="text">In the cardiovascular system, morphine</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">reduces arterial blood pressure significantly in healthy individuals</option>
+          <option type="text" answer="false" weight=".00%">directly dilates both arterioles and veins</option>
+          <option type="text" answer="false" weight=".00%">reduces left ventricular work</option>
+          <option type="text" answer="false" weight=".00%">increases venous return to reduce pulmonary congestion</option>
+          <option type="text" answer="false" weight=".00%">causes cutaneous vasodilatation</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="32">
+        <text type="text">The following statement is true with regard to physical dependence of opioids</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">mediated by mu-opioid receptors</option>
+          <option type="text" answer="false" weight=".00%">weak agonists produce mild withdrawal symptoms</option>
+          <option type="text" answer="false" weight=".00%">withdrawal symptoms can be minimized by administering opioid antagonist</option>
+          <option type="text" answer="false" weight=".00%">the number and intensity of withdrawal symptoms depends on the degree of physical dependence that</option>
+          <option type="text" answer="false" weight=".00%">withdrawal symptoms reflect exaggerated rebound from the acute pharmacological effects</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="33">
+        <text type="text">Pethidine differs from morphine in that it</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">can be used in abdominal surgery</option>
+          <option type="text" answer="false" weight=".00%">has significant antimuscarimic action</option>
+          <option type="text" answer="false" weight=".00%">does not cause respiratory depression</option>
+          <option type="text" answer="false" weight=".00%">does not cause constipation</option>
+          <option type="text" answer="false" weight=".00%">is not effective cough suppressant</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="34">
+        <text type="text">Naloxone precipitates withdrawal symptoms in patients physically dependent of</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">methadone</option>
+          <option type="text" answer="false" weight=".00%">pentazocine</option>
+          <option type="text" answer="false" weight=".00%">naltrexone</option>
+          <option type="text" answer="false" weight=".00%">buprenorphine</option>
+          <option type="text" answer="false" weight=".00%">levorphanol</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="35">
+        <text type="text">The aim of pharmacotherapy of Parkinson’s disease is to</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">increased inhibitory dopaminergic input to corpus striatum</option>
+          <option type="text" answer="false" weight=".00%">decrease excitatory cholinergic input to corpus striatum</option>
+          <option type="text" answer="false" weight=".00%">restore balance between cholinergic and dopaminergic inputs to corpus striatum</option>
+          <option type="text" answer="false" weight=".00%">prevent occurrence of end-of-dose dyskinesia</option>
+          <option type="text" answer="false" weight=".00%">prevent further degeneration of nigrostriatal tract</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="36">
+        <text type="text">The following statement on a pharmacological property of L-dopa is correct</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">absorption in GIT is retarded by meals rich in protein</option>
+          <option type="text" answer="false" weight=".00%">inhibition of metabolism via decarboxylation pathway reduces therapeutic efficacy</option>
+          <option type="text" answer="false" weight=".00%">effective in treating advanced stage of Parkinson’s disease</option>
+          <option type="text" answer="false" weight=".00%">carbidopa reduces daily dose requirement by 75%</option>
+          <option type="text" answer="false" weight=".00%">non-specific monoamine oxidase inhibitors increase its effectiveness</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="37">
+        <text type="text">L-dopa is contraindicated in patient with</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">history of psychosis</option>
+          <option type="text" answer="false" weight=".00%">open-angle glaucoma</option>
+          <option type="text" answer="false" weight=".00%">history of melanoma</option>
+          <option type="text" answer="false" weight=".00%">history of peripheral constrictive vascular disease</option>
+          <option type="text" answer="false" weight=".00%">peptic ulcer</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="38">
+        <text type="text">Drugs useful in treating advanced stage of Parkinson’s disease include</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">pergolide</option>
+          <option type="text" answer="false" weight=".00%">benztropine</option>
+          <option type="text" answer="false" weight=".00%">deprenyl</option>
+          <option type="text" answer="false" weight=".00%">bromocriptine</option>
+          <option type="text" answer="false" weight=".00%">pramipexole</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="39">
+        <text type="text">In treating Parkinson’s disease dopamine receptor agonist enjoy the following advantage over L-dopa</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">not associated with fluctuation in clinical response</option>
+          <option type="text" answer="false" weight=".00%">prevents further degeneration of nigrostriatal tract</option>
+          <option type="text" answer="false" weight=".00%">does not require enzymatic conversion to an active metabolite</option>
+          <option type="text" answer="false" weight=".00%">have no potentially toxic metabolite</option>
+          <option type="text" answer="false" weight=".00%">does not compete with other substrates for passage across tissue barriers</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="40">
+        <text type="text">An antiepileptic may abort seizure by</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">inhibiting reuptake of GABA</option>
+          <option type="text" answer="false" weight=".00%">promoting the release of glutamate</option>
+          <option type="text" answer="false" weight=".00%">blocking chloride ion-channel</option>
+          <option type="text" answer="false" weight=".00%">blocking sodium ion-channel</option>
+          <option type="text" answer="false" weight=".00%">activating adenosine receptors</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="41">
+        <text type="text">The following pair correctly matches the seizure and its first-line drug</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">partial complex     -     phenytoin</option>
+          <option type="text" answer="false" weight=".00%">grand mal         -     phenobarbitone</option>
+          <option type="text" answer="false" weight=".00%">petit mal          -     clonazepam</option>
+          <option type="text" answer="false" weight=".00%">myoclonic         -     valproate</option>
+          <option type="text" answer="false" weight=".00%">atonic            -      ethosuximide</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="42">
+        <text type="text">This statement correctly describes a pharmacological property of phenytoin</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">different brands are bioequivalent</option>
+          <option type="text" answer="false" weight=".00%">can be given intramuscularly</option>
+          <option type="text" answer="false" weight=".00%">causes use-dependent blockade of sodium ion-channel</option>
+          <option type="text" answer="false" weight=".00%">elimination at large therapeutic does follows first-order kinetics</option>
+          <option type="text" answer="false" weight=".00%">associated with exfoliative dermatitis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="43">
+        <text type="text">The following statement concerning carbamazepine is correct</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">increases affinity of GABA receptor for its neurotransmitter</option>
+          <option type="text" answer="false" weight=".00%">metabolized in the liver to an active metabolite</option>
+          <option type="text" answer="false" weight=".00%">causes gingival hyperplasia</option>
+          <option type="text" answer="false" weight=".00%">can be used to treat trigeminal neuralgia</option>
+          <option type="text" answer="false" weight=".00%">exhibits autoinhibition</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="44">
+        <text type="text">Gastric irritation is associated with</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">ethosuximide</option>
+          <option type="text" answer="false" weight=".00%">phenytoin</option>
+          <option type="text" answer="false" weight=".00%">carbamazepine</option>
+          <option type="text" answer="false" weight=".00%">phenobarbitone</option>
+          <option type="text" answer="false" weight=".00%">valproic acid</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="45">
+        <text type="text">Ethosuximide</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">reduces calcium current in thalamic neurons</option>
+          <option type="text" answer="false" weight=".00%">interact with other drugs for binding at plasma protein binding sites</option>
+          <option type="text" answer="false" weight=".00%">is given in daily divided doses because it has short half-life</option>
+          <option type="text" answer="false" weight=".00%">causes hiccup</option>
+          <option type="text" answer="false" weight=".00%">is contraindicated in bone marrow depression</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="46">
+        <text type="text">A decrease response to a drug, necessitating larger doses to achieve the same effect is known as:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">addiction</option>
+          <option type="text" answer="false" weight=".00%">synergism</option>
+          <option type="text" answer="false" weight=".00%">tolerance</option>
+          <option type="text" answer="false" weight=".00%">psychological dependence</option>
+          <option type="text" answer="false" weight=".00%">physical dependence</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="47">
+        <text type="text">After chronic administration of cocaine or amphetamine, abrupt cessation is commonly followed by</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">vivid visual and auditory hallucination</option>
+          <option type="text" answer="false" weight=".00%">insomnia</option>
+          <option type="text" answer="false" weight=".00%">general fatigue</option>
+          <option type="text" answer="false" weight=".00%">loss of appetite</option>
+          <option type="text" answer="false" weight=".00%">depression</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="48">
+        <text type="text">Inhalation of oxygen in concentrations of 60% may produce the following effect</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">shock</option>
+          <option type="text" answer="false" weight=".00%">carbon dioxide narcosis</option>
+          <option type="text" answer="false" weight=".00%">decompression sickness</option>
+          <option type="text" answer="false" weight=".00%">pulmonary atelectasis</option>
+          <option type="text" answer="false" weight=".00%">increased intracranial pressure</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="49">
+        <text type="text">Hyperbaric oxygen</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">is oxygen administered under atmosphere pressure greater than 1 (one)</option>
+          <option type="text" answer="false" weight=".00%">oxygen administered together with nitrous oxide</option>
+          <option type="text" answer="false" weight=".00%">inhalation causes constriction of retinal blood vessels</option>
+          <option type="text" answer="false" weight=".00%">is contraindicated in the management of respiratory diseases of the new-born</option>
+          <option type="text" answer="false" weight=".00%">greatly suppresses anaerobic infection</option>
+        </options>
+        <reason type="text" />
+      </question>
+    </section>
+  </sections>
+</examination>

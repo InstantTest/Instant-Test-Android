@@ -1,0 +1,148 @@
+<examination duration="0:10:0" kind="Bank" draw="10" instruction="Choose one correct option from the following options" subject="chemical pathology">
+  <sections>
+    <section format="multiple choice" instruction="">
+      <question number="1">
+        <text type="text">Phosphoglycerides are esters containing</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Triglycerides</option>
+          <option type="text" answer="false" weight=".00%">Two fatty acids</option>
+          <option type="text" answer="false" weight=".00%">Phosphoric acid linked to nitrogenous base</option>
+          <option type="text" answer="false" weight=".00%">Cholesterol linked to nitrogenous base</option>
+          <option type="text" answer="false" weight=".00%">none of these</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="2">
+        <text type="text">Free fatty acids</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">are classified according to chain length</option>
+          <option type="text" answer="false" weight=".00%">are not bound to protein in plasma</option>
+          <option type="text" answer="false" weight=".00%">are the most metabolically active lipid fraction</option>
+          <option type="text" answer="false" weight=".00%">are influenced by the amount of glucose available for oxidation</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="3">
+        <text type="text">Cholesterol</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">is a steroid</option>
+          <option type="text" answer="false" weight=".00%">has hormonal activity</option>
+          <option type="text" answer="false" weight=".00%">is found exclusively in animals and humans</option>
+          <option type="text" answer="false" weight=".00%">is synthesized totally in the liver</option>
+          <option type="text" answer="false" weight=".00%">is present in blood mainly as esters with long chain fatty acids</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="4">
+        <text type="text">Cholesterol</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">bonds covalently with glycine and taurine from bile salts</option>
+          <option type="text" answer="false" weight=".00%">is absorbed in the terminal ileum</option>
+          <option type="text" answer="false" weight=".00%">present in intestine is in the esterified form</option>
+          <option type="text" answer="false" weight=".00%">an intestine is hydrolyzed by pancreatic esteeases</option>
+          <option type="text" answer="false" weight=".00%">is a precursor of steroid hormones</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="5">
+        <text type="text">VLDLs</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">are mostly synthesized in the liver</option>
+          <option type="text" answer="false" weight=".00%">act as transpotting agent for free fatty acids c, require apolipoproteins A-1 for its metabolis</option>
+          <option type="text" answer="false" weight=".00%">require apolipoproteins A-1 for its metabolism</option>
+          <option type="text" answer="false" weight=".00%">are rich in triglycerides</option>
+          <option type="text" answer="false" weight=".00%">show the fastest movement in the electrophoresis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="6">
+        <text type="text">LDLs</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">when internalized is degraded to free cholesterol</option>
+          <option type="text" answer="false" weight=".00%">is formed by hepatic delipidation of VLDL</option>
+          <option type="text" answer="false" weight=".00%">requires apoliprotein A-II as a recognition protein for binding to specific receptors</option>
+          <option type="text" answer="false" weight=".00%">increase is demonstrated by an intense pre-beta band at electrophoresis</option>
+          <option type="text" answer="false" weight=".00%">could be elevated in blood due to absent or deficient receptor</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="7">
+        <text type="text">In Frerickson classification of hyperlipidemia</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">type 1 is associated with increased chylomicrons</option>
+          <option type="text" answer="false" weight=".00%">type 2 is associated with increased HDL</option>
+          <option type="text" answer="false" weight=".00%">type 3 is associated with increased LDL</option>
+          <option type="text" answer="false" weight=".00%">type 4 is associated with increased VLDL</option>
+          <option type="text" answer="false" weight=".00%">type 5 is associated with increased VLDL and chylomicrons</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="8">
+        <text type="text">The following findings are associated with Fredericksons Type 1 hyperlipoproteinemia</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">lipoprotein electrophoresis show intense band at origin</option>
+          <option type="text" answer="false" weight=".00%">total cholesterol concentration is very high</option>
+          <option type="text" answer="false" weight=".00%">patients present with itchy yellow nodules on skin</option>
+          <option type="text" answer="false" weight=".00%">the disorder is common and found in the elderly</option>
+          <option type="text" answer="false" weight=".00%">the major cause of this disorder is due to deficiency of lipoprotein lipase</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="9">
+        <text type="text">Type II hyperlipoproteinemia is associated with the following</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">marked increase in LDL cholesterol</option>
+          <option type="text" answer="false" weight=".00%">chronic renal failure</option>
+          <option type="text" answer="false" weight=".00%">diabetes</option>
+          <option type="text" answer="false" weight=".00%">marked increase in VLDL I sub classification IIa</option>
+          <option type="text" answer="false" weight=".00%">diet low in saturated fat</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="10">
+        <text type="text">Tangiers disease is characterized by</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">marked hypercholesterolemia</option>
+          <option type="text" answer="false" weight=".00%">LDL cholesterol which is predominant</option>
+          <option type="text" answer="false" weight=".00%">presence of enlarged orange tonsils</option>
+          <option type="text" answer="false" weight=".00%">corneal opacity and hepatosplenomegaly</option>
+          <option type="text" answer="false" weight=".00%">almost absent HDL cholesterol</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="11">
+        <text type="text">In galactosemia individuals are unable to metabolise galactose</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">due to the deficiency of lactase</option>
+          <option type="text" answer="false" weight=".00%">due to deficiency of galactokinas</option>
+          <option type="text" answer="false" weight=".00%">due to deficiency of uridyl transferase</option>
+          <option type="text" answer="false" weight=".00%">and result in accumulation of glucose-1-phosphate in tissues</option>
+          <option type="text" answer="false" weight=".00%">and result in accumulation of galactose-1-phosphate in tissues</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="12">
+        <text type="text">In galactosaemia the following metabolites accumulate</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">dulcitol</option>
+          <option type="text" answer="false" weight=".00%">NADPH</option>
+          <option type="text" answer="false" weight=".00%">Glucose-1-phosphate</option>
+          <option type="text" answer="false" weight=".00%">Galactose-1-phosphate</option>
+          <option type="text" answer="false" weight=".00%">NADP</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="13">
+        <text type="text">During the fed state, extracellular glucose is maintained by</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Glycogenesis</option>
+          <option type="text" answer="false" weight=".00%">glucose push by insulin to Brain</option>
+          <option type="text" answer="false" weight=".00%">glucose push by insulin to muscle</option>
+          <option type="text" answer="false" weight=".00%">the conversion of glucose to glucose-6-phosphate catalysed by glucokinase</option>
+          <option type="text" answer="false" weight=".00%">the conversion of glucose to triglcerides and stored</option>
+        </options>
+        <reason type="text" />
+      </question>
+    </section>
+  </sections>
+</examination>

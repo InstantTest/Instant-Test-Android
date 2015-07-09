@@ -1,0 +1,266 @@
+<examination duration="0:10:0" kind="Bank" draw="10" instruction="Choose one correct option from the following options" subject="">
+  <sections>
+    <section format="multiple choice" instruction="">
+      <question number="1">
+        <text type="text">Chicken pox is caused by</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Varicella-zoster</option>
+          <option type="text" answer="false" weight="-100.00%">Herpes-zoster</option>
+          <option type="text" answer="false" weight="-100.00%">Variola virus</option>
+          <option type="text" answer="false" weight="-100.00%">All the above</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="2">
+        <text type="text">Chicken pox is a</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">contact disease</option>
+          <option type="text" answer="false" weight="-100.00%">food-borne disease</option>
+          <option type="text" answer="true" weight="100.00%">air-borne disease</option>
+          <option type="text" answer="false" weight="-100.00%">water-borne disease</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="3">
+        <text type="text">The incubation period of chicken pox is</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">3 days</option>
+          <option type="text" answer="false" weight="-100.00%">1 week</option>
+          <option type="text" answer="false" weight="-100.00%">2 weeks</option>
+          <option type="text" answer="true" weight="100.00%">2-3 weeks</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="4">
+        <text type="text">The eruptions on the skin due to chicken pox are</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">polymorphic</option>
+          <option type="text" answer="false" weight="-100.00%">all monomorphic</option>
+          <option type="text" answer="false" weight="-100.00%">spreading centrifugally</option>
+          <option type="text" answer="false" weight="-100.00%">not infective</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="5">
+        <text type="text">The viruses are all belonging to pox viruses except-</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">molluscumcontagiosum virus</option>
+          <option type="text" answer="false" weight="-100.00%">small pox virus</option>
+          <option type="text" answer="false" weight="-100.00%">cowpox virus</option>
+          <option type="text" answer="true" weight="100.00%">chicken pox virus</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="6">
+        <text type="text">Persons infected with chicken pox have</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">immunity for 3 months</option>
+          <option type="text" answer="false" weight="-100.00%">immunity for 6 months</option>
+          <option type="text" answer="false" weight="-100.00%">immunity for 1 year</option>
+          <option type="text" answer="true" weight="100.00%">life-long immunity</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="7">
+        <text type="text">The disease caused by latent form of Varicella virus is</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Shingles</option>
+          <option type="text" answer="false" weight="-100.00%">chicken pox</option>
+          <option type="text" answer="false" weight="-100.00%">secondary pox</option>
+          <option type="text" answer="false" weight="-100.00%">Varicella Zoster</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="8">
+        <text type="text">After entering the body through the respiratory tract, Varicella virus multiplies in the</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">blood</option>
+          <option type="text" answer="true" weight="100.00%">lymph nodes</option>
+          <option type="text" answer="false" weight="-100.00%">skin</option>
+          <option type="text" answer="false" weight="-100.00%">muscles</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="9">
+        <text type="text">German measles is characterized by</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">red spots on skin</option>
+          <option type="text" answer="false" weight="-100.00%">fever</option>
+          <option type="text" answer="false" weight="-100.00%">Koplik’s skin</option>
+          <option type="text" answer="true" weight="100.00%">red spots on skin and fever</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="10">
+        <text type="text">Cogenital Rubella Syndrome is very severe when the infection occurs in the</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">1st trimester of pregnancy</option>
+          <option type="text" answer="false" weight="-100.00%">2nd trimester of pregnancy</option>
+          <option type="text" answer="false" weight="-100.00%">3rd trimester of pregnancy</option>
+          <option type="text" answer="false" weight="-100.00%">one week before delivery</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="11">
+        <text type="text">Which of these is associated with transplacental infections of fetus?</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Rubella</option>
+          <option type="text" answer="false" weight="-100.00%">rubeola</option>
+          <option type="text" answer="false" weight="-100.00%">mumps virus</option>
+          <option type="text" answer="false" weight="-100.00%">respiratory syncytial virus</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="12">
+        <text type="text">Rubella virus causing the German measles belongs to</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Togaviridae</option>
+          <option type="text" answer="false" weight="-100.00%">Herpesviridae</option>
+          <option type="text" answer="false" weight="-100.00%">Orthomyxoviruses</option>
+          <option type="text" answer="false" weight="-100.00%">paramyxoviruses</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="13">
+        <text type="text">Rubella is</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">enveloped, ssRNA with icosahedral capsid</option>
+          <option type="text" answer="false" weight="-100.00%">nonenveloped, ssRNA with icosahedral capsid</option>
+          <option type="text" answer="false" weight="-100.00%">enveloped, bullet shaped virus with ssRNA</option>
+          <option type="text" answer="false" weight="-100.00%">enveloped, ssDNA with icosahedral capsid</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="14">
+        <text type="text">The route of entry of Rubeola is</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">respiratory tract</option>
+          <option type="text" answer="false" weight="-100.00%">intestine</option>
+          <option type="text" answer="false" weight="-100.00%">conjunctiva of eyes</option>
+          <option type="text" answer="true" weight="100.00%">respiratory tract and conjunctiva of eyes</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="15">
+        <text type="text">None of the following show Koplik’s spots except</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">scarlet fever</option>
+          <option type="text" answer="false" weight="-100.00%">German measles</option>
+          <option type="text" answer="false" weight="-100.00%">Small pox</option>
+          <option type="text" answer="true" weight="100.00%">measles</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="16">
+        <text type="text">Influenza viruses have been grouped into A,Band C based on</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">their nucleic acid</option>
+          <option type="text" answer="false" weight="-100.00%">their capsid structure</option>
+          <option type="text" answer="true" weight="100.00%">their antigenic property</option>
+          <option type="text" answer="false" weight="-100.00%">the severity of the disease they cause</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="17">
+        <text type="text">The most common flu is caused by</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">influenza A</option>
+          <option type="text" answer="false" weight="-100.00%">influenza B</option>
+          <option type="text" answer="false" weight="-100.00%">influenza C</option>
+          <option type="text" answer="false" weight="-100.00%">Parainfluenza</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="18">
+        <text type="text">Genetic reassortment is seen in</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">reoviruses</option>
+          <option type="text" answer="false" weight="-100.00%">crossing over with RNA segment</option>
+          <option type="text" answer="true" weight="100.00%">replication of influenza virus</option>
+          <option type="text" answer="false" weight="-100.00%">RNA viruses with plus polarity</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="19">
+        <text type="text">True about haemagglutinin of influenza virus-</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">it is responsible for binding of the virus on susceptible cells</option>
+          <option type="text" answer="false" weight="-100.00%">it induces antibodies for host resistance</option>
+          <option type="text" answer="true" weight="100.00%">it is cleaved into two segments while releasing the virus</option>
+          <option type="text" answer="false" weight="-100.00%">it has three classes of antigens</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="20">
+        <text type="text">which one of the following is the protective antigen of Influenza virus?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">membrane protein</option>
+          <option type="text" answer="true" weight="100.00%">haemagglutinin</option>
+          <option type="text" answer="false" weight="-100.00%">nucleoprotein</option>
+          <option type="text" answer="false" weight="-100.00%">neuraminidase</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="21">
+        <text type="text">which of the following is not a correct match?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">echovirus- ulcerative pharyngitis</option>
+          <option type="text" answer="false" weight="-100.00%">RSV- groups in infants</option>
+          <option type="text" answer="false" weight="-100.00%">Epstein Barr Virus- glandular fever</option>
+          <option type="text" answer="true" weight="100.00%">coxsackie virus – foot and mouth disease</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="22">
+        <text type="text">which one of the influenza viruses would change its surface antigen most frequently?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">parainfluenza virus</option>
+          <option type="text" answer="false" weight="-100.00%">influenza B virus</option>
+          <option type="text" answer="true" weight="100.00%">influenza A virus</option>
+          <option type="text" answer="false" weight="-100.00%">influenza C virus</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="23">
+        <text type="text">Which one of the following age group of people is usually attacked by mumps?</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">1-15 yrs</option>
+          <option type="text" answer="false" weight="-100.00%">10-15 yrs</option>
+          <option type="text" answer="false" weight="-100.00%">15-45 yrs</option>
+          <option type="text" answer="false" weight="-100.00%">45-65 yrs</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="24">
+        <text type="text">RSV is a</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">paramyxovirus</option>
+          <option type="text" answer="false" weight="-100.00%">adenovirus</option>
+          <option type="text" answer="false" weight="-100.00%">reovirus</option>
+          <option type="text" answer="false" weight="-100.00%">orthomyxovirus</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="25">
+        <text type="text">Polio virus is</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">an adenovirus</option>
+          <option type="text" answer="false" weight="-100.00%">paramyxovirus</option>
+          <option type="text" answer="true" weight="100.00%">enterovirus</option>
+          <option type="text" answer="false" weight="-100.00%">pox virus</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="26">
+        <text type="text">small pox virus is also known as</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">rubeola virus</option>
+          <option type="text" answer="false" weight="-100.00%">roseola virus</option>
+          <option type="text" answer="true" weight="100.00%">Variola virus</option>
+          <option type="text" answer="false" weight="-100.00%">Varicella virus</option>
+        </options>
+        <reason type="text" />
+      </question>
+    </section>
+  </sections>
+</examination>

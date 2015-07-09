@@ -1,0 +1,380 @@
+<examination duration="0:10:0" kind="Bank" draw="10" instruction="Choose one correct option from the following options" subject="pharm02">
+  <sections>
+    <section format="multiple choice" instruction="">
+      <question number="1">
+        <text type="text">The following antimalarial drug which can be used alone to effect suppressive cure against multidrug resistant P. falciparum infection is</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Mefcoquine</option>
+          <option type="text" answer="false" weight=".00%">Quinine</option>
+          <option type="text" answer="false" weight=".00%">Primaquine</option>
+          <option type="text" answer="false" weight=".00%">Chloroquine</option>
+          <option type="text" answer="false" weight=".00%">Pyrimethamine-sulfodoxine</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="2">
+        <text type="text">The following drugs can be used as a suppressive cure for releasing P. vivox infection</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Mefloquine</option>
+          <option type="text" answer="false" weight=".00%">Chloroquine</option>
+          <option type="text" answer="false" weight=".00%">Pyrimethamine</option>
+          <option type="text" answer="false" weight=".00%">Quinine</option>
+          <option type="text" answer="false" weight=".00%">Chloroqunide</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="3">
+        <text type="text">The following reflects the differences between the properties of thiabendazole and Albendazole</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Albendazole is well absorbed orally</option>
+          <option type="text" answer="false" weight=".00%">Albendazole is metabolized to hydroxyalbendazole</option>
+          <option type="text" answer="false" weight=".00%">Thiabendazole is better absorbed after a salty meal</option>
+          <option type="text" answer="false" weight=".00%">Thiabendazole is conjugated by sulfation; and Albendazole by glucoronidation</option>
+          <option type="text" answer="false" weight=".00%">Thiabendazole is excreted in faeces and urine</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="4">
+        <text type="text">Drugs used to treat cestodal infections are</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Thiabendazole</option>
+          <option type="text" answer="false" weight=".00%">Mebendazole</option>
+          <option type="text" answer="false" weight=".00%">Oxamniquine</option>
+          <option type="text" answer="false" weight=".00%">Ivermetrin</option>
+          <option type="text" answer="false" weight=".00%">Pipetazine</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="5">
+        <text type="text">The following is a prodrug</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Pyrimethamine</option>
+          <option type="text" answer="false" weight=".00%">Mechlorithamine</option>
+          <option type="text" answer="false" weight=".00%">Chloroguanide</option>
+          <option type="text" answer="false" weight=".00%">Cyclophosphamide</option>
+          <option type="text" answer="false" weight=".00%">Hosfamide</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="6">
+        <text type="text">In vivo potency of pyrimethamine is greater than chloroguanide because</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">It has a different</option>
+          <option type="text" answer="false" weight=".00%">Has greater activity in vivo</option>
+          <option type="text" answer="false" weight=".00%">Has a shorter rate of elimination</option>
+          <option type="text" answer="false" weight=".00%">Acts direct T and Long 1 ½</option>
+          <option type="text" answer="false" weight=".00%">Has both suppressive and causal prophylactic action</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="7">
+        <text type="text">Protein binding of sulphonide is important because</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Highly bound sulphonamide have shorter duration of action</option>
+          <option type="text" answer="false" weight=".00%">Bound sulphonamide has less bio-activity</option>
+          <option type="text" answer="false" weight=".00%">Bound sulphonamide cannot pass into tissue fluid</option>
+          <option type="text" answer="false" weight=".00%">Slows renal excretion</option>
+          <option type="text" answer="false" weight=".00%">Increases levels of sulphonamide in CFS</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="8">
+        <text type="text">The following are pharmacological properties of Pefloxacin</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">It is a metabolite of ciprofloxacin</option>
+          <option type="text" answer="false" weight=".00%">Penetrates skin, bone and joint</option>
+          <option type="text" answer="false" weight=".00%">Causes athracosis in the elderly</option>
+          <option type="text" answer="false" weight=".00%">Concentration in bile is higher than in serum</option>
+          <option type="text" answer="false" weight=".00%">May cause haemolysis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="9">
+        <text type="text">Suramin should be used in circumspect because</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">It is the only antiamoebal drug given parenterally</option>
+          <option type="text" answer="false" weight=".00%">Toxic manifestation vary in intensity and frequency</option>
+          <option type="text" answer="false" weight=".00%">Symptoms include palpebral edema, albuminuria jaundice</option>
+          <option type="text" answer="false" weight=".00%">Highly bound to plasma proteins and therefore has a long half-life</option>
+          <option type="text" answer="false" weight=".00%">Kills microfilariae leading to severe reactions</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="10">
+        <text type="text">Inhibition of Plasmodial dihydrofolate reductase is a characteristic of the following</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Quinine</option>
+          <option type="text" answer="false" weight=".00%">Pyrimethamine</option>
+          <option type="text" answer="false" weight=".00%">
+          </option>
+          <option type="text" answer="false" weight=".00%">Chloroquanide</option>
+          <option type="text" answer="false" weight=".00%">Halofantrin</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="11">
+        <text type="text">Biotransformation of sulphonamides is mainly by</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Hydrolysis of Amino group</option>
+          <option type="text" answer="false" weight=".00%">Conjugation of glucuronic acid</option>
+          <option type="text" answer="false" weight=".00%">Oxidation</option>
+          <option type="text" answer="false" weight=".00%">Acetylation of Amino group</option>
+          <option type="text" answer="false" weight=".00%">Reduction by the microsomal enzymes</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="12">
+        <text type="text">Acetylated forms of sulphonamide</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Maintains antibacterial activity of parent compound</option>
+          <option type="text" answer="false" weight=".00%">Retains allergic properties</option>
+          <option type="text" answer="false" weight=".00%">Crystalize in renal tubule</option>
+          <option type="text" answer="false" weight=".00%">Directly form coloured compound</option>
+          <option type="text" answer="false" weight=".00%">Easily excreted when different sulphonamides are combined</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="13">
+        <text type="text">The synergistic interaction between methotrexate and ara-C is due to</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Increased intracellular ara-CTP</option>
+          <option type="text" answer="false" weight=".00%">Decreased intracellular CTP</option>
+          <option type="text" answer="false" weight=".00%">Taking methotrexate a few hours before ara-c</option>
+          <option type="text" answer="false" weight=".00%">Taking ara-c a few hours before methotrexate</option>
+          <option type="text" answer="false" weight=".00%">Taking methotrexate and ara-c at the same time</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="14">
+        <text type="text">Choice of a chemotherapeutic agent</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Safety profile</option>
+          <option type="text" answer="false" weight=".00%">Resistance pattern</option>
+          <option type="text" answer="false" weight=".00%">Chemical structure</option>
+          <option type="text" answer="false" weight=".00%">Co-existence of diseases in patients</option>
+          <option type="text" answer="false" weight=".00%">Drug efficiency</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="15">
+        <text type="text">Antihelminthic drugs used for treatment of trematode include</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Oxamniquine</option>
+          <option type="text" answer="false" weight=".00%">Piperazine</option>
+          <option type="text" answer="false" weight=".00%">Pyrantel pamoate</option>
+          <option type="text" answer="false" weight=".00%">Niclosamide</option>
+          <option type="text" answer="false" weight=".00%">Praziquantel</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="16">
+        <text type="text">The following statement is true for Benzimidazole</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Active against Ascaris lumbriocoides</option>
+          <option type="text" answer="false" weight=".00%">used for visceral larval</option>
+          <option type="text" answer="false" weight=".00%">effective against some cestods such as hydatic tapeworm</option>
+          <option type="text" answer="false" weight=".00%">adjunct administration of MgSO4 may be necessary after T. solium treatment with benzimidazole</option>
+          <option type="text" answer="false" weight=".00%">salival, lacrimal and dry mouth are manifestations of benzimidazole toxicity</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="17">
+        <text type="text">Chrystalluria resulting from sulphonam use may be prevented by</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">acidifying the urine</option>
+          <option type="text" answer="false" weight=".00%">reducing fluid intake</option>
+          <option type="text" answer="false" weight=".00%">alkalinizing the urine</option>
+          <option type="text" answer="false" weight=".00%">increasing fluid intake</option>
+          <option type="text" answer="false" weight=".00%">using a mixture of sulphonamides</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="18">
+        <text type="text">The following drugs are effective in chronic myelocytic leukaemia</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">busulphan</option>
+          <option type="text" answer="false" weight=".00%">carmustine</option>
+          <option type="text" answer="false" weight=".00%">mercaptopurine</option>
+          <option type="text" answer="false" weight=".00%">cytarabine</option>
+          <option type="text" answer="false" weight=".00%">chlorambucil</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="19">
+        <text type="text">The antimicrobial effect of metronidazole includes</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Antiamoeba</option>
+          <option type="text" answer="false" weight=".00%">Antitrichomonas</option>
+          <option type="text" answer="false" weight=".00%">Antigiandia</option>
+          <option type="text" answer="false" weight=".00%">Antileishmania</option>
+          <option type="text" answer="false" weight=".00%">Anti anaerobic cocci bacteria</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="20">
+        <text type="text">Methronidazole is effective for</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">leishmaniasis</option>
+          <option type="text" answer="false" weight=".00%">giardiasis</option>
+          <option type="text" answer="false" weight=".00%">ascaricisis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="21">
+        <text type="text">Efloxacin is effective</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">shigella</option>
+          <option type="text" answer="false" weight=".00%">salmonella</option>
+          <option type="text" answer="false" weight=".00%">chlamydia</option>
+          <option type="text" answer="false" weight=".00%">neissercil gonorrhoea</option>
+          <option type="text" answer="false" weight=".00%">anaerobic bacteria</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="22">
+        <text type="text">Chemotherapeutic agent</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Exploit Biochemical difference between parasites and host cells</option>
+          <option type="text" answer="false" weight=".00%">Useful in immunosuppressed patients</option>
+          <option type="text" answer="false" weight=".00%">Like aspirin can be used to ameliorate pain</option>
+          <option type="text" answer="false" weight=".00%">Include antibiotic</option>
+          <option type="text" answer="false" weight=".00%">Examples are chlorambucil and phenytoin</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="23">
+        <text type="text">Vinca alkaloids are not characterized by</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Cell –cycle specific</option>
+          <option type="text" answer="false" weight=".00%">Low toxicity to BM and epithelial cells</option>
+          <option type="text" answer="false" weight=".00%">Antimetabolites</option>
+          <option type="text" answer="false" weight=".00%">Untoward effect alopecia</option>
+          <option type="text" answer="false" weight=".00%">
+          </option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="24">
+        <text type="text">HIV patients with histoplasmosis can be treated with</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">ketoconazole</option>
+          <option type="text" answer="false" weight=".00%">Nystatin</option>
+          <option type="text" answer="false" weight=".00%">Amphotericin B</option>
+          <option type="text" answer="false" weight=".00%">Haloprogen</option>
+          <option type="text" answer="false" weight=".00%">Benzoic acid</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="25">
+        <text type="text">The systemic antiamoebic drug emetine</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">produces flatulence as side effect</option>
+          <option type="text" answer="false" weight=".00%">inhibits protein synthesis</option>
+          <option type="text" answer="false" weight=".00%">is a secondary drug to metronidazole</option>
+          <option type="text" answer="false" weight=".00%">is the treatment of choice for asymptomatic passers of the cyst</option>
+          <option type="text" answer="false" weight=".00%">is effective against Trichonanas viginalis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="26">
+        <text type="text">Treatment of cancer as compared to infectious diseases has not been successful due to</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Total cure of cancer</option>
+          <option type="text" answer="false" weight=".00%">Maintenance treatment after remission</option>
+          <option type="text" answer="false" weight=".00%">Anti cancer drugs have serious side effects</option>
+          <option type="text" answer="false" weight=".00%">Lack of selectivity of cancer drugs</option>
+          <option type="text" answer="false" weight=".00%">Immune system is not active in cancer treatment</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="27">
+        <text type="text">Clofazimine as an antimycobacterial drug</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Effective against lepromatous leprosy</option>
+          <option type="text" answer="false" weight=".00%">Well absorbed orally</option>
+          <option type="text" answer="false" weight=".00%">as the same mechanism of acting as sulphonamides</option>
+          <option type="text" answer="false" weight=".00%">Effective in the treatment of buruli ulcer</option>
+          <option type="text" answer="false" weight=".00%">Has anti inflammatory effect</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="28">
+        <text type="text">A drug Y among schizontocide should be given with the following antimalarial drugs to</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Halofantrin</option>
+          <option type="text" answer="false" weight=".00%">Mefloquine</option>
+          <option type="text" answer="false" weight=".00%">Primaquine</option>
+          <option type="text" answer="false" weight=".00%">Pyrimethamine</option>
+          <option type="text" answer="false" weight=".00%">Chloroquine</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="29">
+        <text type="text">Limidazole antifungal agents act by</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Producing desquamation of epithelial cells</option>
+          <option type="text" answer="false" weight=".00%">Producing hyperhydrosis</option>
+          <option type="text" answer="false" weight=".00%">Binding to polymerized microtubules thus disrupting mitotic spindle</option>
+          <option type="text" answer="false" weight=".00%">Acting on DNA gyrase preventing fungal DNA replication</option>
+          <option type="text" answer="false" weight=".00%">Binding to ergosterol in fungal membrane disrupting membrane permeability</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="30">
+        <text type="text">Pneumocystis carinii can be treated with</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Na stibogluconate</option>
+          <option type="text" answer="false" weight=".00%">Suramin</option>
+          <option type="text" answer="false" weight=".00%">Pentamidine</option>
+          <option type="text" answer="false" weight=".00%">Pyrimethamine-Sulfadizine</option>
+          <option type="text" answer="false" weight=".00%">Trimethoprim- Sulfamethoxaole</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="31">
+        <text type="text">Flatulence is a common side effect of</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">artesunate</option>
+          <option type="text" answer="false" weight=".00%">melarsoprol</option>
+          <option type="text" answer="false" weight=".00%">metronidazole</option>
+          <option type="text" answer="false" weight=".00%">diloxanide furoate</option>
+          <option type="text" answer="false" weight=".00%">pentamidine isethionate</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="32">
+        <text type="text">Selectivity of Nifurtimox as an antitrypanosomal agent is due to</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">differential inhibition of pynivase kinase</option>
+          <option type="text" answer="false" weight=".00%">faster oxidation of the drug of mammalian tissues to non-toxic and readily excreted forms</option>
+          <option type="text" answer="false" weight=".00%">Active concentration of the drug by susceptible typanosomes</option>
+          <option type="text" answer="false" weight=".00%">Low levels of reduced glutathione in trypanosomes</option>
+          <option type="text" answer="false" weight=".00%">Lack of catalase and glutathione reductase in trypanosomes</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="33">
+        <text type="text">Which of the following is a problem in the treatment of tuberculosis</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Low apparent volume of distribution of first choice drugs</option>
+          <option type="text" answer="false" weight=".00%">a typical mycobacteria</option>
+          <option type="text" answer="false" weight=".00%">drug resistance</option>
+          <option type="text" answer="false" weight=".00%">persistence of causative agent even after successful treatment</option>
+          <option type="text" answer="false" weight=".00%">variable and inadequate defence mechanisms of the host</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="34">
+        <text type="text">Optic neuritis is the most important untoward effect in the treatment of tuberculosis with the</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">streptomycin</option>
+          <option type="text" answer="false" weight=".00%">isoniazid</option>
+          <option type="text" answer="false" weight=".00%">ethambutol</option>
+          <option type="text" answer="false" weight=".00%">rifampicin</option>
+          <option type="text" answer="false" weight=".00%">pyriznamide</option>
+        </options>
+        <reason type="text" />
+      </question>
+    </section>
+  </sections>
+</examination>

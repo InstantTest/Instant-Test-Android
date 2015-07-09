@@ -1,0 +1,160 @@
+<examination duration="0:10:0" kind="Bank" draw="10" instruction="Choose one correct option from the following options" subject="">
+  <sections>
+    <section format="multiple choice" instruction="">
+      <question number="1">
+        <text type="text">Select the growth factor that acts on pluripotent stem cells</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">SCF</option>
+          <option type="text" answer="false" weight="-100.00%">G-CSF</option>
+          <option type="text" answer="false" weight="-100.00%">IL-6</option>
+          <option type="text" answer="false" weight="-100.00%">M-CSF</option>
+          <option type="text" answer="false" weight="-100.00%">Thrombopoietin</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="2">
+        <text type="text">Which of these growth factors act on pluripotent stem cells</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Flt-L</option>
+          <option type="text" answer="false" weight="-100.00%">IL-6</option>
+          <option type="text" answer="false" weight="-100.00%">Thrombopoietin</option>
+          <option type="text" answer="false" weight="-100.00%">GM-CSF</option>
+          <option type="text" answer="false" weight="-100.00%">IL-5</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="3">
+        <text type="text">Select the growth factor that acts on stromal cells</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">IL-1</option>
+          <option type="text" answer="false" weight="-100.00%">Erythropoietin</option>
+          <option type="text" answer="false" weight="-100.00%">IL-6</option>
+          <option type="text" answer="false" weight="-100.00%">Thrombopoietin</option>
+          <option type="text" answer="false" weight="-100.00%">G-CSF</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="4">
+        <text type="text">Select the growth factor that acts on stromal cells</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">TNF</option>
+          <option type="text" answer="false" weight="-100.00%">IL-6</option>
+          <option type="text" answer="false" weight="-100.00%">G-CSF</option>
+          <option type="text" answer="false" weight="-100.00%">Erythropoietin</option>
+          <option type="text" answer="false" weight="-100.00%">Flt-L</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="5">
+        <text type="text">Which of these growth factors act on early multipotent cells</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">IL-3</option>
+          <option type="text" answer="false" weight="-100.00%">Thrombopoietin</option>
+          <option type="text" answer="false" weight="-100.00%">TNF</option>
+          <option type="text" answer="false" weight="-100.00%">G-CSF</option>
+          <option type="text" answer="false" weight="-100.00%">Erythropoietin</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="6">
+        <text type="text">Select the growth factor that acts on early multipotent cells</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">IL-6</option>
+          <option type="text" answer="false" weight="-100.00%">M-CSF</option>
+          <option type="text" answer="false" weight="-100.00%">Thrombopoietin</option>
+          <option type="text" answer="false" weight="-100.00%">TNF</option>
+          <option type="text" answer="false" weight="-100.00%">SCF</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="7">
+        <text type="text">Which of these growth factors act on early multipotent cells</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">GM-CSF</option>
+          <option type="text" answer="false" weight="-100.00%">IL-5</option>
+          <option type="text" answer="false" weight="-100.00%">M-CSF</option>
+          <option type="text" answer="false" weight="-100.00%">Flt-L</option>
+          <option type="text" answer="false" weight="-100.00%">Erythropoietin</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="8">
+        <text type="text">Select the growth factor that acts on early multipotent cells</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">G-CSF</option>
+          <option type="text" answer="false" weight="-100.00%">IL-2</option>
+          <option type="text" answer="false" weight="-100.00%">IL-4</option>
+          <option type="text" answer="false" weight="-100.00%">Flt-L</option>
+          <option type="text" answer="false" weight="-100.00%">Erythropoietin</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="9">
+        <text type="text">Select the growth factor that acts on early multipotent cells</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Thrombopoietin</option>
+          <option type="text" answer="false" weight="-100.00%">M-CSF</option>
+          <option type="text" answer="false" weight="-100.00%">Erythropoietin</option>
+          <option type="text" answer="false" weight="-100.00%">IL-1</option>
+          <option type="text" answer="false" weight="-100.00%">IL-4</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="10">
+        <text type="text">Select the growth factor that acts on committed cell lines</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">G-CSF</option>
+          <option type="text" answer="false" weight="-100.00%">GM-CSF</option>
+          <option type="text" answer="false" weight="-100.00%">IL-4</option>
+          <option type="text" answer="false" weight="-100.00%">SCF</option>
+          <option type="text" answer="false" weight="-100.00%">IL-1</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="11">
+        <text type="text">Select the growth factor that acts on committed cell lines</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">M-CSF</option>
+          <option type="text" answer="false" weight="-100.00%">Flt-L</option>
+          <option type="text" answer="false" weight="-100.00%">SCF</option>
+          <option type="text" answer="false" weight="-100.00%">IL-6</option>
+          <option type="text" answer="false" weight="-100.00%">GM-CSF</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="12">
+        <text type="text">Select the growth factor that acts on committed cell lines</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">IL-5</option>
+          <option type="text" answer="false" weight="-100.00%">IL-3</option>
+          <option type="text" answer="false" weight="-100.00%">SCF</option>
+          <option type="text" answer="false" weight="-100.00%">GM-CSF</option>
+          <option type="text" answer="false" weight="-100.00%">IL-6</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="13">
+        <text type="text">Select the growth factor that acts on committed cell lines</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Erythropoietin</option>
+          <option type="text" answer="false" weight="-100.00%">TNF</option>
+          <option type="text" answer="false" weight="-100.00%">SCF</option>
+          <option type="text" answer="false" weight="-100.00%">Flt-L</option>
+          <option type="text" answer="false" weight="-100.00%">GM-CSF</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="14">
+        <text type="text">Which of these growth factors act on committed cell lines</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Thrombopoietin</option>
+          <option type="text" answer="false" weight="-100.00%">IL-6</option>
+          <option type="text" answer="false" weight="-100.00%">TNF</option>
+          <option type="text" answer="false" weight="-100.00%">IL-3</option>
+          <option type="text" answer="false" weight="-100.00%">M-CSF</option>
+        </options>
+        <reason type="text" />
+      </question>
+    </section>
+  </sections>
+</examination>

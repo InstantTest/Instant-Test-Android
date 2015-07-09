@@ -1,0 +1,160 @@
+<examination duration="0:10:0" kind="Bank" draw="10" instruction="Choose one correct option from the following options" subject="chemical pathology">
+  <sections>
+    <section format="multiple choice" instruction="">
+      <question number="1">
+        <text type="text">Overdose of the following drugs cause both acidosis and alkalosis</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Salicylate. T</option>
+          <option type="text" answer="false" weight=".00%">Ethanol F</option>
+          <option type="text" answer="false" weight=".00%">NaHCo3 F</option>
+          <option type="text" answer="false" weight=".00%">NH4Cl F</option>
+          <option type="text" answer="false" weight=".00%">T</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="2">
+        <text type="text">Causes of respiratory acidosis</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Hyperventilation F</option>
+          <option type="text" answer="false" weight=".00%">Chest pain F</option>
+          <option type="text" answer="false" weight=".00%">Starvation F</option>
+          <option type="text" answer="false" weight=".00%">Salicylate poisoning F</option>
+          <option type="text" answer="false" weight=".00%">All of these</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="3">
+        <text type="text">Internal water balance is regulated by</text>
+        <options>
+          <option type="text" answer="true" weight="25.00%">Osmolality</option>
+          <option type="text" answer="true" weight="25.00%">Thirst</option>
+          <option type="text" answer="true" weight="25.00%">ADH</option>
+          <option type="text" answer="true" weight="25.00%">Colloid osmotic pressure</option>
+          <option type="text" answer="false" weight="-25.00%">None of the these</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="4">
+        <text type="text">In combined protein calorie malnutrition</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Individual suffers from pigment production</option>
+          <option type="text" answer="false" weight=".00%">Epidermis and dermis of skin keratinize</option>
+          <option type="text" answer="false" weight=".00%">Small biopsies show villus atrophy</option>
+          <option type="text" answer="false" weight=".00%">There is enhance pancreatic enzyme activity</option>
+          <option type="text" answer="false" weight=".00%">Disaccharide levels may be increased</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="5">
+        <text type="text">Hypernatremia could be due to</text>
+        <options>
+          <option type="text" answer="true" weight="33.33%">Increased salt ingestion</option>
+          <option type="text" answer="true" weight="33.33%">Excessive salt intake</option>
+          <option type="text" answer="false" weight="-33.33%">Addison’s disease</option>
+          <option type="text" answer="false" weight="-33.33%">ADH</option>
+          <option type="text" answer="true" weight="33.33%">Decreased water ingestion</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="6">
+        <text type="text">Most important factor in Na excretion</text>
+        <options>
+          <option type="text" answer="false" weight="-50.00%">GFR</option>
+          <option type="text" answer="false" weight="-50.00%">Renin Angiotensin Aldosterone</option>
+          <option type="text" answer="false" weight="-50.00%">Thirst</option>
+          <option type="text" answer="false" weight="-50.00%">Availability of hydrogen and potassium ions at distal tubule</option>
+          <option type="text" answer="false" weight="-50.00%">Dopamine</option>
+          <option type="text" answer="true" weight="50.00%">Increase in mineralocorticoid production</option>
+          <option type="text" answer="true" weight="50.00%">Therapy with mineralocorticoids</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="7">
+        <text type="text">High protein level ad xanthochromia are characteristics of the following disorder</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Pre-hepatic jaundice</option>
+          <option type="text" answer="false" weight=".00%">Purulent meningitis</option>
+          <option type="text" answer="false" weight=".00%">Obstructive jaundice</option>
+          <option type="text" answer="false" weight=".00%">Multiple sclerosis</option>
+          <option type="text" answer="false" weight=".00%">Subarachnoid hemorrhage</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="8">
+        <text type="text">Potassium depletion results in</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Muscle weakness</option>
+          <option type="text" answer="false" weight=".00%">Cardiac arrhythmia</option>
+          <option type="text" answer="false" weight=".00%">Death</option>
+          <option type="text" answer="false" weight=".00%">Renal tubular damage</option>
+          <option type="text" answer="false" weight=".00%">Extracellular acidosis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="9">
+        <text type="text">Metabolic alkalosis is characterized by</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Excessive bicarbonate</option>
+          <option type="text" answer="false" weight=".00%">Deficit of dissolved CO2</option>
+          <option type="text" answer="false" weight=".00%">Deficit bicarbonate</option>
+          <option type="text" answer="false" weight=".00%">Excessive dissolved CO2</option>
+          <option type="text" answer="false" weight=".00%">Increased ammonia</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="10">
+        <text type="text">Hyponatremia is seen in</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">20 aldosteronism</option>
+          <option type="text" answer="false" weight=".00%">Increase GFR</option>
+          <option type="text" answer="false" weight=".00%">Hyperproteinaemia</option>
+          <option type="text" answer="false" weight=".00%">Pyloric stenosis</option>
+          <option type="text" answer="false" weight=".00%">Nephritic syndrome</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="11">
+        <text type="text">Fat deficiency causes</text>
+        <options>
+          <option type="text" answer="true" weight="50.00%">Decreased growth rate</option>
+          <option type="text" answer="false" weight="-50.00%">Increased prostaglandin synthesis</option>
+          <option type="text" answer="false" weight="-50.00%">Atrophic liver mitochondria</option>
+          <option type="text" answer="true" weight="50.00%">Increased skin permeability to water</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="12">
+        <text type="text">A high level of protein and xanthochromic CSF is found in</text>
+        <options>
+          <option type="text" answer="true" weight="25.00%">Multiple sclerosis T</option>
+          <option type="text" answer="true" weight="25.00%">Unconjugated bilirubin in CSF T</option>
+          <option type="text" answer="true" weight="25.00%">Cerebral hemorrhage T</option>
+          <option type="text" answer="true" weight="25.00%">Spinal cord tumours T</option>
+          <option type="text" answer="false" weight="-25.00%">High bilirubin in CSF</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="13">
+        <text type="text">Haemolysed blood from a patient will show</text>
+        <options>
+          <option type="text" answer="true" weight="20.00%">Magnesium T</option>
+          <option type="text" answer="true" weight="20.00%">Iron T</option>
+          <option type="text" answer="true" weight="20.00%">Potassium T</option>
+          <option type="text" answer="true" weight="20.00%">Sodium T</option>
+          <option type="text" answer="true" weight="20.00%">Chlorine T</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="14">
+        <text type="text">The following are associated with PEM</text>
+        <options>
+          <option type="text" answer="true" weight="50.00%">Susceptibility to infection T</option>
+          <option type="text" answer="false" weight="-50.00%">Increased height to weight ratio F</option>
+          <option type="text" answer="false" weight="-50.00%">Increased creatinine to urea ratio F</option>
+          <option type="text" answer="true" weight="50.00%">Muscle wasting T</option>
+        </options>
+        <reason type="text" />
+      </question>
+    </section>
+  </sections>
+</examination>

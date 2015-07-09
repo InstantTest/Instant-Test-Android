@@ -1,0 +1,257 @@
+<examination duration="0:10:0" kind="Bank" draw="10" instruction="Choose one correct option from the following options" subject="">
+  <sections>
+    <section format="multiple choice" instruction="">
+      <question number="1">
+        <text type="text">Diphyllobothrium latum is:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">a pseudophyllidian tapeworm</option>
+          <option type="text" answer="false" weight=".00%">a true nematode</option>
+          <option type="text" answer="false" weight=".00%">related to the Ctenocephalides species</option>
+          <option type="text" answer="false" weight=".00%">not a worm that has a definite taxonomic status.</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="2">
+        <text type="text">Helminthic infections are generally characterized by:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">insomnia, dermatitis and loss of hair</option>
+          <option type="text" answer="false" weight=".00%">increase in eosinophil numbers in the blood</option>
+          <option type="text" answer="false" weight=".00%">increase in the number of monocytes in the blood</option>
+          <option type="text" answer="false" weight=".00%">elephantiasis.</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="3">
+        <text type="text">Loeffler’s syndrome is associated with:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">ascariasis</option>
+          <option type="text" answer="false" weight=".00%">malaria</option>
+          <option type="text" answer="false" weight=".00%">dracunculiasis</option>
+          <option type="text" answer="false" weight=".00%">hymenolepiasis.</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="4">
+        <text type="text">Strongyloides stercoralis infection occurs:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">when the meat of an infected animal is eaten</option>
+          <option type="text" answer="false" weight=".00%">when water contaminated with its eggs is drunken</option>
+          <option type="text" answer="false" weight=".00%">through sexual contact.</option>
+          <option type="text" answer="false" weight=".00%">through the penetration of the filariform (or infective) larvae into the skin.</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="5">
+        <text type="text">Which of the following parasites is known to cause elephantiasis?</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Trichuris trichiura</option>
+          <option type="text" answer="false" weight=".00%">parasites of elephants that are transmitted to humans</option>
+          <option type="text" answer="false" weight=".00%">Wuchereria bancrofti</option>
+          <option type="text" answer="false" weight=".00%">Dracuncunlus medinensis.</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="6">
+        <text type="text">One of the measures taken to rid of guinea worm infection is to:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">prevent infected individuals from defaecating indiscriminately</option>
+          <option type="text" answer="false" weight=".00%">treat faecal matter before using it as fertilizer</option>
+          <option type="text" answer="false" weight=".00%">boil water that is suspected to contain the vector, Cyclops before drinking  D cook the meat of the intermediate host thoroughly before consuming it</option>
+          <option type="text" answer="false" weight=".00%">
+          </option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="7">
+        <text type="text">Onchocerciasis is transmitted by:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">the simuliumfly</option>
+          <option type="text" answer="false" weight=".00%">Tsetsefly</option>
+          <option type="text" answer="false" weight=".00%">Chrysops dimidiatus</option>
+          <option type="text" answer="false" weight=".00%">Chrysops silacea</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="8">
+        <text type="text">Which of the following drugs is commonly used to treat patients suffering from cestode and trematode infections?</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">amocarzine</option>
+          <option type="text" answer="false" weight=".00%">praziquantel</option>
+          <option type="text" answer="false" weight=".00%">diethylcarbamazine (DEC)</option>
+          <option type="text" answer="false" weight=".00%">flubendazole.</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="9">
+        <text type="text">Worm burden in the host normally results from:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">a single infection</option>
+          <option type="text" answer="false" weight=".00%">multiple infection</option>
+          <option type="text" answer="false" weight=".00%">binary fission</option>
+          <option type="text" answer="false" weight=".00%">parthenocarpy.</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="10">
+        <text type="text">Which of these parasites exhibit diurnal periodicity?</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Onchocerca volvulus</option>
+          <option type="text" answer="false" weight=".00%">Mansonella ozzardi</option>
+          <option type="text" answer="false" weight=".00%">Mansonella streptocerca</option>
+          <option type="text" answer="false" weight=".00%">Loa loa.</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="11">
+        <text type="text">Cysticercus cellulosae is associated with the infection of</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">guinea worm</option>
+          <option type="text" answer="false" weight=".00%">Taenia saginata</option>
+          <option type="text" answer="false" weight=".00%">Taenia solium</option>
+          <option type="text" answer="false" weight=".00%">organisms in the appendix that digest cellulose and cause appendicitis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="12">
+        <text type="text">Brugia malayi is a tissue filarial parasite that is found in</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">West Africa</option>
+          <option type="text" answer="false" weight=".00%">South East Asia</option>
+          <option type="text" answer="false" weight=".00%">South and Central America</option>
+          <option type="text" answer="false" weight=".00%">Eastern Europe</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="13">
+        <text type="text">Which of these is not an important preventive measure in controlling helminthic infections?</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Education</option>
+          <option type="text" answer="false" weight=".00%">washing of hands</option>
+          <option type="text" answer="false" weight=".00%">abstaining from sexual intercourse</option>
+          <option type="text" answer="false" weight=".00%">chemotherapy</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="14">
+        <text type="text">The transmission of Trichinella spiralis infection in humans is by</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">the penetration of the infective larvae through the skin</option>
+          <option type="text" answer="false" weight=".00%">drinking contaminated water infested with the water flea also known as Cyclops</option>
+          <option type="text" answer="false" weight=".00%">ingestion of the egg which contains the infective larvae</option>
+          <option type="text" answer="false" weight=".00%">eating uncooked or undercooked meat containing the larvae.</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="15">
+        <text type="text">Hymenolepis nana is diagnosed by :</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">examining the stool of infected subjects for ova</option>
+          <option type="text" answer="false" weight=".00%">Xenodiagnosis</option>
+          <option type="text" answer="false" weight=".00%">collecting midnight blood for examination</option>
+          <option type="text" answer="false" weight=".00%">carrying out ultrasonography to detect the larvae</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="16">
+        <text type="text">Adult Ancylostoma duodenale maintains its position in the colon by</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">anchorage with its attenuated anterior end</option>
+          <option type="text" answer="false" weight=".00%">penetration into the mucosal folds of the colon</option>
+          <option type="text" answer="false" weight=".00%">temporary attachment or retention in the mucosal folds of the colon</option>
+          <option type="text" answer="false" weight=".00%">attachment to the mucosa through the use of its cutting plates in the buccal capsule</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="17">
+        <text type="text">Necator americanus</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">cause pruritis ani in children</option>
+          <option type="text" answer="false" weight=".00%">can be transmitted through inhalation</option>
+          <option type="text" answer="false" weight=".00%">can be recovered from the perianal region using clear adhesive tape</option>
+          <option type="text" answer="false" weight=".00%">ova may occasionally be recovered from biopsy material</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="18">
+        <text type="text">In Trichuris trichiura infections</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">transmission is by ingestion of filariform larvae</option>
+          <option type="text" answer="false" weight=".00%">larvae undergo a heart-lung migration</option>
+          <option type="text" answer="false" weight=".00%">male worms have bursae with spicules</option>
+          <option type="text" answer="false" weight=".00%">larvae can be found in stale stools</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="19">
+        <text type="text">Ova of Hookworms are</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">barrel shaped</option>
+          <option type="text" answer="false" weight=".00%">operculated</option>
+          <option type="text" answer="false" weight=".00%">oval in shape</option>
+          <option type="text" answer="false" weight=".00%">brown in colour with striations</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="20">
+        <text type="text">In an infection with isospora belli</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">the organisms are usually located in tissues</option>
+          <option type="text" answer="false" weight=".00%">diagnosis can be effected through the Scotch Tape technique</option>
+          <option type="text" answer="false" weight=".00%">invasion of the peritoneal passage is possible</option>
+          <option type="text" answer="false" weight=".00%">symptoms may include diarrhea</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="21">
+        <text type="text">The most serious pathological condition in hookworm infection is:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">lobular pneumonitis due to larvae migrating through the lungs</option>
+          <option type="text" answer="false" weight=".00%">chronic enteritis due to secondary bacterial infection of ulcer caused by adult worms</option>
+          <option type="text" answer="false" weight=".00%">hypochronic microcytic anaemia resulting from continuous blood loss</option>
+          <option type="text" answer="false" weight=".00%">dermatitis due to skin penetration by larvae of the worms</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="22">
+        <text type="text">Diagnostic methods for identification of Chilomastix mestinili include:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Concentration methods</option>
+          <option type="text" answer="false" weight=".00%">Examination of small bowel biopsies</option>
+          <option type="text" answer="false" weight=".00%">Stool culture</option>
+          <option type="text" answer="false" weight=".00%">Specific flocculation test</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="23">
+        <text type="text">Pneumocystis jeroveki</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">are usually obligate parasites</option>
+          <option type="text" answer="false" weight=".00%">could cause traveler’s diarrhoea</option>
+          <option type="text" answer="false" weight=".00%">infections generally require isolation of the patient</option>
+          <option type="text" answer="false" weight=".00%">infections are common in immunocompromised individuals</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="24">
+        <text type="text">The fialriform larvae of nematodes are</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">encountered mainly in the invertebrate host</option>
+          <option type="text" answer="false" weight=".00%">undergo cyclo-multiplication in the lymphatic system</option>
+          <option type="text" answer="false" weight=".00%">can serve as infective stages</option>
+          <option type="text" answer="false" weight=".00%">the resting stages of trypanosome parasites</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="25">
+        <text type="text">Infectious disease agents that possess parasite dependent mechanisms to penetrate host’s skin include</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Ancylostoma duodenale</option>
+          <option type="text" answer="false" weight=".00%">Strongyloides stercoralis</option>
+          <option type="text" answer="false" weight=".00%">Ascaris lumbricoides</option>
+          <option type="text" answer="false" weight=".00%">Necator americanus</option>
+        </options>
+        <reason type="text" />
+      </question>
+    </section>
+  </sections>
+</examination>

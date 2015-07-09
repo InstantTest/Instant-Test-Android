@@ -1,0 +1,557 @@
+<examination duration="0:25:0" kind="Bank" draw="20" instruction="Choose one correct option from the following options" subject="Parasitology and Virology">
+  <sections>
+    <section format="multiple choice" instruction="">
+      <question number="1">
+        <text type="text">Lack of coelom and digestive system, dorsoventral flattening, and hermaphroditism are features that are present in</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Schistosoma intercalatum</option>
+          <option type="text" answer="false" weight=".00%">Schistosoma japonicum</option>
+          <option type="text" answer="false" weight=".00%">Hymenolepis nana</option>
+          <option type="text" answer="false" weight=".00%">Enterobius vermicularis</option>
+          <option type="text" answer="false" weight=".00%">Dracunculus medinesis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="2">
+        <text type="text">In Schistosoma infection the stage that is infective to the host is the</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">1st stage mother or primary sporocyst</option>
+          <option type="text" answer="false" weight=".00%">2nd stage daughter or secondary sporocyst</option>
+          <option type="text" answer="false" weight=".00%">Cercaria</option>
+          <option type="text" answer="false" weight=".00%">Miracidium</option>
+          <option type="text" answer="false" weight=".00%">Schistosomule</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="3">
+        <text type="text">Which of these does not play any role in the life cycle of Paragonimus westermani infection:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Pig</option>
+          <option type="text" answer="false" weight=".00%">Man</option>
+          <option type="text" answer="false" weight=".00%">Crab</option>
+          <option type="text" answer="false" weight=".00%">Snail</option>
+          <option type="text" answer="false" weight=".00%">Sheep</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="4">
+        <text type="text">The Löffler’s syndrome in ascariasis is characterized by all the following except</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">cough</option>
+          <option type="text" answer="false" weight=".00%">elephantiasis</option>
+          <option type="text" answer="false" weight=".00%">wheeze</option>
+          <option type="text" answer="false" weight=".00%">dyspnoea</option>
+          <option type="text" answer="false" weight=".00%">eosinophilia</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="5">
+        <text type="text">Which of the following statements is false about the under mentioned parasites?</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Ascaris lumbricoides is known as the large intestinal parasite</option>
+          <option type="text" answer="false" weight=".00%">Diphyllobothrium latum is a psuedophyllidean tapeworm</option>
+          <option type="text" answer="false" weight=".00%">The egg of Diphyllobothrium latum is operculated</option>
+          <option type="text" answer="false" weight=".00%">Taenia solium and Taenia saginata are classified as nematodes although they are tape-like</option>
+          <option type="text" answer="false" weight=".00%">Dipylidium caninum is a tapeworm of dogs</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="6">
+        <text type="text">Which of these statements is not true regarding Onchocerca volvulus infection?</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Pathology of the disease is due mainly to the microfilariae</option>
+          <option type="text" answer="false" weight=".00%">Patients with high microfilarial loads have little clinical response wing to the suppression of the patients’ immunity by suppressor T cells.</option>
+          <option type="text" answer="false" weight=".00%">thee savannah stain of O. volvulus is more blinding than the forest strain</option>
+          <option type="text" answer="false" weight=".00%">the infection is a zoonosis</option>
+          <option type="text" answer="false" weight=".00%">Vector control by means of larviciding has been carried out by Onchocerciasis Control Programme (OCP).</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="7">
+        <text type="text">Transmission of Drancunculus medinesis occurs when</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">larvae in contaminated freshwater penetrates the skin of the host</option>
+          <option type="text" answer="false" weight=".00%">man walks bare footed on contaminated soil</option>
+          <option type="text" answer="false" weight=".00%">the host ingests the larvae found in the intermediate host</option>
+          <option type="text" answer="false" weight=".00%">female Cyclops bites man in order to suck blood</option>
+          <option type="text" answer="false" weight=".00%">eggs are ingested via the faeces of the intermediate host</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="8">
+        <text type="text">Which of the following statements is not true concerning the under-mentioned parasites?</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">the larvae of Trichinella spiralis encyst in the muscle of the host</option>
+          <option type="text" answer="false" weight=".00%">Adult Loa loa wander in the subcutaneous tissue and occasionally under the conjunctiva</option>
+          <option type="text" answer="false" weight=".00%">Of the Mansonella species only the microfilariae of M. perstans are sheathed</option>
+          <option type="text" answer="false" weight=".00%">The lifecycle of both Wunchereria bancrofti and Brugia malayi are similar and mosquitoes serve as their vectors.</option>
+          <option type="text" answer="false" weight=".00%">the female worm of Dracunculus medinesis matures within a year by which time the uterus is filled with rhabditiform larvae.</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="9">
+        <text type="text">Ascaris lumbricoides</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">adult worms are large, stout and tapering at both ends</option>
+          <option type="text" answer="false" weight=".00%">decorticated eggs are not fertile</option>
+          <option type="text" answer="false" weight=".00%">infection cannot result in appendicitis</option>
+          <option type="text" answer="false" weight=".00%">infection is diagnosed using serological methods</option>
+          <option type="text" answer="false" weight=".00%">infection is characterised by pachydermia</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="10">
+        <text type="text">The predilection site of Schistosoma hematobium adult worm is /are the</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">inferior mesenteric veins and its tributaries</option>
+          <option type="text" answer="false" weight=".00%">the capillaries of the superior mesenteric vein and its tributaries</option>
+          <option type="text" answer="false" weight=".00%">portal vessels of the liver</option>
+          <option type="text" answer="false" weight=".00%">veins surrounding the bladder (vesicle plexus)</option>
+          <option type="text" answer="false" weight=".00%">the right heart</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="11">
+        <text type="text">The Clinical manifestations of Strongyloides stercoralis include(s)</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">pruritus ani and pruritus vulvae</option>
+          <option type="text" answer="false" weight=".00%">marasmus and kwashiorkor</option>
+          <option type="text" answer="false" weight=".00%">katayama syndrome</option>
+          <option type="text" answer="false" weight=".00%">characterised by malabsorption, steatorrhoea, and dehydration</option>
+          <option type="text" answer="false" weight=".00%">appendicitis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="12">
+        <text type="text">Which of these statements is false about the undermentioned infections?</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Strongyloides stercoralis is transmitted from the soil</option>
+          <option type="text" answer="false" weight=".00%">Man acquires Taenia infection by ingesting cysticerci in undercooked meat of pigs or cow</option>
+          <option type="text" answer="false" weight=".00%">the pleurocercoid of Diphyllobothrium latum in fish is the stage that infects humans</option>
+          <option type="text" answer="false" weight=".00%">Man is infected by swallowing the metacercariae of Paragonimus westermani in raw or slightly prickled crustaceanjs.</option>
+          <option type="text" answer="false" weight=".00%">The definitive host of Brugia malayi is the mosquito</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="13">
+        <text type="text">Miracidum, sporocyst, ………………, cercaria and metacercaria. Choose one of the following stages that fits in the sequence as it is found in the lifecycle of paragonimus westermani</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Choose one of the following stages that fits in the sequence as it is found in the lifecycle of paragonimus westermani</option>
+          <option type="text" answer="false" weight=".00%">rhabditiform</option>
+          <option type="text" answer="false" weight=".00%">filariform</option>
+          <option type="text" answer="false" weight=".00%">schistosomulum</option>
+          <option type="text" answer="false" weight=".00%">microfilaria</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="14">
+        <text type="text">The hydatid disease is caused by</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Echinococcus granulosus</option>
+          <option type="text" answer="false" weight=".00%">Multiceps multiceps</option>
+          <option type="text" answer="false" weight=".00%">Coenurus glomerulatus</option>
+          <option type="text" answer="false" weight=".00%">Spaometra</option>
+          <option type="text" answer="false" weight=".00%">Taenia solium</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="15">
+        <text type="text">Loa loa is to Chrysops dimidiata as Schistosoma mansoni is to</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Oncomelania</option>
+          <option type="text" answer="false" weight=".00%">Biomphalaria</option>
+          <option type="text" answer="false" weight=".00%">Bulinus</option>
+          <option type="text" answer="false" weight=".00%">Lymnea</option>
+          <option type="text" answer="false" weight=".00%">Metagonimus</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="16">
+        <text type="text">Which of the following is true?</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Wuchereria bancrofti is a filarial worm with its microfilariae inhabiting the skin of man</option>
+          <option type="text" answer="false" weight=".00%">Mansonella streptocerca microfilariae inhabit the blood and cause serious pathology</option>
+          <option type="text" answer="false" weight=".00%">Dracunculus medinesis is a filarial worm</option>
+          <option type="text" answer="false" weight=".00%">Trichinella spiralis are tissue nematodes with no dispersal in man</option>
+          <option type="text" answer="false" weight=".00%">Ascaris lumbricoides and Strongyloides stercolaris inhabit the small intestines</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="17">
+        <text type="text">The period between when human being swallows an infective Ascaris ova and when the symptoms of the infection first appears is referred to as the</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">latency period</option>
+          <option type="text" answer="false" weight=".00%">incubation period</option>
+          <option type="text" answer="false" weight=".00%">prevalence period</option>
+          <option type="text" answer="false" weight=".00%">incidence period</option>
+          <option type="text" answer="false" weight=".00%">recrudescence period</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="18">
+        <text type="text">The presence of the following features is of diagnostic importance among the helminths except:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">spines in some ova</option>
+          <option type="text" answer="false" weight=".00%">the ability to reflect light under the microscope</option>
+          <option type="text" answer="false" weight=".00%">albuminous coat around he ova</option>
+          <option type="text" answer="false" weight=".00%">the shape and size of an ovum</option>
+          <option type="text" answer="false" weight=".00%">sheath around the microfilariae of filarial worms</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="19">
+        <text type="text">Which of these do not match?</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">schistosomiasis: praziquantel</option>
+          <option type="text" answer="false" weight=".00%">lymphatic filariasis: diethylcarbamazine</option>
+          <option type="text" answer="false" weight=".00%">Diphyllobothriasis: niclosamine</option>
+          <option type="text" answer="false" weight=".00%">strongyloidiasis: ivermectin</option>
+          <option type="text" answer="false" weight=".00%">Ascariasis: metrifonate</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="20">
+        <text type="text">Complete this statement ith the appropriate group of words listed below. In the direct life cycle of</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">
+          </option>
+          <option type="text" answer="false" weight=".00%">i. Loa loa, ii. filarial, iii. lymphatic vessels, iv. large intestines</option>
+          <option type="text" answer="false" weight=".00%">i. Ascaris lumbricoides, ii. filariform, iii. blood vessels of the lungs, iv. small intestines</option>
+          <option type="text" answer="false" weight=".00%">i. Dracunculus medinensis, ii. filariform larva, iii. heart to lungs, iv. lymphatic system</option>
+          <option type="text" answer="false" weight=".00%">i. Ancylostoma duodenale, ii. rhabditiform, iii. blood vessels of the lungs, iv. Large intestines</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="21">
+        <text type="text">Pathogenic amoeba include</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Entamoeba despair</option>
+          <option type="text" answer="false" weight=".00%">Iodoamoeba butschlii</option>
+          <option type="text" answer="false" weight=".00%">Dientamoeba fragilis</option>
+          <option type="text" answer="false" weight=".00%">Endolimax nana</option>
+          <option type="text" answer="false" weight=".00%">Entamoeba coli</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="22">
+        <text type="text">The trophozoites of Balantidium coli are</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">metabolically inactive invasive stage</option>
+          <option type="text" answer="false" weight=".00%">haematophagous</option>
+          <option type="text" answer="false" weight=".00%">divides by multiple fission</option>
+          <option type="text" answer="false" weight=".00%">exhibit multi-directional movement</option>
+          <option type="text" answer="false" weight=".00%">resice in the upper small intestine</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="23">
+        <text type="text">Giardia trophozoites</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">are more common in immunodeficent patients than normal individuals</option>
+          <option type="text" answer="false" weight=".00%">invasion can be treated using Atabrine</option>
+          <option type="text" answer="false" weight=".00%">are resistant to external environment</option>
+          <option type="text" answer="false" weight=".00%">are resistant to municipal water chlorination</option>
+          <option type="text" answer="false" weight=".00%">are intermittently expelled CSF</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="24">
+        <text type="text">In the epidemiology of Entamoeba hystolitica infection</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">faecal oral spread is the only means of transmission</option>
+          <option type="text" answer="false" weight=".00%">prevalence is high in pig keepers</option>
+          <option type="text" answer="false" weight=".00%">monkeys are the main reservoir hosts</option>
+          <option type="text" answer="false" weight=".00%">market women are at a high risk</option>
+          <option type="text" answer="false" weight=".00%">spraying of refuse dumps is of no significance</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="25">
+        <text type="text">Parasitic organisms belonging to the mastigophoran grou[</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">are very small multi-cellular bodies enveloped in a membrane</option>
+          <option type="text" answer="false" weight=".00%">undergo metamorphosis through asexual binary fission</option>
+          <option type="text" answer="false" weight=".00%">can be passed in sputum</option>
+          <option type="text" answer="false" weight=".00%">have no environmentally resistant stages</option>
+          <option type="text" answer="false" weight=".00%">have dis-similar nuclei</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="26">
+        <text type="text">The exoerythrocytic cycle of the malaria parasite</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">is a sexual reproduction process that occurs within RBC’s</option>
+          <option type="text" answer="false" weight=".00%">involves the development of trophozoites to gametocytes</option>
+          <option type="text" answer="false" weight=".00%">is an asexual reproduction cycle that occurs within hepatocytes</option>
+          <option type="text" answer="false" weight=".00%">leads to the production of sporozoites</option>
+          <option type="text" answer="false" weight=".00%">occurs as a complete cycle only in P. vivax</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="27">
+        <text type="text">The epidermiology of toxoplasmosis indicates that</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">the organism is very common in restricted areas of the world</option>
+          <option type="text" answer="false" weight=".00%">infection is azoonotic</option>
+          <option type="text" answer="false" weight=".00%">cats are the intermediate host</option>
+          <option type="text" answer="false" weight=".00%">the sexual reproductive cycle occurs only in cats</option>
+          <option type="text" answer="false" weight=".00%">the sexual reproductive cycle occurs only in man</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="28">
+        <text type="text">Humans become infected with Toxoplasma gondii through the following routes</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">ingestion of larvae though contamination of food and water</option>
+          <option type="text" answer="false" weight=".00%">ingestion of cat faeces</option>
+          <option type="text" answer="false" weight=".00%">ingestion of bradyzoites in uncooked fish</option>
+          <option type="text" answer="false" weight=".00%">transplacental transmission when mother develops chronic infection during pregnancy</option>
+          <option type="text" answer="false" weight=".00%">from contaminated clothes</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="29">
+        <text type="text">Congenital toxoplasmosis</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">shows increased transmission rate in first trimester</option>
+          <option type="text" answer="false" weight=".00%">shows increased severity of fatal disease in third trimester</option>
+          <option type="text" answer="false" weight=".00%">presents as hydrocephalus in adults</option>
+          <option type="text" answer="false" weight=".00%">can cause choreoretinitis</option>
+          <option type="text" answer="false" weight=".00%">is associated mostly with cat keepers</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="30">
+        <text type="text">Pneumocystis jeroveki</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">can be acquired in childhood by malnourished children</option>
+          <option type="text" answer="false" weight=".00%">does not remain in latent non-pathogenic form in humans</option>
+          <option type="text" answer="false" weight=".00%">can lead to interstitial plasma cell pneumonia of infants</option>
+          <option type="text" answer="false" weight=".00%">can be diagnosed by stool culture</option>
+          <option type="text" answer="false" weight=".00%">larvae can be stained with Giemsa stain</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="31">
+        <text type="text">Hemoflagellate pathogens of humans</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">cause non-vector borne infections</option>
+          <option type="text" answer="false" weight=".00%">have direct life cycles</option>
+          <option type="text" answer="false" weight=".00%">have no distinguishing structural characteristics</option>
+          <option type="text" answer="false" weight=".00%">include Trichomonas sp.</option>
+          <option type="text" answer="false" weight=".00%">undergo multiple fission</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="32">
+        <text type="text">Trypanosoma brucei rhodesiense</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">uses domestic animals as reservoir hosts</option>
+          <option type="text" answer="false" weight=".00%">uses reduvid bug as vectors</option>
+          <option type="text" answer="false" weight=".00%">infection is transmitted through contact with vector faeces</option>
+          <option type="text" answer="false" weight=".00%">parasite causes local infection and inflammation</option>
+          <option type="text" answer="false" weight=".00%">multiplies in the host by multiple fission</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="33">
+        <text type="text">Cutaneous leishmaniasis</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">presents with a skin depigmentation</option>
+          <option type="text" answer="false" weight=".00%">is caused by Leishmania tropica</option>
+          <option type="text" answer="false" weight=".00%">does not involve the mucous membranes of nose and throat</option>
+          <option type="text" answer="false" weight=".00%">uses reptiles as reservoir hosts</option>
+          <option type="text" answer="false" weight=".00%">are distributed in uncircumscribed foci</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="34">
+        <text type="text">Adult trematodes that reside in the bowel include</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Trichuris trichuria</option>
+          <option type="text" answer="false" weight=".00%">Ancylostoma duodenale</option>
+          <option type="text" answer="false" weight=".00%">Enterobius vermicularis</option>
+          <option type="text" answer="false" weight=".00%">Taenia saginata</option>
+          <option type="text" answer="false" weight=".00%">Enterobius vermicularis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="35">
+        <text type="text">Regarding the epidermiology of Trichuriasis</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">few people get infected in endemic areas</option>
+          <option type="text" answer="false" weight=".00%">infection is restricted to cold climates</option>
+          <option type="text" answer="false" weight=".00%">eggs embryonate in moist soils before becoming infective</option>
+          <option type="text" answer="false" weight=".00%">transmission could be by inhalation</option>
+          <option type="text" answer="false" weight=".00%">the infetive state of the causative organism is the filariform larva</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="36">
+        <text type="text">Infections caused by T. brucei gambiense are</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">often short lived</option>
+          <option type="text" answer="false" weight=".00%">known to be self limiting in immunocompetent individuals</option>
+          <option type="text" answer="false" weight=".00%">associated with high parasitemia</option>
+          <option type="text" answer="false" weight=".00%">due to tissue organisms</option>
+          <option type="text" answer="false" weight=".00%">associated with circulatory system disorders</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="37">
+        <text type="text">Diphyllobothrium latum is</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">a cyclophyllidian tapeworm</option>
+          <option type="text" answer="false" weight=".00%">a true nematode</option>
+          <option type="text" answer="false" weight=".00%">related to Trichinella species</option>
+          <option type="text" answer="false" weight=".00%">common among fish mongers</option>
+          <option type="text" answer="false" weight=".00%">a tapeworm with an aquatic lifecycle</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="38">
+        <text type="text">Helminthic infections are generally characterized by</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">insomnia, dermatitis and loss of hair</option>
+          <option type="text" answer="false" weight=".00%">increase in eosinophil numbers in the blood</option>
+          <option type="text" answer="false" weight=".00%">increase in the number of red blood cells</option>
+          <option type="text" answer="false" weight=".00%">elephantiasis</option>
+          <option type="text" answer="false" weight=".00%">drowsiness</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="39">
+        <text type="text">Winterbottom sign is associated with</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">ascariasis</option>
+          <option type="text" answer="false" weight=".00%">malaria</option>
+          <option type="text" answer="false" weight=".00%">dracunculiasis</option>
+          <option type="text" answer="false" weight=".00%">hymenolepiasis</option>
+          <option type="text" answer="false" weight=".00%">sleeping sickness</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="40">
+        <text type="text">Ancylostoma duodenale infection can occur</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">when mil from an infected animal is taken</option>
+          <option type="text" answer="false" weight=".00%">when food contaminated with its eggs is eaten</option>
+          <option type="text" answer="false" weight=".00%">through sexual contact</option>
+          <option type="text" answer="false" weight=".00%">through penetration of rhabditiform larvae</option>
+          <option type="text" answer="false" weight=".00%">through ingestion of oocysts</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="41">
+        <text type="text">Which of the following parasites is known to cause rectal prolapse?</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Trichuris trichura</option>
+          <option type="text" answer="false" weight=".00%">parasites of elephants that are transmitted to humans</option>
+          <option type="text" answer="false" weight=".00%">Wuchereria Bancrofti</option>
+          <option type="text" answer="false" weight=".00%">Dracuncunlus medinensis</option>
+          <option type="text" answer="false" weight=".00%">Enterobius sp</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="42">
+        <text type="text">One of the measures taken to rid of guinea worm infection is to:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Prevent infected individuals from defaecating indiscriminately</option>
+          <option type="text" answer="false" weight=".00%">Ascaria lumbricoides</option>
+          <option type="text" answer="false" weight=".00%">Boil water before drinking</option>
+          <option type="text" answer="false" weight=".00%">Cook the meat of the intermediate host thoroughly before consuming it</option>
+          <option type="text" answer="false" weight=".00%">Spraying the environment</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="43">
+        <text type="text">Loises is transmitted by:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Simulin fly</option>
+          <option type="text" answer="false" weight=".00%">Tsetsefly</option>
+          <option type="text" answer="false" weight=".00%">Chrysops dimidiatus</option>
+          <option type="text" answer="false" weight=".00%">Jigger flies</option>
+          <option type="text" answer="false" weight=".00%">Xenopsylla sp.</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="44">
+        <text type="text">Which of the following drugs is commonly used to treat patients suffering from cestode and trematode infections?</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Amocarzine</option>
+          <option type="text" answer="false" weight=".00%">Praziquantel</option>
+          <option type="text" answer="false" weight=".00%">Diethylcarbamazine (DEC)</option>
+          <option type="text" answer="false" weight=".00%">Flubendazole</option>
+          <option type="text" answer="false" weight=".00%">Albendazole</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="45">
+        <text type="text">Worm burden in the host normally results from:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">A single infection</option>
+          <option type="text" answer="false" weight=".00%">Multiple infection</option>
+          <option type="text" answer="false" weight=".00%">Binary fission</option>
+          <option type="text" answer="false" weight=".00%">Parthenocarpy</option>
+          <option type="text" answer="false" weight=".00%">Multiple fission</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="46">
+        <text type="text">Which of these parasites exhibit diumal periodicity?</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Onchocerca volculus</option>
+          <option type="text" answer="false" weight=".00%">Mansonella ozzardi</option>
+          <option type="text" answer="false" weight=".00%">Mansonella ozzardi</option>
+          <option type="text" answer="false" weight=".00%">Loa loa</option>
+          <option type="text" answer="false" weight=".00%">Wuchereria Bancrofti</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="47">
+        <text type="text">Cysticercus bovis associated with the infection of</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Guinea worm</option>
+          <option type="text" answer="false" weight=".00%">Taenia saginata</option>
+          <option type="text" answer="false" weight=".00%">Taenia solium</option>
+          <option type="text" answer="false" weight=".00%">Organism in the appendix that digest cellulose and cause appendicitis</option>
+          <option type="text" answer="false" weight=".00%">Bovine nematodes</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="48">
+        <text type="text">Brugia malayi is a tissue filarial parasite that is found in</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">West Africa</option>
+          <option type="text" answer="false" weight=".00%">South East Asia</option>
+          <option type="text" answer="false" weight=".00%">South and Central America</option>
+          <option type="text" answer="false" weight=".00%">Eastern Europe</option>
+          <option type="text" answer="false" weight=".00%">South East Africa</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="49">
+        <text type="text">Which of these is not an important preventive measure in controlling worm infections?</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Education</option>
+          <option type="text" answer="false" weight=".00%">Washing of hands</option>
+          <option type="text" answer="false" weight=".00%">Abstaining from sexual intercourse</option>
+          <option type="text" answer="false" weight=".00%">Chemotherapy</option>
+          <option type="text" answer="false" weight=".00%">Milk pasteurization</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="50">
+        <text type="text">The transmission of Trichinella spiralis infection in humans is by</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">the penetration of the infection larvae through the skin</option>
+          <option type="text" answer="false" weight=".00%">drinking contaminated water infested with the water flea also known as Cyclops</option>
+          <option type="text" answer="false" weight=".00%">ingestion of the egg which contains the infective larvae</option>
+          <option type="text" answer="false" weight=".00%">eating uncooked or under cooked meat containing the larvae</option>
+          <option type="text" answer="false" weight=".00%">ingestion of the adult worm in bush meat</option>
+        </options>
+        <reason type="text" />
+      </question>
+    </section>
+  </sections>
+</examination>

@@ -1,0 +1,328 @@
+<examination duration="0:10:0" kind="Bank" draw="10" instruction="Choose one correct option from the following options" subject="">
+  <sections>
+    <section format="multiple choice" instruction="">
+      <question number="1">
+        <text type="text">Complications of loffler’s syndrome include the following except</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Pneumonitis</option>
+          <option type="text" answer="false" weight=".00%">Coughing and wheezing</option>
+          <option type="text" answer="false" weight=".00%">Nausea and vomiting</option>
+          <option type="text" answer="false" weight=".00%">Dyspnoea</option>
+          <option type="text" answer="false" weight=".00%">Fever</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="2">
+        <text type="text">Which of the following is not transmitted by Cyclops</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">D. Latum</option>
+          <option type="text" answer="false" weight=".00%">Drancunculus</option>
+          <option type="text" answer="false" weight=".00%">Gnathoroma spirigenum</option>
+          <option type="text" answer="false" weight=".00%">Latum</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="3">
+        <text type="text">Which of the following has unoperculated egg</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Spirometra</option>
+          <option type="text" answer="false" weight=".00%">Shistosoma spp.</option>
+          <option type="text" answer="false" weight=".00%">Fasciola</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="4">
+        <text type="text">Pick the odd one out</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">T. Cruzi-Panstrongylus meg....</option>
+          <option type="text" answer="false" weight=".00%">P. Malariae- Anopheles gambiense</option>
+          <option type="text" answer="false" weight=".00%">Leishmania- lutzomyia</option>
+          <option type="text" answer="false" weight=".00%">Toxoplasma- cat</option>
+          <option type="text" answer="false" weight=".00%">T.gambiense- A.gambiense</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="5">
+        <text type="text">With your knowledge of the epidemiology of cestodes your patient who presents with T.Saginata infection will most like ly have consumed infected meat from:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Horse and dogs</option>
+          <option type="text" answer="false" weight=".00%">Camel and cattle</option>
+          <option type="text" answer="false" weight=".00%">Cattle and cat.</option>
+          <option type="text" answer="false" weight=".00%">Man and cattle</option>
+          <option type="text" answer="false" weight=".00%">Pig and cattle</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="6">
+        <text type="text">Whichof the following is not true abouthte following parasitd</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">E.vermicularis causes salpingitis</option>
+          <option type="text" answer="false" weight=".00%">Human cistercercosis is caused by injestion of cysticercus cellulosae</option>
+          <option type="text" answer="false" weight=".00%">Rectal tenesmus is associated with b.coli,e.histolytica and t.trichuria</option>
+          <option type="text" answer="false" weight=".00%">Vitamin B&lt;sub&gt;12&lt;/sub&gt; deficiency is associated with D.latum and A.duodenale iron deficiency anaemia</option>
+          <option type="text" answer="false" weight=".00%">vermicularis causes salpingitis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="7">
+        <text type="text">Pneumonitis and coughing are associated with</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Acanthamoeba sp., s. Stercoralis, T. Gondii</option>
+          <option type="text" answer="false" weight=".00%">P.carinii, A.duodenale, Ascaris lumbricoides</option>
+          <option type="text" answer="false" weight=".00%">Naegleria, E.histolytica, Acanthamoeba</option>
+          <option type="text" answer="false" weight=".00%">P. Carinii, T. Gondii, A. Duodenale</option>
+          <option type="text" answer="false" weight=".00%">histolytica, Acanthamoeba</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="8">
+        <text type="text">Control and prevention of rubella virus</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Killed vaccine</option>
+          <option type="text" answer="false" weight=".00%">Live attenuated</option>
+          <option type="text" answer="false" weight=".00%">Recombinant vaccine</option>
+          <option type="text" answer="false" weight=".00%">Subunit vaccine</option>
+          <option type="text" answer="false" weight=".00%">Intranasal vaccine</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="9">
+        <text type="text">The following is true of interferons except</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">They are secreted by infected cells in large amounts</option>
+          <option type="text" answer="false" weight=".00%">They exert an antiviral action</option>
+          <option type="text" answer="false" weight=".00%">RNA Viruses are better inducers of interferons</option>
+          <option type="text" answer="false" weight=".00%">They prevent cell proliferation</option>
+          <option type="text" answer="false" weight=".00%">They have no viral specificity</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="10">
+        <text type="text">Laboratory diagnosis of mumps</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Isolation of virus from enlarged parotid gland</option>
+          <option type="text" answer="false" weight=".00%">Persistence of IgM Ab’s for more than six months</option>
+          <option type="text" answer="false" weight=".00%">Direct detection of mumps virus in Ag biopsies</option>
+          <option type="text" answer="false" weight=".00%">IF strain of saliva</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="11">
+        <text type="text">Mumps have the following characteristics</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">It is a DNA virus</option>
+          <option type="text" answer="false" weight=".00%">Systemic infection of the CNS and glandular organs</option>
+          <option type="text" answer="false" weight=".00%">Immunity after infection is short-lived</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="12">
+        <text type="text">About polio virus</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">It is a single stranded RNA virus</option>
+          <option type="text" answer="false" weight=".00%">It's easily deactivated by ether</option>
+          <option type="text" answer="false" weight=".00%">It is easily deactivated by 5% Lysol</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="13">
+        <text type="text">Which of the following antiviral drugs acts by preventing proteolytic enzymes</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Amantidine</option>
+          <option type="text" answer="false" weight=".00%">Enfuvertide</option>
+          <option type="text" answer="false" weight=".00%">Acyclovir</option>
+          <option type="text" answer="false" weight=".00%">Oseltamivir</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="14">
+        <text type="text">select the rightly paired in terms of the predilection of the organ</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">muscle-trichu. T.</option>
+          <option type="text" answer="false" weight=".00%">CNS-</option>
+          <option type="text" answer="false" weight=".00%">Blood- s. Haematobium</option>
+          <option type="text" answer="false" weight=".00%">Skin- M. Strept</option>
+          <option type="text" answer="false" weight=".00%">Skin-loa loa</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="15">
+        <text type="text">Select the wrongly matched pair</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Loa loa- loasis</option>
+          <option type="text" answer="false" weight=".00%">T. Saginata- t. Saginatus</option>
+          <option type="text" answer="false" weight=".00%">Coenerus- paragonimus w</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="16">
+        <text type="text">The following conditions is matched with the wrong causative agents</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Loeffler’s syndrome- large round worm</option>
+          <option type="text" answer="false" weight=".00%">Rectal prolapsed- seatworm</option>
+          <option type="text" answer="false" weight=".00%">Pruritis ani- oxyur</option>
+          <option type="text" answer="false" weight=".00%">B12 anaemia- fish tapeworm</option>
+          <option type="text" answer="false" weight=".00%">Cysticercosis- taenia spp.</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="17">
+        <text type="text">Whichof these has the cercariae developing in vegetation into metacercaaria</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Fasciolopsis</option>
+          <option type="text" answer="false" weight=".00%">Paragonimus westermani</option>
+          <option type="text" answer="false" weight=".00%">Metagonimus</option>
+          <option type="text" answer="false" weight=".00%">Heteropyses</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="18">
+        <text type="text">Choose the wrongly matched pair</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Blood- schistosoma sp.</option>
+          <option type="text" answer="false" weight=".00%">Skin-onchocerca volvolus</option>
+          <option type="text" answer="false" weight=".00%">Striated muscle- paragonimus sp.</option>
+          <option type="text" answer="false" weight=".00%">Csf-trypanosoma sp.</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="19">
+        <text type="text">Whichof the following is not correctly paired</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Brugia malayi- metronidazole</option>
+          <option type="text" answer="false" weight=".00%">Echinococcus multilocularis- praziquantel</option>
+          <option type="text" answer="false" weight=".00%">Plasmodium vivax- mepacrine</option>
+          <option type="text" answer="false" weight=".00%">Schistosoma spp. – metrifornate</option>
+          <option type="text" answer="false" weight=".00%">Schistosoma spp.- xaminiquine</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="20">
+        <text type="text">Whichof the following has the cecariae developing on vegetation into metacercariae</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">A. Fsciolepsis</option>
+          <option type="text" answer="false" weight=".00%">Paragonimus w.</option>
+          <option type="text" answer="false" weight=".00%">Metagonimus</option>
+          <option type="text" answer="false" weight=".00%">Heteropyses</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="21">
+        <text type="text">Which ofthe following is wrongly matched.</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Cysticercus bovis- beef</option>
+          <option type="text" answer="false" weight=".00%">T. Solium – pork</option>
+          <option type="text" answer="false" weight=".00%">Cysticercus cellullae – pork</option>
+          <option type="text" answer="false" weight=".00%">Measly pork- human cysticercus</option>
+          <option type="text" answer="false" weight=".00%">Epilepsy- cysticercus cellullosae</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="22">
+        <text type="text">Provision of toilet facilities is a preventive measure for these infectons except</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Onchocerca volvolus</option>
+          <option type="text" answer="false" weight=".00%">Schistosoma spp.</option>
+          <option type="text" answer="false" weight=".00%">Diphyllobotum latum</option>
+          <option type="text" answer="false" weight=".00%">Dipyllidium caniuim strongyloides stercoralis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="23">
+        <text type="text">Which o fthe following does not cause eye infections?</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Paragonimus w.</option>
+          <option type="text" answer="false" weight=".00%">Toxoplasmosis</option>
+          <option type="text" answer="false" weight=".00%">Trichinellosis</option>
+          <option type="text" answer="false" weight=".00%">Onhcocercaisis</option>
+          <option type="text" answer="false" weight=".00%">Sparganosus</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="24">
+        <text type="text">Whichof the following parasites is involved in irritable bowel syndrome</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Strongyloides</option>
+          <option type="text" answer="false" weight=".00%">T. Saginata</option>
+          <option type="text" answer="false" weight=".00%">D. Latum</option>
+          <option type="text" answer="false" weight=".00%">Latum</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="25">
+        <text type="text">Whichof the following is false about both enterobius and t. Solium</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Auto infecton like h. Nana</option>
+          <option type="text" answer="false" weight=".00%">Mainly infection carried by contaminatd fingernails</option>
+          <option type="text" answer="false" weight=".00%">Causes peri anal itching</option>
+          <option type="text" answer="false" weight=".00%">Sample to collect for diagnosis using anal swab</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="26">
+        <text type="text">Whichof the following does not cause bladder worm infectionin man</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">T. Solium</option>
+          <option type="text" answer="false" weight=".00%">T. Saginata</option>
+          <option type="text" answer="false" weight=".00%">E. Granulosus</option>
+          <option type="text" answer="false" weight=".00%">M. Multiceps</option>
+          <option type="text" answer="false" weight=".00%">Granulosus</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="27">
+        <text type="text">The following will normally have an intestinal involvement</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">E. Histolytica, a. Lumbricoides, a. Duodenale</option>
+          <option type="text" answer="false" weight=".00%">Achantomoeba, n. Americanus, s. Stercoralis</option>
+          <option type="text" answer="false" weight=".00%">G. Lablia, n americanus, a. Lumbricoides</option>
+          <option type="text" answer="false" weight=".00%">B. Coli, acanthamoeba , a. Lumbricides</option>
+          <option type="text" answer="false" weight=".00%">Histolytica, a. Lumbricoides, a. Duodenale</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="28">
+        <text type="text">Which of the following statements about the following parasites is not true?</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">E.vermiuclaris can cause salpingitis</option>
+          <option type="text" answer="false" weight=".00%">Human cystercosis occurs when the individual ingests cystercercus cellulosae</option>
+          <option type="text" answer="false" weight=".00%">Vit B12 anaemia is associated with D.Latum while IDA is associated with A. Duodenale</option>
+          <option type="text" answer="false" weight=".00%">Latum while IDA is associated with A. Duodenale</option>
+          <option type="text" answer="false" weight=".00%">vermiuclaris can cause salpingitis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="29">
+        <text type="text">For which of the following infections is handwashing not prescribed as a preventive measure</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Trichnella spiralis</option>
+          <option type="text" answer="false" weight=".00%">D. Latum</option>
+          <option type="text" answer="false" weight=".00%">Schistosoma mansoni</option>
+          <option type="text" answer="false" weight=".00%">Echinococcus granulosus</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="30">
+        <text type="text">Which of the following is not a complication of ascaris</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Pneumonitis</option>
+          <option type="text" answer="false" weight=".00%">Peritonitis</option>
+          <option type="text" answer="false" weight=".00%">Nausea</option>
+          <option type="text" answer="false" weight=".00%">Appendicitis</option>
+          <option type="text" answer="false" weight=".00%">Cholangitis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="31">
+        <text type="text">Which of the following is not a symptom of loeffler’s syndrome</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Wheezing and cough</option>
+          <option type="text" answer="false" weight=".00%">Dyspnoea</option>
+          <option type="text" answer="false" weight=".00%">Nausea and vomiting</option>
+          <option type="text" answer="false" weight=".00%">Fever</option>
+        </options>
+        <reason type="text" />
+      </question>
+    </section>
+  </sections>
+</examination>

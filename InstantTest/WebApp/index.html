@@ -1,0 +1,303 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Instant Test Website">
+    <meta name="author" content="Abdul-Raheem Addy">
+    <title>Instant Test</title>
+    
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+
+  <body>
+  <style>
+      /* Sticky footer styles
+      -------------------------------------------------- */
+      html {
+        position: relative;
+        min-height: 100%;
+      }
+      body {
+        /* Margin bottom by footer height */
+        margin-bottom: 60px;
+      }
+      .footer {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        /* Set the fixed height of the footer here */
+        height: 60px;
+        background-color: #f5f5f5;
+      }
+
+
+      /* Custom page CSS
+      -------------------------------------------------- */
+      /* Not required for template or sticky footer method. */
+
+      body > .container {
+        padding: 60px 15px 0;
+      }
+      .container .text-muted {
+        margin: 20px 0;
+      }
+
+      .footer > .container {
+        padding-right: 15px;
+        padding-left: 15px;
+      }
+
+      code {
+        font-size: 80%;
+      }
+  </style>
+    <script src="lib/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="lib/js/timing.js"></script>
+    <script type="text/javascript" src="lib/js/messaging.js"></script>
+    <script type="text/javascript" src="lib/test.js"></script>
+    <!-- <script type="text/javascript" src="lib/data.js"></script> -->
+    <script>
+            //var sample = JSON.parse(Instant_Test.data);
+            var sample = JSON.parse(Instant_Test.getData());
+            var test = '';
+            var timer = '';
+            var pos = 1;
+            var max = 10;
+            var mode = "test_default"
+
+            function init() {
+                test = new Test();
+                //Properties for the tests are inserted into the html here
+                document.title = test.properties.subject;
+                $("#title").text(test.properties.subject);
+                $("#timer").text('Time: ' + test.properties.duration);
+                $("#instr").text(test.properties.instruction);
+                max = test.properties.draw;
+            }
+
+            $(function () {
+                init()
+            });
+    </script>
+        
+    <script>
+        function nav (id) {
+            if (id == "i") {pos = 1};
+            if (id == "-" && pos > 1) {pos = pos - 1};
+            if (id == "+" && pos < max) {pos = pos + 1};
+            if (id == "l") {pos = max};
+            
+            if (mode == "test_started") {$("#test").html(mulDefault(pos))};
+
+            if (mode == "test_marked") {$("#test").html(mulMarked(pos))};
+
+            select_option();
+        }
+
+        function select_option () {
+            //Sending the current selected option to choice function of the test
+            //this is done by grabbing the "id" of the selected text and computing
+            //the exact option selected by the user
+            $('.list-group-item').click(function() {
+                $(this).toggleClass('active');
+            	test.choice($(this).attr('id'));
+            });
+        }
+
+        function start_test() {
+            init()
+            timer = new Timer(test.properties.duration, 1000, function (h, m, s){
+                $("#timer").text('Time: ' + h + ":" + m + ":" + s);
+              });
+            mode = "test_started"
+            pos = 1
+            $("#test").html(mulDefault(1))
+            select_option();
+            timer.start(function () { showMark() });
+        }
+
+
+
+        function start () {
+            if ($("#start_test").text() == "Restart Test") {
+              if (timer != null) {timer.stop()};
+              start_test();
+            } else{
+              start_test();
+              $("#start_test").text("Restart Test");
+            }
+            
+        }
+
+        function mark () {          
+          var markMess = new Message(0, 'Instant Test Android', "<h4>Are you sure you want to mark now?</h4>", [
+                {text: "yes",
+                 size: "mb",
+                 background: "info",
+                 funct: function(){showMark()}
+              },
+                {text: "no",
+                 size: "mb",
+                 background: "warning"
+              }])
+              markMess.show()
+        }
+
+        function showMark () {
+        	if (timer != null) {timer.stop()};
+        	$("#timer").text('Time: ' + test.properties.duration);
+            timer = null;
+            var res = test.mark();
+            var resultMess = new Message(1, 'Instant Test Client', "<h4>You scored " + res + "%</h4>", 
+              [{text: "ok",
+                size: "mb",
+                background: "info", 
+                }])
+                pos = 1
+                mode = "test_marked"
+                $("#test").html(mulMarked(1))
+            resultMess.show()
+        }
+    </script>
+
+
+    <script>
+	    function mulDefault(at){
+	        var opts = '<a class="CLASS" role="button" id="ID"><strong><em>LETTER. </em></strong>TEXT</a>'
+
+	        var que = '<div id="ID" class="panel panel-MODE"><div class="panel-heading"><h2 class="panel-title"></h2><h4><em>NUM. </em>TEXT</h4></div><div class="panel-body"><div class="list-group">OPTS</div></div></div>'
+	        var mtext = "";
+	        var result  ="Hey";
+
+
+	         
+	            for (var i = 0; i < test.section[at - 1].options.option.length; i++) {
+	            var opt = opts;
+
+	            if (test.children[at - 1].choices.indexOf(String.fromCharCode(65 + i)) == -1) {
+	              opt = opt.replace("CLASS", "list-group-item");
+	            } else{
+	              opt = opt.replace("CLASS", "list-group-item active");
+	            };
+
+	          opt = opt.replace("CLASS", "list-group-item");
+	          opt = opt.replace("ID", at + ':' + i);
+	          opt = opt.replace("LETTER", String.fromCharCode(65 + i));
+	          opt = opt.replace("TEXT", test.section[at - 1].options.option[i].$);
+	          mtext = mtext + opt;
+	          };
+
+	          que = que.replace("ID", "mul"  + at);
+	          que = que.replace("NUM", at);
+	          que = que.replace("MODE", "info");
+	          que = que.replace("TEXT", test.section[at - 1].text.$);
+	          que = que.replace("OPTS", mtext);
+	          result = que;
+	          return result;
+	      };
+
+	    function mulMarked(at){
+	        var opts = '<a class="CLASS" role="button" id="ID"><strong><em>LETTER. </em></strong>TEXT</a>'
+
+	        var que = '<div id="ID" class="panel panel-MODE"><div class="panel-heading"><h2 class="panel-title"></h2><h4><em>NUM. </em>TEXT</h4></div><div class="panel-body"><div class="list-group">OPTS</div></div></div>'
+	        var mtext = "";
+	          
+	          for (var i = 0; i < test.section[at - 1].options.option.length; i++) {
+	            var opt = opts;
+
+
+	            if (test.children[at - 1].choices.indexOf(String.fromCharCode(65 + i)) == -1) {
+	              opt = opt.replace("CLASS", "list-group-item");
+	            } else{
+	              opt = opt.replace("CLASS", "list-group-item active");
+	            };
+	              
+	            var ans = test.section[at - 1].options.option[i].ATTRanswer;
+	            
+	            if (ans == true || ans == "true") {
+	            opt = opt.replace("TEXT", test.section[at - 1].options.option[i].$ + '<span class="glyphicon glyphicon-ok pull-right"></span>'); 
+	          }
+	          if (ans == false || ans == "false") {
+	            opt = opt.replace("TEXT", test.section[at - 1].options.option[i].$ + '<span class="glyphicon glyphicon-remove pull-right"></span>');
+	          }
+
+	      
+	          opt = opt.replace("ID", at + ':' + i);
+	          opt = opt.replace("TEXT", test.section[at - 1].options.option[i].$);
+	          opt = opt.replace("LETTER", String.fromCharCode(65 + i));
+	          mtext = mtext + opt;
+	          };
+
+	          que = que.replace("ID", "mul"  + at);
+	          que = que.replace("NUM", at);
+
+	          //alert(test.children[at - 1].score)
+	          if (test.children[at - 1].score > 0.0) {
+	           que = que.replace("MODE", "success");
+	        } else if (test.children[at - 1].score < 0.0) {
+	          que = que.replace("MODE", "danger");
+	        } else {
+	          que = que.replace("MODE", "default");
+	        };
+
+	          que = que.replace("TEXT", test.section[at - 1].text.$);
+	          que = que.replace("OPTS", mtext);
+	          result = que;
+
+	          return result;
+	      };
+    </script>
+
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" id="timer">Timer here</a>
+			<a class="navbar-brand" id="start_test" onclick="start();">Start</a>
+			<a class="navbar-brand" id="mark" onclick="mark();">Mark</a>
+        </div>
+      </div>
+    </nav>
+
+	
+    <!-- Begin page content -->
+    <div class="container">
+    	<h1 id="title"></h1>
+	    <div id="test">
+	     
+	    </div>
+    </div>
+
+    <footer class="footer">
+      <div class="container">
+        <div class="btn-group btn-group-justified" role="group" aria-label="...">
+          <div class="btn-group" role="group" onclick="nav('i');">
+            <button type="button" class="btn btn-default">
+            <span class="glyphicon glyphicon-fast-backward" aria-hidden="true"></span> First</button>
+          </div>
+          <div class="btn-group" role="group" onclick="nav('-');">
+            <button type="button" class="btn btn-default">
+            <span class="glyphicon glyphicon-backward" aria-hidden="true"></span> Prev</button>
+          </div>
+          <div class="btn-group" role="group" onclick="nav('+');">
+            <button type="button" class="btn btn-default">
+            <span class="glyphicon glyphicon-forward" aria-hidden="true"></span> Next</button>
+          </div>
+          <div class="btn-group" role="group" onclick="nav('l');">
+            <button type="button" class="btn btn-default">
+            <span class="glyphicon glyphicon-fast-forward" aria-hidden="true"></span> Last</button>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    
+    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+  </body>
+</html

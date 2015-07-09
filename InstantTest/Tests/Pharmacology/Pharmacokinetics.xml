@@ -1,0 +1,426 @@
+<examination duration="0:10:0" kind="Bank" draw="10" instruction="Choose one correct option from the following options" subject="Pharmacokinetics">
+  <sections>
+    <section format="multiple choice" instruction="">
+      <question number="1">
+        <text type="text">Pharmacokinetics is:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">The study of biological and therapeutic effects of drugs</option>
+          <option type="text" answer="true" weight="100.00%">The study of absorption, distribution, metabolism and excretion of drugs</option>
+          <option type="text" answer="false" weight="-100.00%">The study of mechanisms of drug action</option>
+          <option type="text" answer="false" weight="-100.00%">The study of methods of new drug development</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="2">
+        <text type="text">What does “pharmacokinetics” include?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Complications of drug therapy</option>
+          <option type="text" answer="true" weight="100.00%">Drug biotransformation in the organism</option>
+          <option type="text" answer="false" weight="-100.00%">Influence of drugs on metabolism processes</option>
+          <option type="text" answer="false" weight="-100.00%">Influence of drugs on genes</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="3">
+        <text type="text">What does “pharmacokinetics” include?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Pharmacological effects of drugs</option>
+          <option type="text" answer="false" weight="-100.00%">Unwanted effects of drugs</option>
+          <option type="text" answer="false" weight="-100.00%">Chemical structure of a medicinal agent</option>
+          <option type="text" answer="true" weight="100.00%">Distribution of drugs in the organism</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="4">
+        <text type="text">What does “pharmacokinetics” include?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Localization of drug action</option>
+          <option type="text" answer="false" weight="-100.00%">Mechanisms of drug action</option>
+          <option type="text" answer="true" weight="100.00%">Excretion of substances</option>
+          <option type="text" answer="false" weight="-100.00%">Interaction of substances</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="5">
+        <text type="text">The main mechanism of most drugs absorption in GI tract is:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Active transport (carrier-mediated diffusion)</option>
+          <option type="text" answer="false" weight="-100.00%">Filtration (aqueous diffusion)</option>
+          <option type="text" answer="true" weight="100.00%">Endocytosis and exocytosis</option>
+          <option type="text" answer="false" weight="-100.00%">Passive diffusion (lipid diffusion)</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="6">
+        <text type="text">What kind of substances can’t permeate membranes by passive diffusion?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Lipid-soluble</option>
+          <option type="text" answer="false" weight="-100.00%">Non-ionized substances</option>
+          <option type="text" answer="false" weight="-100.00%">Hydrophobic substances</option>
+          <option type="text" answer="true" weight="100.00%">Hydrophilic substances</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="7">
+        <text type="text">A hydrophilic medicinal agent has the following property:</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Low ability to penetrate through the cell membrane lipids</option>
+          <option type="text" answer="false" weight="-100.00%">Penetrate through membranes by means of endocytosis</option>
+          <option type="text" answer="false" weight="-100.00%">Easy permeation through the blood-brain barrier</option>
+          <option type="text" answer="false" weight="-100.00%">High reabsorption in renal tubules</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="8">
+        <text type="text">What is implied by «active transport»?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Transport of drugs trough a membrane by means of diffusion</option>
+          <option type="text" answer="false" weight="-100.00%">Transport without energy consumption</option>
+          <option type="text" answer="false" weight="-100.00%">Engulf of drug by a cell membrane with a new vesicle formation</option>
+          <option type="text" answer="true" weight="100.00%">Transport against concentration gradient</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="9">
+        <text type="text">What does the term “bioavailability” mean?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Plasma protein binding degree of substance</option>
+          <option type="text" answer="false" weight="-100.00%">Permeability through the brain-blood barrier</option>
+          <option type="text" answer="true" weight="100.00%">Fraction of an uncharged drug reaching the systemic circulation following any route administration</option>
+          <option type="text" answer="false" weight="-100.00%">Amount of a substance in urine relative to the initial doze</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="10">
+        <text type="text">The reasons determing bioavailability are:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Rheological parameters of blood</option>
+          <option type="text" answer="false" weight="-100.00%">Amount of a substance obtained orally and quantity of intakes</option>
+          <option type="text" answer="true" weight="100.00%">Extent of absorption and hepatic first-pass effect</option>
+          <option type="text" answer="false" weight="-100.00%">Glomerular filtration rate</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="11">
+        <text type="text">Pick out the appropriate alimentary route of administration when passage of drugs through liver is minimized:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Oral</option>
+          <option type="text" answer="false" weight="-100.00%">Transdermal</option>
+          <option type="text" answer="true" weight="100.00%">Rectal</option>
+          <option type="text" answer="false" weight="-100.00%">Intraduodenal</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="12">
+        <text type="text">Which route of drug administration is most likely to lead to the first-pass effect?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Sublingual</option>
+          <option type="text" answer="true" weight="100.00%">Oral</option>
+          <option type="text" answer="false" weight="-100.00%">Intravenous</option>
+          <option type="text" answer="false" weight="-100.00%">Intramuscular</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="13">
+        <text type="text">What is characteristic of the oral route?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Fast onset of effect</option>
+          <option type="text" answer="true" weight="100.00%">Absorption depends on GI tract secretion and motor function</option>
+          <option type="text" answer="false" weight="-100.00%">A drug reaches the blood passing the liver</option>
+          <option type="text" answer="false" weight="-100.00%">The sterilization of medicinal forms is obligatory</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="14">
+        <text type="text">Tick the feature of the sublingual route:</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Pretty fast absorption</option>
+          <option type="text" answer="false" weight="-100.00%">A drug is exposed to gastric secretion</option>
+          <option type="text" answer="false" weight="-100.00%">A drug is exposed more prominent liver metabolism</option>
+          <option type="text" answer="false" weight="-100.00%">A drug can be administrated in a variety of doses</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="15">
+        <text type="text">Pick out the parenteral route of medicinal agent administration:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Rectal</option>
+          <option type="text" answer="false" weight="-100.00%">Oral</option>
+          <option type="text" answer="false" weight="-100.00%">Sublingual</option>
+          <option type="text" answer="true" weight="100.00%">Inhalation</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="16">
+        <text type="text">Parenteral administration:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Cannot be used with unconsciousness patients</option>
+          <option type="text" answer="false" weight="-100.00%">Generally results in a less accurate dosage than oral administration</option>
+          <option type="text" answer="true" weight="100.00%">Usually produces a more rapid response than oral administration</option>
+          <option type="text" answer="false" weight="-100.00%">Is too slow for emergency use</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="17">
+        <text type="text">What is characteristic of the intramuscular route of drug administration?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Only water solutions can be injected</option>
+          <option type="text" answer="true" weight="100.00%">Oily solutions can be injected</option>
+          <option type="text" answer="false" weight="-100.00%">Opportunity of hypertonic solution injections</option>
+          <option type="text" answer="false" weight="-100.00%">The action develops slower, than at oral administration</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="18">
+        <text type="text">Intravenous injections are more suitable for oily solutions:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">True</option>
+          <option type="text" answer="true" weight="100.00%">False</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="19">
+        <text type="text">Correct statements listing characteristics of a particular route of drug administration include all of the following EXCEPT:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Intravenous administration provides a rapid response</option>
+          <option type="text" answer="false" weight="-100.00%">Intramuscular administration requires a sterile technique</option>
+          <option type="text" answer="true" weight="100.00%">Inhalation provides slow access to the general circulation</option>
+          <option type="text" answer="false" weight="-100.00%">Subcutaneous administration may cause local irritation</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="20">
+        <text type="text">Most of drugs are distributed homogeneously.</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">True</option>
+          <option type="text" answer="true" weight="100.00%">False</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="21">
+        <text type="text">Biological barriers include all except:</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Renal tubules</option>
+          <option type="text" answer="false" weight="-100.00%">Cell membranes</option>
+          <option type="text" answer="false" weight="-100.00%">Capillary walls</option>
+          <option type="text" answer="false" weight="-100.00%">Placenta</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="22">
+        <text type="text">What is the reason of complicated penetration of some drugs through brain-blood barrier?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">High lipid solubility of a drug</option>
+          <option type="text" answer="false" weight="-100.00%">Meningitis</option>
+          <option type="text" answer="true" weight="100.00%">Absence of pores in the brain capillary endothelium</option>
+          <option type="text" answer="false" weight="-100.00%">High endocytosis degree in a brain capillary</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="23">
+        <text type="text">The volume of distribution (V(d) relates:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Single to a daily dose of an administrated drug</option>
+          <option type="text" answer="false" weight="-100.00%">An administrated dose to a body weight</option>
+          <option type="text" answer="false" weight="-100.00%">An uncharged drug reaching the systemic circulation</option>
+          <option type="text" answer="true" weight="100.00%">The amount of a drug in the body to the concentration of a drug in plasma</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="24">
+        <text type="text">For the calculation of the volume of distribution (V(d) one must take into account:</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Concentration of a substance in plasma</option>
+          <option type="text" answer="false" weight="-100.00%">Concentration of substance in urine</option>
+          <option type="text" answer="false" weight="-100.00%">Therapeutical width of drug action</option>
+          <option type="text" answer="false" weight="-100.00%">A daily dose of drug</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="25">
+        <text type="text">A small amount of the volume of distribution is common for lipophylic substances easy penetrating through barriers and widely distributing in plasma, interstitial and cell fluids:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">True</option>
+          <option type="text" answer="true" weight="100.00%">False</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="26">
+        <text type="text">The term “biotransformation” includes the following:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Accumulation of substances in a fat tissue</option>
+          <option type="text" answer="false" weight="-100.00%">Binding of substances with plasma proteins</option>
+          <option type="text" answer="false" weight="-100.00%">Accumulation of substances in a tissue</option>
+          <option type="text" answer="true" weight="100.00%">Process of physicochemical and biochemical alteration of a drug in the body</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="27">
+        <text type="text">Biotransformation of the drugs is to render them:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Less ionized</option>
+          <option type="text" answer="false" weight="-100.00%">More pharmacologically active</option>
+          <option type="text" answer="false" weight="-100.00%">More lipid soluble</option>
+          <option type="text" answer="true" weight="100.00%">Less lipid soluble</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="28">
+        <text type="text">Tick the drug type for which microsomal oxidation is the most prominent:</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Lipid soluble</option>
+          <option type="text" answer="false" weight="-100.00%">Water soluble</option>
+          <option type="text" answer="false" weight="-100.00%">Low molecular weight</option>
+          <option type="text" answer="false" weight="-100.00%">High molecular weight</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="29">
+        <text type="text">Pick out the right statement:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Microsomal oxidation always results in inactivation of a compound</option>
+          <option type="text" answer="false" weight="-100.00%">Microsomal oxidation results in a decrease of compound toxicity</option>
+          <option type="text" answer="true" weight="100.00%">Microsomal oxidation results in an increase of ionization and water solubility of a drug</option>
+          <option type="text" answer="false" weight="-100.00%">Microsomal oxidation results in an increase of lipid solubility of a drug thus its excretion from the organism is facilitated</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="30">
+        <text type="text">Stimulation of liver microsomal enzymes can:</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Require the dose increase of some drugs</option>
+          <option type="text" answer="false" weight="-100.00%">Require the dose decrease of some drugs</option>
+          <option type="text" answer="false" weight="-100.00%">Prolong the duration of the action of a drug</option>
+          <option type="text" answer="false" weight="-100.00%">Intensify the unwanted reaction of a drug</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="31">
+        <text type="text">Metabolic transformation (phase 1) is:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Acetylation and methylation of substances</option>
+          <option type="text" answer="true" weight="100.00%">Transformation of substances due to oxidation, reduction or hydrolysis</option>
+          <option type="text" answer="false" weight="-100.00%">Glucuronide formation</option>
+          <option type="text" answer="false" weight="-100.00%">Binding to plasma proteins</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="32">
+        <text type="text">Biotransformation of a medicinal substance results in:</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Faster urinary excretion</option>
+          <option type="text" answer="false" weight="-100.00%">Slower urinary excretion</option>
+          <option type="text" answer="false" weight="-100.00%">Easier distribution in organism</option>
+          <option type="text" answer="false" weight="-100.00%">Higher binding to membranes</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="33">
+        <text type="text">Conjugation is:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Process of drug reduction by special enzymes</option>
+          <option type="text" answer="false" weight="-100.00%">Process of drug oxidation by special oxidases</option>
+          <option type="text" answer="true" weight="100.00%">Coupling of a drug with an endogenous substrate</option>
+          <option type="text" answer="false" weight="-100.00%">Solubilization in lipids</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="34">
+        <text type="text">Which of the following processes proceeds in the second phase of biotransformation?</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Acetylation</option>
+          <option type="text" answer="false" weight="-100.00%">Reduction</option>
+          <option type="text" answer="false" weight="-100.00%">Oxidation</option>
+          <option type="text" answer="false" weight="-100.00%">Hydrolysis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="35">
+        <text type="text">Conjugation of a drug includes the following EXCEPT:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Glucoronidation</option>
+          <option type="text" answer="false" weight="-100.00%">Sulfate formation</option>
+          <option type="text" answer="true" weight="100.00%">Hydrolysis</option>
+          <option type="text" answer="false" weight="-100.00%">Methylation</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="36">
+        <text type="text">Metabolic transformation and conjugation usually results in an increase of a substance biological activity:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">True</option>
+          <option type="text" answer="true" weight="100.00%">False</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="37">
+        <text type="text">In case of liver disorders accompanied by a decline in microsomal enzyme activity the duration of action of some drugs is:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Decreased</option>
+          <option type="text" answer="true" weight="100.00%">Enlarged</option>
+          <option type="text" answer="false" weight="-100.00%">Remained unchanged</option>
+          <option type="text" answer="false" weight="-100.00%">Changed insignificantly</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="38">
+        <text type="text">Half life (t ½) is the time required to:</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Change the amount of a drug in plasma by half during elimination</option>
+          <option type="text" answer="false" weight="-100.00%">Metabolize a half of an introduced drug into the active metabolite</option>
+          <option type="text" answer="false" weight="-100.00%">Absorb a half of an introduced drug</option>
+          <option type="text" answer="false" weight="-100.00%">Bind a half of an introduced drug to plasma proteins</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="39">
+        <text type="text">Half life (t ½) doesn’t depend on:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Biotransformation</option>
+          <option type="text" answer="true" weight="100.00%">Time of drug absorption</option>
+          <option type="text" answer="false" weight="-100.00%">Concentration of a drug in plasma</option>
+          <option type="text" answer="false" weight="-100.00%">Rate of drug elimination</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="40">
+        <text type="text">Elimination is expressed as follows:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Rate of renal tubular reabsorption</option>
+          <option type="text" answer="false" weight="-100.00%">Clearance speed of some volume of blood from substance</option>
+          <option type="text" answer="false" weight="-100.00%">Time required to decrease the amount of drug in plasma by one-half</option>
+          <option type="text" answer="true" weight="100.00%">Clearance of an organism from a xenobiotic</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="41">
+        <text type="text">Elimination rate constant (Kelim) is defined by the following parameter:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Rate of absorption</option>
+          <option type="text" answer="false" weight="-100.00%">Maximal concentration of a substance in plasma</option>
+          <option type="text" answer="false" weight="-100.00%">Highest single dose</option>
+          <option type="text" answer="true" weight="100.00%">Half life (t ½)</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="42">
+        <text type="text">The most rapid eliminated drugs are those with high glomerular filtration rate and actively secreted but aren’t passively reabsorbed:</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">True</option>
+          <option type="text" answer="false" weight="-100.00%">False</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="43">
+        <text type="text">Systemic clearance (CLs) is related with:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Only the concentration of substances in plasma</option>
+          <option type="text" answer="false" weight="-100.00%">Only the elimination rate constant</option>
+          <option type="text" answer="true" weight="100.00%">Volume of distribution, half life and elimination rate constant</option>
+          <option type="text" answer="false" weight="-100.00%">Bioavailability and half life</option>
+        </options>
+        <reason type="text" />
+      </question>
+    </section>
+  </sections>
+</examination>

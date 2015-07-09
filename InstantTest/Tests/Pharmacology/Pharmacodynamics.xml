@@ -1,0 +1,422 @@
+<examination duration="0:10:0" kind="Bank" draw="10" instruction="Choose one correct option from the following options" subject="Pharmacodynamics">
+  <sections>
+    <section format="multiple choice" instruction="">
+      <question number="1">
+        <text type="text">Pharmacodynamics involves the study of following EXCEPT:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Biological and therapeutic effects of drugs</option>
+          <option type="text" answer="true" weight="100.00%">Absorption and distribution of drugs</option>
+          <option type="text" answer="false" weight="-100.00%">Mechanisms of drug action</option>
+          <option type="text" answer="false" weight="-100.00%">Drug interactions</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="2">
+        <text type="text">Pharmacodynamics involves the study of following?</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Mechanisms of drug action</option>
+          <option type="text" answer="false" weight="-100.00%">Biotransformation of drugs in the organism</option>
+          <option type="text" answer="false" weight="-100.00%">Distribution of drugs in the organism</option>
+          <option type="text" answer="false" weight="-100.00%">Excretion of drug from the organism</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="3">
+        <text type="text">Pharmacodynamics involves the following?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Information about main mechanisms of drug absorption</option>
+          <option type="text" answer="true" weight="100.00%">Information about unwanted effects</option>
+          <option type="text" answer="false" weight="-100.00%">Information about biological barriers</option>
+          <option type="text" answer="false" weight="-100.00%">Information about excretion of a drug from the organism</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="4">
+        <text type="text">Pick out the answer which is the most appropriate to the term “receptor”</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">All types of ion channels modulated by a drug</option>
+          <option type="text" answer="false" weight="-100.00%">Enzymes of oxidizing-reducing reactions activated by a drug</option>
+          <option type="text" answer="true" weight="100.00%">Active macromolecular components of a cell or an organism which a drug molecule has to combine with in order to elicit its specific effect</option>
+          <option type="text" answer="false" weight="-100.00%">Carriers activated by a drug</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="5">
+        <text type="text">What does “affinity” mean?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">A measure of how tightly a drug binds to plasma proteins</option>
+          <option type="text" answer="true" weight="100.00%">A measure of how tightly a drug binds to a receptor</option>
+          <option type="text" answer="false" weight="-100.00%">A measure of inhibiting potency of a drug</option>
+          <option type="text" answer="false" weight="-100.00%">A measure of bioavailability of a drug</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="6">
+        <text type="text">Target proteins which a drug molecule binds are:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Only receptors</option>
+          <option type="text" answer="false" weight="-100.00%">Only ion channels</option>
+          <option type="text" answer="false" weight="-100.00%">Only carriers</option>
+          <option type="text" answer="true" weight="100.00%">All of these</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="7">
+        <text type="text">An agonist is a substance that:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Interacts with the receptor without producing any effect</option>
+          <option type="text" answer="true" weight="100.00%">Interacts with the receptor and initiates changes in cell function, producing various effects</option>
+          <option type="text" answer="false" weight="-100.00%">Increases concentration of another substance to produce effect</option>
+          <option type="text" answer="false" weight="-100.00%">Interacts with plasma proteins and doesn’t produce any effect</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="8">
+        <text type="text">If an agonist can produce maximal effects and has high efficacy it’s called:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Partial agonist</option>
+          <option type="text" answer="false" weight="-100.00%">Antagonist</option>
+          <option type="text" answer="false" weight="-100.00%">Agonist-antagonist</option>
+          <option type="text" answer="true" weight="100.00%">Full agonist</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="9">
+        <text type="text">If an agonist can produce submaximal effects and has moderate efficacy it’s called:</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Partial agonist</option>
+          <option type="text" answer="false" weight="-100.00%">Antagonist</option>
+          <option type="text" answer="false" weight="-100.00%">Agonist-antagonist</option>
+          <option type="text" answer="false" weight="-100.00%">Full agonist</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="10">
+        <text type="text">An antagonist is a substance that:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Binds to the receptors and initiates changes in cell function, producing maximal effect</option>
+          <option type="text" answer="false" weight="-100.00%">Binds to the receptors and initiates changes in cell function, producing submaximal effect</option>
+          <option type="text" answer="false" weight="-100.00%">Interacts with plasma proteins and doesn’t produce any effect</option>
+          <option type="text" answer="true" weight="100.00%">Binds to the receptors without directly altering their functions</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="11">
+        <text type="text">A competitive antagonist is a substance that:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Interacts with receptors and produces submaximal effect</option>
+          <option type="text" answer="true" weight="100.00%">Binds to the same receptor site and progressively inhibits the agonist response</option>
+          <option type="text" answer="false" weight="-100.00%">Binds to the nonspecific sites of tissue</option>
+          <option type="text" answer="false" weight="-100.00%">Binds to one receptor subtype as an agonist and to another as an antagonist</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="12">
+        <text type="text">The substance binding to one receptor subtype as an agonist and to another as an antagonist is called:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Competitive antagonist</option>
+          <option type="text" answer="false" weight="-100.00%">Irreversible antagonist</option>
+          <option type="text" answer="true" weight="100.00%">Agonist-antagonist</option>
+          <option type="text" answer="false" weight="-100.00%">Partial agonist</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="13">
+        <text type="text">Irreversible interaction of an antagonist with a receptor is due to:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Ionic bonds</option>
+          <option type="text" answer="false" weight="-100.00%">Hydrogen bonds</option>
+          <option type="text" answer="true" weight="100.00%">Covalent bonds</option>
+          <option type="text" answer="false" weight="-100.00%">All of the above</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="14">
+        <text type="text">Mechanisms of transmembrane signaling are the following EXCEPT:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Transmembrane receptors that bind and stimulate a protein tyrosine kinase</option>
+          <option type="text" answer="true" weight="100.00%">Gene replacement by the introduction of a therapeutic gene to correct a genetic effect</option>
+          <option type="text" answer="false" weight="-100.00%">Ligand-gated ion channels that can be induced to open or close by binding a ligand</option>
+          <option type="text" answer="false" weight="-100.00%">Transmembrane receptor protein that stimulates a GTP-binding signal transducer protein (G-protein) which in turn generates an intracellular second messenger</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="15">
+        <text type="text">Tick the second messenger of G-protein-coupled (metabotropi(c) receptor:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Adenylyl cyclase</option>
+          <option type="text" answer="false" weight="-100.00%">Sodium ions</option>
+          <option type="text" answer="false" weight="-100.00%">receptor:</option>
+          <option type="text" answer="true" weight="100.00%">cAMP</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="16">
+        <text type="text">Tick the substance which changes the activity of an effector element but doesn’t belong to second messengers:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">cAMP</option>
+          <option type="text" answer="false" weight="-100.00%">cGMP</option>
+          <option type="text" answer="true" weight="100.00%">G–protein</option>
+          <option type="text" answer="false" weight="-100.00%">Calcium ions</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="17">
+        <text type="text">The increase of second messengers’ (cAMP, cGMP, Ca2+ etc.) concentration leads to:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Inhibition of intracellular protein kinases and protein phosphorylation</option>
+          <option type="text" answer="true" weight="100.00%">Proteinkinases activation and protein phosphorylation</option>
+          <option type="text" answer="false" weight="-100.00%">Blocking of interaction between a receptor and an effector</option>
+          <option type="text" answer="false" weight="-100.00%">Antagonism with endogenous ligands</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="18">
+        <text type="text">Tick the substances whose mechanisms are based on interaction with ion channels</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Sodium channel blockers</option>
+          <option type="text" answer="false" weight="-100.00%">Calcium channel blockers</option>
+          <option type="text" answer="false" weight="-100.00%">Potassium channels activators</option>
+          <option type="text" answer="true" weight="100.00%">All of these</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="19">
+        <text type="text">All of the following statements about efficacy and potency are true EXCEPT:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Efficacy is usually a more important clinical consideration than potency</option>
+          <option type="text" answer="false" weight="-100.00%">Efficacy is the maximum effect of a drug</option>
+          <option type="text" answer="false" weight="-100.00%">Potency is a comparative measure, refers to the different doses of two drugs that are needed to produce the same effect</option>
+          <option type="text" answer="true" weight="100.00%">The ED50 is a measure of drug’s efficacy</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="20">
+        <text type="text">Give the definition for a therapeutical dose:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">The amount of a substance to produce the minimal biological effect</option>
+          <option type="text" answer="false" weight="-100.00%">The amount of a substance to produce effects hazardous for an organism</option>
+          <option type="text" answer="true" weight="100.00%">The amount of a substance to produce the required effect in most patients</option>
+          <option type="text" answer="false" weight="-100.00%">The amount of a substance to accelerate an increase of concentration of medicine in an organism</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="21">
+        <text type="text">Pick out the correct definition of a toxic dose:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">The amount of substance to produce the minimal biological effect</option>
+          <option type="text" answer="true" weight="100.00%">The amount of substance to produce effects hazardous for an organism</option>
+          <option type="text" answer="false" weight="-100.00%">The amount of substance to produce the necessary effect in most of patients</option>
+          <option type="text" answer="false" weight="-100.00%">The amount of substance to fast creation of high concentration of medicine in an organism</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="22">
+        <text type="text">Which effect may lead to toxic reactions when a drug is taken continuously or repeatedly?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Refractoriness</option>
+          <option type="text" answer="true" weight="100.00%">Cumulative effect</option>
+          <option type="text" answer="false" weight="-100.00%">Tolerance</option>
+          <option type="text" answer="false" weight="-100.00%">Tachyphylaxis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="23">
+        <text type="text">What term is used to describe a more gradual decrease in responsiveness to a drug, taking days or weeks to develop?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Refractoriness</option>
+          <option type="text" answer="false" weight="-100.00%">Cumulative effect</option>
+          <option type="text" answer="true" weight="100.00%">Tolerance</option>
+          <option type="text" answer="false" weight="-100.00%">Tachyphylaxis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="24">
+        <text type="text">What term is used to describe a decrease in responsiveness to a drug which develops in a few minutes?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Refractoriness</option>
+          <option type="text" answer="false" weight="-100.00%">Cumulative effect</option>
+          <option type="text" answer="false" weight="-100.00%">Tolerance</option>
+          <option type="text" answer="true" weight="100.00%">Tachyphylaxis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="25">
+        <text type="text">Tachyphylaxis is:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">A drug interaction between two similar types of drugs</option>
+          <option type="text" answer="true" weight="100.00%">Very rapidly developing tolerance</option>
+          <option type="text" answer="false" weight="-100.00%">A decrease in responsiveness to a drug, taking days or weeks to develop</option>
+          <option type="text" answer="false" weight="-100.00%">None of the above</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="26">
+        <text type="text">Drug resistance is a term used to describe the loss of effectiveness of antimicrobial or antitumour drugs. This consideration is:</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">True</option>
+          <option type="text" answer="false" weight="-100.00%">False</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="27">
+        <text type="text">Tolerance and drug resistance can be a consequence of:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Drug dependence</option>
+          <option type="text" answer="true" weight="100.00%">Increased metabolic degradation</option>
+          <option type="text" answer="false" weight="-100.00%">Depressed renal drug excretion</option>
+          <option type="text" answer="false" weight="-100.00%">Activation of a drug after hepatic first-pass</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="28">
+        <text type="text">Tolerance and drug resistance can be a consequence of:</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Change in receptors, loss of them or exhaustion of mediators</option>
+          <option type="text" answer="false" weight="-100.00%">Increased receptor sensitivity</option>
+          <option type="text" answer="false" weight="-100.00%">Decreased metabolic degradation</option>
+          <option type="text" answer="false" weight="-100.00%">Decreased renal tubular secretion</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="29">
+        <text type="text">Tolerance develops because of:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Diminished absorption</option>
+          <option type="text" answer="false" weight="-100.00%">Rapid excretion of a drug</option>
+          <option type="text" answer="false" weight="-100.00%">Both of the above</option>
+          <option type="text" answer="true" weight="100.00%">None of these</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="30">
+        <text type="text">Dependence is often associated with tolerance to a drug, a physical abstinence syndrome, and psychological dependence (craving). This consideration is:</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">True</option>
+          <option type="text" answer="false" weight="-100.00%">False</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="31">
+        <text type="text">The situation when failure to continue administering the drug results in serious psychological and somatic disturbances is called?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Tachyphylaxis</option>
+          <option type="text" answer="false" weight="-100.00%">Sensibilization</option>
+          <option type="text" answer="true" weight="100.00%">Abstinence syndrome</option>
+          <option type="text" answer="false" weight="-100.00%">Idiosyncrasy</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="32">
+        <text type="text">What is the type of drug-to-drug interaction which is connected with processes of absorption, biotransformation, distribution and excretion?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Pharmacodynamic interaction</option>
+          <option type="text" answer="false" weight="-100.00%">Physical and chemical interaction</option>
+          <option type="text" answer="false" weight="-100.00%">Pharmaceutical interaction</option>
+          <option type="text" answer="true" weight="100.00%">Pharmacokinetic interaction</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="33">
+        <text type="text">What is the type of drug-to-drug interaction which is the result of interaction at receptor, cell, enzyme or organ level?</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Pharmacodynamic interaction</option>
+          <option type="text" answer="false" weight="-100.00%">Physical and chemical interaction</option>
+          <option type="text" answer="false" weight="-100.00%">Pharmaceutical interaction</option>
+          <option type="text" answer="false" weight="-100.00%">Pharmacokinetic interaction</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="34">
+        <text type="text">What phenomenon can occur in case of using a combination of drugs?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Tolerance</option>
+          <option type="text" answer="false" weight="-100.00%">Tachyphylaxis</option>
+          <option type="text" answer="false" weight="-100.00%">Accumulation</option>
+          <option type="text" answer="true" weight="100.00%">Synergism</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="35">
+        <text type="text">If two drugs with the same effect, taken together, produce an effect that is equal in magnitude to the sum of the effects of the drugs given individually, it is called as:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Antagonism</option>
+          <option type="text" answer="false" weight="-100.00%">Potentiation</option>
+          <option type="text" answer="true" weight="100.00%">Additive effect</option>
+          <option type="text" answer="false" weight="-100.00%">None of the above</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="36">
+        <text type="text">What does the term “potentiation” mean?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Cumulative ability of a drug</option>
+          <option type="text" answer="false" weight="-100.00%">Hypersensitivity to a drug</option>
+          <option type="text" answer="false" weight="-100.00%">Fast tolerance developing</option>
+          <option type="text" answer="true" weight="100.00%">Intensive increase of drug effects due to their combination</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="37">
+        <text type="text">The types of antagonism are:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Summarized</option>
+          <option type="text" answer="false" weight="-100.00%">Potentiated</option>
+          <option type="text" answer="false" weight="-100.00%">Additive</option>
+          <option type="text" answer="true" weight="100.00%">Competitive</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="38">
+        <text type="text">The term “chemical antagonism” means that:</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">two drugs combine with one another to form an inactive compound</option>
+          <option type="text" answer="false" weight="-100.00%">two drugs combine with one another to form a more active compound</option>
+          <option type="text" answer="false" weight="-100.00%">two drugs combine with one another to form a more water soluble compound</option>
+          <option type="text" answer="false" weight="-100.00%">two drugs combine with one another to form a more fat soluble compound</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="39">
+        <text type="text">A teratogenic action is:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Toxic action on the liver</option>
+          <option type="text" answer="true" weight="100.00%">Negative action on the fetus causing fetal malformation</option>
+          <option type="text" answer="false" weight="-100.00%">Toxic action on blood system</option>
+          <option type="text" answer="false" weight="-100.00%">Toxic action on kidneys</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="40">
+        <text type="text">Characteristic unwanted reaction which isn’t related to a dose or to a pharmacodynamic property of a drug is called:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Idiosyncrasy</option>
+          <option type="text" answer="true" weight="100.00%">Hypersensitivity</option>
+          <option type="text" answer="false" weight="-100.00%">Tolerance</option>
+          <option type="text" answer="false" weight="-100.00%">Teratogenic action</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="41">
+        <text type="text">Idiosyncratic reaction of a drug is:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">A type of hypersensitivity reaction</option>
+          <option type="text" answer="false" weight="-100.00%">A type of drug antagonism</option>
+          <option type="text" answer="true" weight="100.00%">Unpredictable, inherent, qualitatively abnormal reaction to a drug</option>
+          <option type="text" answer="false" weight="-100.00%">Quantitatively exaggerated response</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="42">
+        <text type="text">Therapeutic index (TI) is:</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">A ratio used to evaluate the safety and usefulness of a drug for indication</option>
+          <option type="text" answer="false" weight="-100.00%">A ratio used to evaluate the effectiveness of a drug</option>
+          <option type="text" answer="false" weight="-100.00%">A ratio used to evaluate the bioavailability of a drug</option>
+          <option type="text" answer="false" weight="-100.00%">A ratio used to evaluate the elimination of a drug</option>
+        </options>
+        <reason type="text" />
+      </question>
+    </section>
+  </sections>
+</examination>

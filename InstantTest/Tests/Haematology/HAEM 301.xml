@@ -1,0 +1,1336 @@
+<examination duration="0:10:0" kind="Bank" draw="10" instruction="Choose one correct option from the following options" subject="">
+  <sections>
+    <section format="multiple choice" instruction="">
+      <question number="1">
+        <text type="text">Red cells stay in the red pulp for up to</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">20 mins</option>
+          <option type="text" answer="false" weight="-100.00%">30 mins</option>
+          <option type="text" answer="true" weight="100.00%">40 mins</option>
+          <option type="text" answer="false" weight="-100.00%">50 mins</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="2">
+        <text type="text">In which of the following diseases is the spleen massively enlarged</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Hereditary spherocytosis</option>
+          <option type="text" answer="true" weight="100.00%">Thalassemia major</option>
+          <option type="text" answer="false" weight="-100.00%">Malaria</option>
+          <option type="text" answer="false" weight="-100.00%">Sickle cell anaemia</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="3">
+        <text type="text">Which of the following is not a function of the spleen</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Storage of RBC</option>
+          <option type="text" answer="false" weight="-100.00%">Stores platelets</option>
+          <option type="text" answer="false" weight="-100.00%">Phagocytic functions</option>
+          <option type="text" answer="false" weight="-100.00%">Extramedullaryhaemopoiesis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="4">
+        <text type="text">Which of the following is not true of adult Aplastic anaemia</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Prolonged periods of fatigue</option>
+          <option type="text" answer="false" weight="-100.00%">Increased risk of Infections</option>
+          <option type="text" answer="true" weight="100.00%">Positive Comb’s test</option>
+          <option type="text" answer="false" weight="-100.00%">Bleeding manifestations</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="5">
+        <text type="text">Features of haemolysis doesnot include</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Bilirubinuria</option>
+          <option type="text" answer="false" weight="-100.00%">Increased LDH</option>
+          <option type="text" answer="false" weight="-100.00%">Low Haptoglobin</option>
+          <option type="text" answer="false" weight="-100.00%">High Urine Urobilinogen</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="6">
+        <text type="text">This is a distinguishing feature of Intravascular haemolysis from extravascular haemolysis.</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Increased plasma Hb (Haemoglobinaemia)</option>
+          <option type="text" answer="false" weight="-100.00%">Increased Haptoglobin</option>
+          <option type="text" answer="false" weight="-100.00%">High Stercobilinogen</option>
+          <option type="text" answer="false" weight="-100.00%">High LDH</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="7">
+        <text type="text">Which of the following has the lowest Hb?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">HbAA</option>
+          <option type="text" answer="false" weight="-100.00%">HbAC</option>
+          <option type="text" answer="false" weight="-100.00%">HbAS</option>
+          <option type="text" answer="true" weight="100.00%">HbSS</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="8">
+        <text type="text">Which of the following organs are prone to permanent damage in Sickle cell disease</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Liver</option>
+          <option type="text" answer="false" weight="-100.00%">Ovary</option>
+          <option type="text" answer="false" weight="-100.00%">Lung</option>
+          <option type="text" answer="false" weight="-100.00%">Heart</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="9">
+        <text type="text">Which of these crises does not lead to severe anaemia in sickle cell disease</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Hypoxia</option>
+          <option type="text" answer="false" weight="-100.00%">Oxygenation impairment</option>
+          <option type="text" answer="true" weight="100.00%">Vasooclusive crises</option>
+          <option type="text" answer="false" weight="-100.00%">Co-infection with parvovirus B19</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="10">
+        <text type="text">Which is common to both Haemolytic Disease of the newborn and Homozygous α thalassemia</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Reduced globin chain synthesis</option>
+          <option type="text" answer="false" weight="-100.00%">Deficiency of an essential vitamin</option>
+          <option type="text" answer="true" weight="100.00%">Hydropsfetalis</option>
+          <option type="text" answer="false" weight="-100.00%">End organ damage</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="11">
+        <text type="text">The following organ is raerely damaged by transfusional iron overload</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Liver</option>
+          <option type="text" answer="true" weight="100.00%">Kidneys</option>
+          <option type="text" answer="false" weight="-100.00%">Heart</option>
+          <option type="text" answer="false" weight="-100.00%">Pancreas</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="12">
+        <text type="text">Which of the following does not result in normochromic or normocytic anaemia</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Chronic Schistosomasis infection</option>
+          <option type="text" answer="false" weight="-100.00%">Hereditary elliptocytosis</option>
+          <option type="text" answer="false" weight="-100.00%">Haemolytic Disease of The newborn</option>
+          <option type="text" answer="false" weight="-100.00%">Hereditary Spherocytosis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="13">
+        <text type="text">Which of the following enzymes does not contain Haem?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Cytochrome C</option>
+          <option type="text" answer="false" weight="-100.00%">Peroxidase</option>
+          <option type="text" answer="true" weight="100.00%">Biliverdin reductase</option>
+          <option type="text" answer="false" weight="-100.00%">Catalase</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="14">
+        <text type="text">The α-chain of Hb is located on which chromosome</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Chr. 1</option>
+          <option type="text" answer="false" weight="-100.00%">Chr. 2</option>
+          <option type="text" answer="false" weight="-100.00%">Chr. 11</option>
+          <option type="text" answer="true" weight="100.00%">Chr. 16</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="15">
+        <text type="text">Which of the following enzyme is involved in red cell destruction?</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Haem oxygenase</option>
+          <option type="text" answer="false" weight="-100.00%">Haem synthetase</option>
+          <option type="text" answer="false" weight="-100.00%">ALAdehydratase</option>
+          <option type="text" answer="false" weight="-100.00%">ALAsynthetase</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="16">
+        <text type="text">Increased red cell destruction will lead to</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Increased urobilin in urine</option>
+          <option type="text" answer="false" weight="-100.00%">Increased plasma haptoglobin</option>
+          <option type="text" answer="false" weight="-100.00%">Decreased serum LDH</option>
+          <option type="text" answer="false" weight="-100.00%">Increased RBC survival</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="17">
+        <text type="text">This transports iron in plasma</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">HFE</option>
+          <option type="text" answer="false" weight="-100.00%">Ferroportin</option>
+          <option type="text" answer="false" weight="-100.00%">Feritin</option>
+          <option type="text" answer="true" weight="100.00%">Transferrin</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="18">
+        <text type="text">The molecular weight of Iron is</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">36 kDa</option>
+          <option type="text" answer="false" weight="-100.00%">46 kDa</option>
+          <option type="text" answer="true" weight="100.00%">56 kDa</option>
+          <option type="text" answer="false" weight="-100.00%">66 kDa</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="19">
+        <text type="text">The following causes Iron loss</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Pregnancy</option>
+          <option type="text" answer="true" weight="100.00%">Menstruation</option>
+          <option type="text" answer="false" weight="-100.00%">Repeated Red cell transfusion</option>
+          <option type="text" answer="false" weight="-100.00%">Infancy</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="20">
+        <text type="text">Factors that favor Iron absorption include the following except</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Iron overload</option>
+          <option type="text" answer="false" weight="-100.00%">Iron deficiency</option>
+          <option type="text" answer="false" weight="-100.00%">Increased erythropoiesis</option>
+          <option type="text" answer="false" weight="-100.00%">Pregnancy</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="21">
+        <text type="text">This glycoprotein is released in inflammation which impairs Iron absorption by inactivating ferroportin.</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Caeruloplasmin</option>
+          <option type="text" answer="true" weight="100.00%">Hepcidin</option>
+          <option type="text" answer="false" weight="-100.00%">Hephaesten</option>
+          <option type="text" answer="false" weight="-100.00%">Ferroportin</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="22">
+        <text type="text">A measure of this in blood is the best serum marker of increased blood iron</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Ferritin</option>
+          <option type="text" answer="false" weight="-100.00%">Haemoglobin</option>
+          <option type="text" answer="false" weight="-100.00%">Serum iron</option>
+          <option type="text" answer="true" weight="100.00%">Transferrin saturation</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="23">
+        <text type="text">A patient comes in with an MCV of 50fL and MCH of 22pg. What could be the diagnosis?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Iron overload</option>
+          <option type="text" answer="false" weight="-100.00%">Vit B12 deficiency</option>
+          <option type="text" answer="false" weight="-100.00%">Folic acid deficiency</option>
+          <option type="text" answer="true" weight="100.00%">Iron deficiency anaemia</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="24">
+        <text type="text">A patient presents with a post cricoid web. Which of the following could be seen on his blood film?</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Pencil cells</option>
+          <option type="text" answer="false" weight="-100.00%">Which of the following could be seen on his blood film?</option>
+          <option type="text" answer="false" weight="-100.00%">Macrocytes</option>
+          <option type="text" answer="false" weight="-100.00%">Tear drop cells</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="25">
+        <text type="text">The following can result in hypochromic cells except.</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">IDA</option>
+          <option type="text" answer="false" weight="-100.00%">Sickle cell anaemia</option>
+          <option type="text" answer="false" weight="-100.00%">Anaemia of chronic disease caused by Hepcidin</option>
+          <option type="text" answer="true" weight="100.00%">Megaloblastic anaemia</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="26">
+        <text type="text">Cells of different sizes are referred to as</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Poilikocytes</option>
+          <option type="text" answer="true" weight="100.00%">Anisocytes</option>
+          <option type="text" answer="false" weight="-100.00%">Acanthocytes</option>
+          <option type="text" answer="false" weight="-100.00%">Macrocytes</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="27">
+        <text type="text">The following is administered in Fe overload</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Dexferoxamine</option>
+          <option type="text" answer="false" weight="-100.00%">Ferrous salts</option>
+          <option type="text" answer="false" weight="-100.00%">Iron complexes</option>
+          <option type="text" answer="false" weight="-100.00%">Animal foods</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="28">
+        <text type="text">The following are sources of vitamin-B12 except</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Meat</option>
+          <option type="text" answer="false" weight="-100.00%">Liver</option>
+          <option type="text" answer="false" weight="-100.00%">Sea food</option>
+          <option type="text" answer="true" weight="100.00%">Green vegetables</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="29">
+        <text type="text">This group of people are at risk of vitamin-B12 deficiency</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Pregnant women</option>
+          <option type="text" answer="false" weight="-100.00%">Children</option>
+          <option type="text" answer="false" weight="-100.00%">Athletic men</option>
+          <option type="text" answer="true" weight="100.00%">Vegans</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="30">
+        <text type="text">Folate trap is as result of</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Deficiency of Fe2+</option>
+          <option type="text" answer="false" weight="-100.00%">Deficiency of Folic acid</option>
+          <option type="text" answer="true" weight="100.00%">Vitamin-B12 deficiency</option>
+          <option type="text" answer="false" weight="-100.00%">High intake of animal foods</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="31">
+        <text type="text">Which of the following is required for the absorption of vitamin-B12?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">HCl</option>
+          <option type="text" answer="false" weight="-100.00%">Transferrin</option>
+          <option type="text" answer="true" weight="100.00%">Intrinsic factor</option>
+          <option type="text" answer="false" weight="-100.00%">Bile salts</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="32">
+        <text type="text">A patient with resected ileum is most likely to present with</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Megaloblastic anaemia</option>
+          <option type="text" answer="false" weight="-100.00%">Haemolytic anaemia</option>
+          <option type="text" answer="false" weight="-100.00%">Iron Deficiency anaemia</option>
+          <option type="text" answer="false" weight="-100.00%">Autoimmune Haemolysis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="33">
+        <text type="text">Deficiency of Folate results in</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Spina bifida (Neural tube defect)</option>
+          <option type="text" answer="false" weight="-100.00%">Degeneration of the cord</option>
+          <option type="text" answer="false" weight="-100.00%">Koilonychia</option>
+          <option type="text" answer="false" weight="-100.00%">Paterson-Kelly syndrome</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="34">
+        <text type="text">Differential diagnosis of Macrocytosis includes the following except</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Liver disease</option>
+          <option type="text" answer="false" weight="-100.00%">Alcohol</option>
+          <option type="text" answer="false" weight="-100.00%">Folate deficiency</option>
+          <option type="text" answer="true" weight="100.00%">Hereditary spherocytosis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="35">
+        <text type="text">Oval Macrocytosis presents with</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Hypersegmented neutrophils in blood and Hypercellular marrow with megaloblasts and giant metamyelocytes</option>
+          <option type="text" answer="false" weight="-100.00%">Hypocellular marrow</option>
+          <option type="text" answer="false" weight="-100.00%">Iron depleted marrow</option>
+          <option type="text" answer="false" weight="-100.00%">Hyperchromic red cells</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="36">
+        <text type="text">The following are features of intravascular heamolysis</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Reticulocytosis</option>
+          <option type="text" answer="false" weight="-100.00%">Increased Urine urobilinogen</option>
+          <option type="text" answer="true" weight="100.00%">Haemoglobinaemia(free Hb in plasma)</option>
+          <option type="text" answer="false" weight="-100.00%">Decreased LDH</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="37">
+        <text type="text">Bite or (Blister or Basket) cells are characteristic of</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">G6PD deficiency</option>
+          <option type="text" answer="false" weight="-100.00%">Thalassemia major</option>
+          <option type="text" answer="false" weight="-100.00%">Sickle cell anaemia</option>
+          <option type="text" answer="false" weight="-100.00%">Paroxysmal Nocturnal Haemoglobinuria</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="38">
+        <text type="text">In sickle cell anaemia, the mutation is</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Glutamic acid for Valine at position 6 β- chain</option>
+          <option type="text" answer="true" weight="100.00%">Valine for Glutamic acid at position 6 β- chain</option>
+          <option type="text" answer="false" weight="-100.00%">Valine for Glutamine at position 6 β- chain</option>
+          <option type="text" answer="false" weight="-100.00%">Glutamine for Valine at position 6 β- chain</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="39">
+        <text type="text">Clinical features of sickle cell anaemia include</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Neuropathy</option>
+          <option type="text" answer="false" weight="-100.00%">Osteoporosis</option>
+          <option type="text" answer="true" weight="100.00%">Priapism</option>
+          <option type="text" answer="false" weight="-100.00%">Ovarian failure</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="40">
+        <text type="text">The predominant Hb type in β- thalassemia major is</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Hb F</option>
+          <option type="text" answer="false" weight="-100.00%">Hb A</option>
+          <option type="text" answer="false" weight="-100.00%">Hb A2</option>
+          <option type="text" answer="false" weight="-100.00%">Hb A3</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="41">
+        <text type="text">The normal red cell life span is about:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">120 minutes</option>
+          <option type="text" answer="false" weight="-100.00%">120 hours</option>
+          <option type="text" answer="true" weight="100.00%">120 days</option>
+          <option type="text" answer="false" weight="-100.00%">120 weeks</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="42">
+        <text type="text">What is the globin portion of the haemoglobin molecule made up of</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">2β and 2α chains</option>
+          <option type="text" answer="false" weight="-100.00%">2β and 4α chains</option>
+          <option type="text" answer="false" weight="-100.00%">1β and 2α chains</option>
+          <option type="text" answer="false" weight="-100.00%">4β and 4α chains</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="43">
+        <text type="text">The types of haemoglobin found in adults does not include</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">HbF</option>
+          <option type="text" answer="false" weight="-100.00%">Hb A</option>
+          <option type="text" answer="true" weight="100.00%">Portland</option>
+          <option type="text" answer="false" weight="-100.00%">Hb A2</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="44">
+        <text type="text">In the breakdown of haemoglobin, the earliest step among the following is</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Liberation of iron from haem.</option>
+          <option type="text" answer="false" weight="-100.00%">Formation of protoporphyrin from globin</option>
+          <option type="text" answer="false" weight="-100.00%">Formation of conjugation bilirubin</option>
+          <option type="text" answer="false" weight="-100.00%">Conversion of bilirubin to stercobilinogen</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="45">
+        <text type="text">Red cell production by the bone marrow</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Occurs once every day</option>
+          <option type="text" answer="false" weight="-100.00%">Is at a constant rate</option>
+          <option type="text" answer="true" weight="100.00%">Increases in haemolytic anaemia</option>
+          <option type="text" answer="false" weight="-100.00%">Decreases in haemolytic anaemia</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="46">
+        <text type="text">The following are features of haemolytic anaemia</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Coca- cola urine</option>
+          <option type="text" answer="false" weight="-100.00%">Decreased Reticulo-endothelial (R/E) system activity</option>
+          <option type="text" answer="false" weight="-100.00%">Hyposplenism</option>
+          <option type="text" answer="false" weight="-100.00%">Increased Haptoglobin</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="47">
+        <text type="text">The process of taking a sample of venous blood is known as</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Aspiration</option>
+          <option type="text" answer="false" weight="-100.00%">Biopsy</option>
+          <option type="text" answer="true" weight="100.00%">Venesection</option>
+          <option type="text" answer="false" weight="-100.00%">Venogram</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="48">
+        <text type="text">A trephine bone marrow biopsy is required in which of the following?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Sickle cell anaemia</option>
+          <option type="text" answer="false" weight="-100.00%">Megaloblastic anaemia</option>
+          <option type="text" answer="false" weight="-100.00%">Iron deficiency anaemia</option>
+          <option type="text" answer="true" weight="100.00%">Aplastic anaemia</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="49">
+        <text type="text">Deficiency of Ankyrin, Spectrin and Protein 4\.2 is responsible for</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Hereditary spherocytosis</option>
+          <option type="text" answer="false" weight="-100.00%">Hereditary elliptocytosis</option>
+          <option type="text" answer="false" weight="-100.00%">G6PD deficiency</option>
+          <option type="text" answer="false" weight="-100.00%">March haemoglobinuria</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="50">
+        <text type="text">Aplastic crises in Heriditary spherocytosis are usually precipitated by</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">H. influenza</option>
+          <option type="text" answer="false" weight="-100.00%">Mycoplasma</option>
+          <option type="text" answer="false" weight="-100.00%">Malaria</option>
+          <option type="text" answer="true" weight="100.00%">Parvovirus</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="51">
+        <text type="text">Which of the following is more common in Africa (our world) and milder form of presentation?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Hereditary spherocytosis</option>
+          <option type="text" answer="true" weight="100.00%">Hereditary elliptocytosis</option>
+          <option type="text" answer="false" weight="-100.00%">G6PD deficiency</option>
+          <option type="text" answer="false" weight="-100.00%">March haemoglobinuria</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="52">
+        <text type="text">The following is most likely to be found in blood film of an Iron deficient patient</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Target cells</option>
+          <option type="text" answer="false" weight="-100.00%">Macrocyte</option>
+          <option type="text" answer="false" weight="-100.00%">Blister cells</option>
+          <option type="text" answer="false" weight="-100.00%">Sickle cell</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="53">
+        <text type="text">The G6PD gene is carried on which chromosome?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Chr. 2</option>
+          <option type="text" answer="false" weight="-100.00%">Chr. 11</option>
+          <option type="text" answer="true" weight="100.00%">Chr. X</option>
+          <option type="text" answer="false" weight="-100.00%">Chr. Y</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="54">
+        <text type="text">This is the commonest worldwide type of G6PD deficiency</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">A type</option>
+          <option type="text" answer="true" weight="100.00%">B type</option>
+          <option type="text" answer="false" weight="-100.00%">C type</option>
+          <option type="text" answer="false" weight="-100.00%">D type</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="55">
+        <text type="text">Heinz bodies are diagnostic of</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">G6PD deficiency</option>
+          <option type="text" answer="false" weight="-100.00%">Liver disease</option>
+          <option type="text" answer="false" weight="-100.00%">Hyposplenism</option>
+          <option type="text" answer="false" weight="-100.00%">DIC</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="56">
+        <text type="text">G6PD deficiency haemolysis can be precipitated by</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Fava beans(Favisim)</option>
+          <option type="text" answer="false" weight="-100.00%">Hypoxia</option>
+          <option type="text" answer="false" weight="-100.00%">High Altitude</option>
+          <option type="text" answer="false" weight="-100.00%">Warm temperatures</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="57">
+        <text type="text">The following antibodies are known to be involved in Autoimmune Haemolytic Anaemia at 4⁰C (cold antibodies)</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">IgA</option>
+          <option type="text" answer="true" weight="100.00%">IgM</option>
+          <option type="text" answer="false" weight="-100.00%">IgG</option>
+          <option type="text" answer="false" weight="-100.00%">IgE</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="58">
+        <text type="text">The following are examples of Alloimmune Haemolytic anaemia except</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Incompatible blood reactions</option>
+          <option type="text" answer="false" weight="-100.00%">Rh disease of the newborn</option>
+          <option type="text" answer="true" weight="100.00%">Autoimmune diseases</option>
+          <option type="text" answer="false" weight="-100.00%">Organ transplant</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="59">
+        <text type="text">Which of the following is does notcause an Autoimmune Haemolytic Anaemia?</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">March Haemoglobinaemia</option>
+          <option type="text" answer="false" weight="-100.00%">Lupus (SLE)</option>
+          <option type="text" answer="false" weight="-100.00%">Rheumatoid fever</option>
+          <option type="text" answer="false" weight="-100.00%">Chronic lymphocytic leukaemia</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="60">
+        <text type="text">This organism is known to cause haemolytic anaemia</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Clostridium perfiringes/ welchi</option>
+          <option type="text" answer="false" weight="-100.00%">Rabies</option>
+          <option type="text" answer="false" weight="-100.00%">Yersinia pestis</option>
+          <option type="text" answer="false" weight="-100.00%">Low grade H. influenza</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="61">
+        <text type="text">Abnormalities of Paroxysmal Nocturnal Haemoglobinaemia include</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Hypotension</option>
+          <option type="text" answer="false" weight="-100.00%">High NAP score</option>
+          <option type="text" answer="true" weight="100.00%">Haematuria</option>
+          <option type="text" answer="false" weight="-100.00%">High platelet count</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="62">
+        <text type="text">A positive Direct antiglobulin test (DAT) is characteristic of</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Autoimmune Haemolytic Anaemia</option>
+          <option type="text" answer="false" weight="-100.00%">March Haemoglobinaemia</option>
+          <option type="text" answer="false" weight="-100.00%">Paroxysmal Nocturnal Haemoglobinuria</option>
+          <option type="text" answer="false" weight="-100.00%">Alloimmune Haemolytic Anaemia</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="63">
+        <text type="text">A patient presents with pancytopenia and hypocellular marrow. Which of these could be a possible diagnosis?</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Aplastic anaemia</option>
+          <option type="text" answer="false" weight="-100.00%">Haemolytic anaemia</option>
+          <option type="text" answer="false" weight="-100.00%">Megaloblastic anaemia</option>
+          <option type="text" answer="false" weight="-100.00%">Iron overload</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="64">
+        <text type="text">Aplastic anaemia is associated with which of the following HLA genes</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">HLADR1</option>
+          <option type="text" answer="true" weight="100.00%">HLADR2</option>
+          <option type="text" answer="false" weight="-100.00%">HLADR3</option>
+          <option type="text" answer="false" weight="-100.00%">HLADR4</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="65">
+        <text type="text">Which of the following drugs will you administer to a patient with Aplastic anaemia</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Methyldopa</option>
+          <option type="text" answer="false" weight="-100.00%">Niridazole</option>
+          <option type="text" answer="true" weight="100.00%">Antithymocyte /Antilymphocyte globulin with cyclosporin</option>
+          <option type="text" answer="false" weight="-100.00%">Cyclosporin with Nalidixic acid</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="66">
+        <text type="text">This is the treatment of choice in a boy with sickle cell anaemiapatient with pancytopenia</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Steroid administration</option>
+          <option type="text" answer="false" weight="-100.00%">Autologous stem cell transfusion or bone marrow transfusion</option>
+          <option type="text" answer="true" weight="100.00%">Allogenic stem cell transfusion or bone marrow transfusion</option>
+          <option type="text" answer="false" weight="-100.00%">Whole blood</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="67">
+        <text type="text">Which of the following is diagnostic of VERY SEVERE Aplastic anaemia</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Hb&gt;10g/dl</option>
+          <option type="text" answer="true" weight="100.00%">Neutrophil &lt;0\.2×109/l and platelet count &lt;20×109/l</option>
+          <option type="text" answer="false" weight="-100.00%">Platelet &lt;100×109/l</option>
+          <option type="text" answer="false" weight="-100.00%">Neutrophil&lt;1\.5×109/l</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="68">
+        <text type="text">What is the normal weight of the spleen</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">100g</option>
+          <option type="text" answer="true" weight="100.00%">200g</option>
+          <option type="text" answer="false" weight="-100.00%">300g</option>
+          <option type="text" answer="false" weight="-100.00%">400g</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="69">
+        <text type="text">The following cause splenomegaly except</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">CML</option>
+          <option type="text" answer="false" weight="-100.00%">β-Thalassemia major</option>
+          <option type="text" answer="false" weight="-100.00%">Schistosomiasis</option>
+          <option type="text" answer="true" weight="100.00%">Sickle cell anaemia(after splenic infarction)</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="70">
+        <text type="text">Howell-Jolly bodies (DNA remnants) and Pappenheimer bodies are found in which of the following conditions</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Hypersplenism</option>
+          <option type="text" answer="true" weight="100.00%">Hyposplenism</option>
+          <option type="text" answer="false" weight="-100.00%">Aplastic anaemia</option>
+          <option type="text" answer="false" weight="-100.00%">G6PD deficiency</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="71">
+        <text type="text">Which of the following are clinical effects of hyposplenism</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Increased risk of infection</option>
+          <option type="text" answer="false" weight="-100.00%">Decreased risk of infection</option>
+          <option type="text" answer="false" weight="-100.00%">Decreased risk of severe malaria</option>
+          <option type="text" answer="false" weight="-100.00%">Increased clearance of senescence red cells</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="72">
+        <text type="text">The spleen stores this percentage of platelets</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">10%</option>
+          <option type="text" answer="false" weight="-100.00%">20%</option>
+          <option type="text" answer="true" weight="100.00%">30%</option>
+          <option type="text" answer="false" weight="-100.00%">40%</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="73">
+        <text type="text">A dry bone marrow aspirate is characteristic of which of the following?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Hypersplenism</option>
+          <option type="text" answer="false" weight="-100.00%">Megaloblastic anaemia</option>
+          <option type="text" answer="false" weight="-100.00%">Sickle cell anaemia</option>
+          <option type="text" answer="true" weight="100.00%">Aplastic anaemia</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="74">
+        <text type="text">Which of the following is the best choice to take a bone marrow biopsy in adults</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Iliac crest</option>
+          <option type="text" answer="false" weight="-100.00%">Liver</option>
+          <option type="text" answer="false" weight="-100.00%">Distal ends of long bones</option>
+          <option type="text" answer="false" weight="-100.00%">Yolk sac</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="75">
+        <text type="text">Which of the following growth factors acts on committed cell lines</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">IL-1</option>
+          <option type="text" answer="false" weight="-100.00%">TNF</option>
+          <option type="text" answer="true" weight="100.00%">Thrombopoietin</option>
+          <option type="text" answer="false" weight="-100.00%">IL-3</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="76">
+        <text type="text">Complications of massive transfusion include the following.</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Anaemia</option>
+          <option type="text" answer="false" weight="-100.00%">Anaphylaxis</option>
+          <option type="text" answer="true" weight="100.00%">Citrate toxicity</option>
+          <option type="text" answer="false" weight="-100.00%">Shock</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="77">
+        <text type="text">The donor category where the donor donates blood for himself is known as:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Voluntary altruistic donors</option>
+          <option type="text" answer="false" weight="-100.00%">Paid donors</option>
+          <option type="text" answer="false" weight="-100.00%">Replacement donors</option>
+          <option type="text" answer="true" weight="100.00%">Autologous transfusion</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="78">
+        <text type="text">Which of the following is used in emergency transfusion?</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Gp O-</option>
+          <option type="text" answer="false" weight="-100.00%">Gp O+</option>
+          <option type="text" answer="false" weight="-100.00%">Gp AB+</option>
+          <option type="text" answer="false" weight="-100.00%">Gp AB-</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="79">
+        <text type="text">Which of these are frequent errors cause associated with transfusion reactions?</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Wrong blood issued </option>
+          <option type="text" answer="false" weight="-100.00%">Patient identification</option>
+          <option type="text" answer="false" weight="-100.00%">Transfusion in less 3hrs</option>
+          <option type="text" answer="false" weight="-100.00%">Patient monitoring</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="80">
+        <text type="text">Which of these is not an immediate non-infectious transfusion effect?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Allergic reactions</option>
+          <option type="text" answer="false" weight="-100.00%">Anaphylaxis</option>
+          <option type="text" answer="true" weight="100.00%">Alloimmunization</option>
+          <option type="text" answer="false" weight="-100.00%">Immediate Haemolytic transfusion reaction</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="81">
+        <text type="text">Which of the following is a safety monitor during transfusion?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Can give blood with drug added to it</option>
+          <option type="text" answer="false" weight="-100.00%">Setup blood transfusion and come back in 4 hours later</option>
+          <option type="text" answer="false" weight="-100.00%">Label blood with bed number</option>
+          <option type="text" answer="true" weight="100.00%">Identify patient and blood unit</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="82">
+        <text type="text">Which is the safest of the donor categories?</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Autologous donors</option>
+          <option type="text" answer="false" weight="-100.00%">Paid donors</option>
+          <option type="text" answer="false" weight="-100.00%">Replacement donors</option>
+          <option type="text" answer="false" weight="-100.00%">Voluntary donors</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="83">
+        <text type="text">Stored blood contains decreased amounts of all the following except</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">pH</option>
+          <option type="text" answer="false" weight="-100.00%">Na+</option>
+          <option type="text" answer="true" weight="100.00%">K+</option>
+          <option type="text" answer="false" weight="-100.00%">ATP</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="84">
+        <text type="text">Which of the following don’t we screen for in blood in Ghana?</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Malaria</option>
+          <option type="text" answer="false" weight="-100.00%">Hepatitis B</option>
+          <option type="text" answer="false" weight="-100.00%">HIV</option>
+          <option type="text" answer="false" weight="-100.00%">CMV</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="85">
+        <text type="text">Which component of blood contains the clotting factors and fibrinogen?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Albumin</option>
+          <option type="text" answer="false" weight="-100.00%">Platelet concentrate</option>
+          <option type="text" answer="false" weight="-100.00%">FFP</option>
+          <option type="text" answer="true" weight="100.00%">Cryoprecipitate</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="86">
+        <text type="text">What is the minimum weight acceptable for blood transfusion?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">30kg</option>
+          <option type="text" answer="false" weight="-100.00%">40kg</option>
+          <option type="text" answer="true" weight="100.00%">50kg</option>
+          <option type="text" answer="false" weight="-100.00%">60kg</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="87">
+        <text type="text">Which of these people can donate blood?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">A 50kg woman with Hb 12g/dl</option>
+          <option type="text" answer="false" weight="-100.00%">A 40kg man with Hb 12\.5g/dl</option>
+          <option type="text" answer="false" weight="-100.00%">A 75kg woman with Hb 10g/dl</option>
+          <option type="text" answer="true" weight="100.00%">A 75kgMan with Hb 14 g/dl</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="88">
+        <text type="text">A man wanted to donate blood but was deferred for 2 days. Which of the following could be true?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">He is a chronic alcoholic</option>
+          <option type="text" answer="true" weight="100.00%">He had a minor dental surgery</option>
+          <option type="text" answer="false" weight="-100.00%">He had a heart surgery</option>
+          <option type="text" answer="false" weight="-100.00%">He has hepatitis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="89">
+        <text type="text">CPDA-1 stores blood to up to how many days? (Citrate Phosphate Dextrose Adenine)</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">20 days</option>
+          <option type="text" answer="false" weight="-100.00%">25 days</option>
+          <option type="text" answer="false" weight="-100.00%">30 days</option>
+          <option type="text" answer="true" weight="100.00%">35 days</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="90">
+        <text type="text">Major basic proteins are produced by this blood cell.</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Basophil</option>
+          <option type="text" answer="true" weight="100.00%">Eosinophil</option>
+          <option type="text" answer="false" weight="-100.00%">Plasma cell</option>
+          <option type="text" answer="false" weight="-100.00%">Thrombocyte</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="91">
+        <text type="text">The most common ABO blood group in Ghana is</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">O-</option>
+          <option type="text" answer="true" weight="100.00%">O+ </option>
+          <option type="text" answer="false" weight="-100.00%">AB+</option>
+          <option type="text" answer="false" weight="-100.00%">A+</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="92">
+        <text type="text">Which of the following does not account for elevated platelet count?</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Age</option>
+          <option type="text" answer="false" weight="-100.00%">Posture</option>
+          <option type="text" answer="false" weight="-100.00%">Strenuous exercise</option>
+          <option type="text" answer="false" weight="-100.00%">Sex</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="93">
+        <text type="text">Which of the following produces antibodies?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">T-lymphocyte</option>
+          <option type="text" answer="false" weight="-100.00%">Monocyte</option>
+          <option type="text" answer="true" weight="100.00%">Plasma calls</option>
+          <option type="text" answer="false" weight="-100.00%">Basophils</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="94">
+        <text type="text">This immunoglobulin crosses the placenta</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">IgA</option>
+          <option type="text" answer="true" weight="100.00%">IgG</option>
+          <option type="text" answer="false" weight="-100.00%">IgM</option>
+          <option type="text" answer="false" weight="-100.00%">IgE</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="95">
+        <text type="text">Most efficient immunoglobulin in complement activation is</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">IgA</option>
+          <option type="text" answer="false" weight="-100.00%">IgG</option>
+          <option type="text" answer="true" weight="100.00%">IgM</option>
+          <option type="text" answer="false" weight="-100.00%">IgE</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="96">
+        <text type="text">Commonest immunoglobulin in secretions is</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">IgA</option>
+          <option type="text" answer="false" weight="-100.00%">IgG</option>
+          <option type="text" answer="false" weight="-100.00%">IgM</option>
+          <option type="text" answer="false" weight="-100.00%">IgE</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="97">
+        <text type="text">This immunoglobulin functions in allergic reactions</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">IgA</option>
+          <option type="text" answer="false" weight="-100.00%">IgG</option>
+          <option type="text" answer="false" weight="-100.00%">IgM</option>
+          <option type="text" answer="true" weight="100.00%">IgE</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="98">
+        <text type="text">Deficiency of C1 inhibitor causes</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Hereditary angioedema</option>
+          <option type="text" answer="false" weight="-100.00%">Recurrent Neisseria infection</option>
+          <option type="text" answer="false" weight="-100.00%">Paroxysmal Nocturnal Haemoglobinuria</option>
+          <option type="text" answer="false" weight="-100.00%">Collagen vascular disease</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="99">
+        <text type="text">The ABO gene is located on what chromosome</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Chr. 1</option>
+          <option type="text" answer="true" weight="100.00%">Chr. 9</option>
+          <option type="text" answer="false" weight="-100.00%">Chr. 11</option>
+          <option type="text" answer="false" weight="-100.00%">Chr. 16</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="100">
+        <text type="text">The Rh blood group is located on</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Chr. 1</option>
+          <option type="text" answer="false" weight="-100.00%">Chr. 9</option>
+          <option type="text" answer="false" weight="-100.00%">Chr. 11</option>
+          <option type="text" answer="false" weight="-100.00%">Chr. 16</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="101">
+        <text type="text">An A⁻ man marries an O+ woman. Which of the following is not a possible blood group of their children?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">O-</option>
+          <option type="text" answer="false" weight="-100.00%">O+</option>
+          <option type="text" answer="true" weight="100.00%">B-</option>
+          <option type="text" answer="false" weight="-100.00%">A-</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="102">
+        <text type="text">What is the precursor cell of platelets?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Myelocyte</option>
+          <option type="text" answer="false" weight="-100.00%">Myeloblast</option>
+          <option type="text" answer="true" weight="100.00%">Megakaryocyte</option>
+          <option type="text" answer="false" weight="-100.00%">Normoblast</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="103">
+        <text type="text">Which of the following is involved in megakaryocyte maturation?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">IL-1</option>
+          <option type="text" answer="false" weight="-100.00%">IL-2</option>
+          <option type="text" answer="true" weight="100.00%">IL-3</option>
+          <option type="text" answer="false" weight="-100.00%">IL-4</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="104">
+        <text type="text">What is the normal half-life of platelets?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">3 – 5 days</option>
+          <option type="text" answer="true" weight="100.00%">7 – 10 days </option>
+          <option type="text" answer="false" weight="-100.00%">13 – 15 days</option>
+          <option type="text" answer="false" weight="-100.00%">33 – 44 days</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="105">
+        <text type="text">Exercise increases platelet by which percentage?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">15%</option>
+          <option type="text" answer="false" weight="-100.00%">25%</option>
+          <option type="text" answer="true" weight="100.00%">35%</option>
+          <option type="text" answer="false" weight="-100.00%">45%</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="106">
+        <text type="text">The α-granules contain the following</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Protein S</option>
+          <option type="text" answer="false" weight="-100.00%">ATP</option>
+          <option type="text" answer="false" weight="-100.00%">Serotonin</option>
+          <option type="text" answer="false" weight="-100.00%">ADP</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="107">
+        <text type="text">Which of the following does not inhibit blood coagulation?</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">vWF</option>
+          <option type="text" answer="false" weight="-100.00%">Protein C</option>
+          <option type="text" answer="false" weight="-100.00%">Protein S</option>
+          <option type="text" answer="false" weight="-100.00%">Antithrombin</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="108">
+        <text type="text">Which of the following stimulates the production of Eosinophil?</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">IL-3</option>
+          <option type="text" answer="false" weight="-100.00%">IL-6</option>
+          <option type="text" answer="false" weight="-100.00%">IL-13</option>
+          <option type="text" answer="false" weight="-100.00%">IL-19</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="109">
+        <text type="text">The stage that comes before the mature Neutrophil in the development stage is known as</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Metamyelocyte</option>
+          <option type="text" answer="false" weight="-100.00%">Myelocyte</option>
+          <option type="text" answer="true" weight="100.00%">Stab cell (Neutrophil band)</option>
+          <option type="text" answer="false" weight="-100.00%">Myeloblast</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="110">
+        <text type="text">Which of the following is found in the granules of Basophils?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Cationic protein</option>
+          <option type="text" answer="false" weight="-100.00%">Lysozyme</option>
+          <option type="text" answer="true" weight="100.00%">Heparin</option>
+          <option type="text" answer="false" weight="-100.00%">β-2 Microglobulin</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="111">
+        <text type="text">Which of the following diseases is associated with EB virus?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Hepatoma</option>
+          <option type="text" answer="false" weight="-100.00%">Gastric cancer</option>
+          <option type="text" answer="false" weight="-100.00%">Neuroblastoma</option>
+          <option type="text" answer="true" weight="100.00%">Nasopharyngeal carcinoma</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="112">
+        <text type="text">A woman came in with a Neutrophil count of 2\.5 x 109/l, Lymphocyte count of 2\.0 x 109/l, Basophil count of 0\.15 x 109/l. which of the following could be the cause?</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Small pox</option>
+          <option type="text" answer="false" weight="-100.00%">Hay fever</option>
+          <option type="text" answer="false" weight="-100.00%">Helminthic infection</option>
+          <option type="text" answer="false" weight="-100.00%">Infectious mononucleosis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="113">
+        <text type="text">The first recognizable white blood cell under the light microscope is the</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Myeloblast</option>
+          <option type="text" answer="false" weight="-100.00%">Myelocyte</option>
+          <option type="text" answer="false" weight="-100.00%">Neutrophil</option>
+          <option type="text" answer="false" weight="-100.00%">Metamyelocyte</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="114">
+        <text type="text">Secondary granules first appear in</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Myeloblast</option>
+          <option type="text" answer="true" weight="100.00%">Myelocyte</option>
+          <option type="text" answer="false" weight="-100.00%">Neutrophil</option>
+          <option type="text" answer="false" weight="-100.00%">Metamyelocyte</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="115">
+        <text type="text">The secondary granules of this cell are large and very coarse, overlying the nucleus such that the lobulation of the nucleus are not seen.</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Eosinophil</option>
+          <option type="text" answer="false" weight="-100.00%">Lymphocyte</option>
+          <option type="text" answer="false" weight="-100.00%">Neutrophil</option>
+          <option type="text" answer="true" weight="100.00%">Basophil</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="116">
+        <text type="text">Which of the following is not a secondary granule of the polymorphs?</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Proteases</option>
+          <option type="text" answer="false" weight="-100.00%">Lysozyme</option>
+          <option type="text" answer="false" weight="-100.00%">Transferrin</option>
+          <option type="text" answer="false" weight="-100.00%">Alkaline phosphatase</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="117">
+        <text type="text">The cell has an abundant muddy blue cytoplasm</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Myeloblast</option>
+          <option type="text" answer="true" weight="100.00%">Myelocyte</option>
+          <option type="text" answer="false" weight="-100.00%">Metamyelocyte</option>
+          <option type="text" answer="false" weight="-100.00%">Neutrophil</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="118">
+        <text type="text">You have just one left of GpO- whole blood. Which of these would you administer it to in an emergency situation:</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">A 20yr old woman who needs blood</option>
+          <option type="text" answer="false" weight="-100.00%">A 20yr old man who needs blood</option>
+          <option type="text" answer="false" weight="-100.00%">A 75yr old woman who needs blood</option>
+          <option type="text" answer="false" weight="-100.00%">Which of these would you administer it to in an emergency situation:</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="119">
+        <text type="text">The following are precautions taken in blood transfusions except</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">The blood must be &lt; 7 days old</option>
+          <option type="text" answer="true" weight="100.00%">You can give blood together with a drug</option>
+          <option type="text" answer="false" weight="-100.00%">The blood should never be signed out by name only</option>
+          <option type="text" answer="false" weight="-100.00%">The should not be stored in home refrigerators</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="120">
+        <text type="text">Which of the following is the main cause of transfusion associated deaths</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Rh blood group system</option>
+          <option type="text" answer="true" weight="100.00%">ABO-incompatible blood components</option>
+          <option type="text" answer="false" weight="-100.00%">Transfusion associated graft vrs host disease</option>
+          <option type="text" answer="false" weight="-100.00%">Iron overload</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="121">
+        <text type="text">A truck driver donates blood to KBTH. What advice would you give him?</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">He should eat well and avoid driving for a week</option>
+          <option type="text" answer="false" weight="-100.00%">He can go to work the next day</option>
+          <option type="text" answer="false" weight="-100.00%">He should take in only drinks</option>
+          <option type="text" answer="false" weight="-100.00%">He can donate blood again in 3 days’ time</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="122">
+        <text type="text">A man walks into your clinic to donate blood. You observe needle marks on his left arm. What action will you take?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Defer him for 2 weeks</option>
+          <option type="text" answer="false" weight="-100.00%">Defer him for 2 months</option>
+          <option type="text" answer="true" weight="100.00%">Defer him for 2years</option>
+          <option type="text" answer="false" weight="-100.00%">You observe needle marks on his left arm. What action will you take?</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="123">
+        <text type="text">The following are questions you would ask a person who wants to donate blood except?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">His occupation</option>
+          <option type="text" answer="false" weight="-100.00%">Her sex life</option>
+          <option type="text" answer="false" weight="-100.00%">Previous surgical history</option>
+          <option type="text" answer="true" weight="100.00%">What food he usually eats</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="124">
+        <text type="text">Which of the following people cannot donate blood?</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">A 15yr old girl with Hb 15g/dl</option>
+          <option type="text" answer="false" weight="-100.00%">A 75kg man with Hb 13g/dl</option>
+          <option type="text" answer="false" weight="-100.00%">A 50kg woman with Hb 12\.7g/dl</option>
+          <option type="text" answer="false" weight="-100.00%">A 40yr old man with Hb 14\.5g/dl</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="125">
+        <text type="text">The following are functions of the complement system except</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Lysis of cells</option>
+          <option type="text" answer="false" weight="-100.00%">Opsonization</option>
+          <option type="text" answer="false" weight="-100.00%">Immune clearance</option>
+          <option type="text" answer="true" weight="100.00%">Production of antibodies</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="126">
+        <text type="text">Which of the following is an anaphylatoxin</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">C3a</option>
+          <option type="text" answer="false" weight="-100.00%">C3b</option>
+          <option type="text" answer="false" weight="-100.00%">C4b</option>
+          <option type="text" answer="false" weight="-100.00%">C5b</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="127">
+        <text type="text">This is known to be the largest immunoglobulin</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">IgA</option>
+          <option type="text" answer="false" weight="-100.00%">IgG</option>
+          <option type="text" answer="true" weight="100.00%">IgM</option>
+          <option type="text" answer="false" weight="-100.00%">IgE</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="128">
+        <text type="text">The process by which the surface of an antigen (microbe) is covered with antibodies that enhance its ingestion and lysis (killing) by phagocytic cells is known as</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Agglutination</option>
+          <option type="text" answer="false" weight="-100.00%">Chemoattraction</option>
+          <option type="text" answer="true" weight="100.00%">Opsonization</option>
+          <option type="text" answer="false" weight="-100.00%">Neutralization</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="129">
+        <text type="text">Megakaryocytes mature by which of the following process?</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Endomitotic, asynchronous nuclear replication</option>
+          <option type="text" answer="false" weight=".00%">Endomitotic, synchronous nuclear replication</option>
+          <option type="text" answer="false" weight=".00%">Cellular mitosis</option>
+          <option type="text" answer="false" weight=".00%">The cell divides but the number of nuclear lobes remain the same</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="130">
+        <text type="text">Thrombopoitein is secreted mostly by this organ</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Kidneys</option>
+          <option type="text" answer="false" weight="-100.00%">Lungs</option>
+          <option type="text" answer="true" weight="100.00%">Liver</option>
+          <option type="text" answer="false" weight="-100.00%">Heart</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="131">
+        <text type="text">At about which stage does the cytoplasm of the megakaryocyte become granular and platelets liberated?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">4N</option>
+          <option type="text" answer="true" weight="100.00%">8N</option>
+          <option type="text" answer="false" weight="-100.00%">16N</option>
+          <option type="text" answer="false" weight="-100.00%">32N</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="132">
+        <text type="text">All of these statements concerning platelet counts are true except?</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Samples obtained should be collected at about the same time</option>
+          <option type="text" answer="false" weight="-100.00%">Concept of normal values has been replaced by reference values</option>
+          <option type="text" answer="true" weight="100.00%">Each lab should use the same reference ranges</option>
+          <option type="text" answer="false" weight="-100.00%">A bank of reference values take physiologic variables into account</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="133">
+        <text type="text">Which of the following is not a physiological variation in platelet count</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">An obvious age difference</option>
+          <option type="text" answer="false" weight="-100.00%">Africans have counts about 10-20% lower than Europeans</option>
+          <option type="text" answer="false" weight="-100.00%">Strenuous exercise raises counts by 30-40%</option>
+          <option type="text" answer="false" weight="-100.00%">Platelet counts are approximately 20% higher in women and levels fall during menstruation</option>
+        </options>
+        <reason type="text" />
+      </question>
+    </section>
+  </sections>
+</examination>

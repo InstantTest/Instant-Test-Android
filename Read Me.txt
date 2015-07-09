@@ -1,0 +1,20 @@
+Folder Tree
+-------------------------------------------
+Root - Instant Test Android
+	|
+	|
+	-------- Instant Test (this folder is to be placed in the android SD card folder)
+	|	|
+	|	------- Web app (contains the html, js, css for the app including mark logic)
+	|	|
+	|	------- Tests (contains the various tests in xml format)
+	|
+	|	
+	--------Instant Test Android (this folder contains the android studio project of the instant test app)
+	|
+	|
+	--------Read Me.txt
+
+
+thanks in advance.... :-)
+				

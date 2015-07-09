@@ -1,0 +1,557 @@
+<examination duration="0:25:0" kind="Bank" draw="20" instruction="Choose one correct option from the following options" subject="Parasitology and Virology">
+  <sections>
+    <section format="multiple choice" instruction="">
+      <question number="1">
+        <text type="text">Primary tissue cultures are derived initially from</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Malignant tissue or organs</option>
+          <option type="text" answer="false" weight=".00%">Transformed cells</option>
+          <option type="text" answer="false" weight=".00%">Cells from normal organs or tissue</option>
+          <option type="text" answer="false" weight=".00%">Irridiated tissue cells</option>
+          <option type="text" answer="false" weight=".00%">Sub-set of selected organ cells grown in vitro</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="2">
+        <text type="text">Virus growth in tissue cultures can be detected by</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Assessment of toxins produced in the culture</option>
+          <option type="text" answer="false" weight=".00%">Antibody levels produced by the cells</option>
+          <option type="text" answer="false" weight=".00%">Morphologic changes initiated by the virus</option>
+          <option type="text" answer="false" weight=".00%">Visualization of virus particles as a result of replication</option>
+          <option type="text" answer="false" weight=".00%">Colour changes in the growth medium</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="3">
+        <text type="text">Adenovirus</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Are icosahedral RNA viruses with fibre projections from the vertices</option>
+          <option type="text" answer="false" weight=".00%">Group A serotypes have low encogenic Potentials</option>
+          <option type="text" answer="false" weight=".00%">Which infect human are divided into five major groups</option>
+          <option type="text" answer="false" weight=".00%">Avian strains share common antigens as determinied by the complement fixationtest test</option>
+          <option type="text" answer="false" weight=".00%">Can infect and replicate in several organs especially in epithelial</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="4">
+        <text type="text">Landmark Yellow Fever research was carried out by the named scientist in the countries as:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Hideo Noguchi/Japan</option>
+          <option type="text" answer="false" weight=".00%">Waltre Reed/USA</option>
+          <option type="text" answer="false" weight=".00%">Carlos Finlay/Cuba</option>
+          <option type="text" answer="false" weight=".00%">Luis Pasteur /Francis</option>
+          <option type="text" answer="false" weight=".00%">Amadou Diop/ Senegal</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="5">
+        <text type="text">The following events occur during the pathogenesis of orthomyxaviruses</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Primary replication takes place in the nasal mucosa</option>
+          <option type="text" answer="false" weight=".00%">Virus entry is through inhalation of the virus on formites</option>
+          <option type="text" answer="false" weight=".00%">Viremia occurs at day 1</option>
+          <option type="text" answer="false" weight=".00%">Fusion of cells is aided by the F protein</option>
+          <option type="text" answer="false" weight=".00%">The neuraminidase facilitates attachment of the virus type</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="6">
+        <text type="text">Orthomyxoviruses have the following characteritics</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">The nuclei acid is found as a whole piece of strand</option>
+          <option type="text" answer="false" weight=".00%">Only the influenza A has animal strains</option>
+          <option type="text" answer="false" weight=".00%">Highly pleomorphic</option>
+          <option type="text" answer="false" weight=".00%">The viral antigens distinguish the virus type</option>
+          <option type="text" answer="false" weight=".00%">Have a complex RNA genome</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="7">
+        <text type="text">Pandemic of influenza A occur as a result of</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Mutations which occur at various points of the viral genome</option>
+          <option type="text" answer="false" weight=".00%">Pressure of circulating antibodies in the general population</option>
+          <option type="text" answer="false" weight=".00%">Acquisted of new gene segments from other animal viruses</option>
+          <option type="text" answer="false" weight=".00%">Periodic changes which naturally occur every three years</option>
+          <option type="text" answer="false" weight=".00%">Antigenic changes in only the hemagglutinins</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="8">
+        <text type="text">The parainfluenza viruses have the following characteristics / properties</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Belong to the pneumonvirus genus</option>
+          <option type="text" answer="false" weight=".00%">Have a very effective vaccine derived from the envelope</option>
+          <option type="text" answer="false" weight=".00%">Natural infection stimulates protective IgA</option>
+          <option type="text" answer="false" weight=".00%">Will grow in the yolk sac of Embryonated egg</option>
+          <option type="text" answer="false" weight=".00%">Exist as four antigenic serotypes</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="9">
+        <text type="text">Parainfluenza viruses can cause the following diseases</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Croup in adolescence</option>
+          <option type="text" answer="false" weight=".00%">Bronchial asthma</option>
+          <option type="text" answer="false" weight=".00%">Pneumonia in children</option>
+          <option type="text" answer="false" weight=".00%">Bronchiolitis in infants</option>
+          <option type="text" answer="false" weight=".00%">Otitis media in infants</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="10">
+        <text type="text">The glycoprotein projections on the envelope of the RSV have the following properties:</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Mediate lytic action in infected cells</option>
+          <option type="text" answer="false" weight=".00%">Cause hemagglutination of RBCs</option>
+          <option type="text" answer="false" weight=".00%">Lower viscosity of mucosa secretions to facilitate spread of virus</option>
+          <option type="text" answer="false" weight=".00%">Major antigenic components which elicit neutralizing antibody formation</option>
+          <option type="text" answer="false" weight=".00%">Source of vaccine antigens</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="11">
+        <text type="text">The most important initial post exposure prophylaxis of rabies is;-</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Instillation of anti-serum into the wound bite</option>
+          <option type="text" answer="false" weight=".00%">Wound toileting involving washing the wound bite with soap and water</option>
+          <option type="text" answer="false" weight=".00%">Administration of vaccine</option>
+          <option type="text" answer="false" weight=".00%">Suturing of the wound to stop bleeding</option>
+          <option type="text" answer="false" weight=".00%">Passive immunization with rabies immune globin</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="12">
+        <text type="text">Rabies virus has the following characteristics</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">During natural infection, virus is found in only neural organs and saliva</option>
+          <option type="text" answer="false" weight=".00%">Attenuation is very difficult to attain</option>
+          <option type="text" answer="false" weight=".00%">Virus can be preserved in dry ice</option>
+          <option type="text" answer="false" weight=".00%">Resistance to treatment with U.V and sunlight</option>
+          <option type="text" answer="false" weight=".00%">Can be grown in the chorioallantoic cavity of embrayonated duck egg</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="13">
+        <text type="text">Yellow Fever Virus</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Is a helical enveloped RNA virus</option>
+          <option type="text" answer="false" weight=".00%">Has a formalin inactivated vaccine</option>
+          <option type="text" answer="false" weight=".00%">Vaccine should be administered in 3-dose regimen</option>
+          <option type="text" answer="false" weight=".00%">Has a syvalnic cycle which involves a bite by a monkey</option>
+          <option type="text" answer="false" weight=".00%">Can multiply in a variety of animals including humans and monkeys</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="14">
+        <text type="text">During the pathogenesis of Yellow fever virus in humans</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Infection of the liver may lead to carcinoma of the liver</option>
+          <option type="text" answer="false" weight=".00%">Primary multiplication occurs in the local lymph nodes</option>
+          <option type="text" answer="false" weight=".00%">Virus is found in the feces after viral spread in many organs</option>
+          <option type="text" answer="false" weight=".00%">Viral transmission can take place through the saliva</option>
+          <option type="text" answer="false" weight=".00%">Viremia may facilitate transmission through needle prick</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="15">
+        <text type="text">Dengue Fevers Virus</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Exist as five antigenic types</option>
+          <option type="text" answer="false" weight=".00%">Can be grown readily in cell strains like Hela cells</option>
+          <option type="text" answer="false" weight=".00%">Grow in chick-embryo after adapted to grow in arthropod tissue culture</option>
+          <option type="text" answer="false" weight=".00%">Case bleeding in the gastrointestinal tract leading to hemorrhagic shock</option>
+          <option type="text" answer="false" weight=".00%">Have an effective attenuated vaccine</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="16">
+        <text type="text">Dengue hemorrhagic shock</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Occurs more frequently in young children</option>
+          <option type="text" answer="false" weight=".00%">Mortality is about 50%</option>
+          <option type="text" answer="false" weight=".00%">Is a result of liberation of cytokines from the excessive breakdown of RBCs</option>
+          <option type="text" answer="false" weight=".00%">Convalescence may take many months</option>
+          <option type="text" answer="false" weight=".00%">Immune complex formation plays a significant role</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="17">
+        <text type="text">Lassa Fever Virus infection</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Has a sudden onset of hemorrhagic episodes</option>
+          <option type="text" answer="false" weight=".00%">Was first described in a village in Nigeria in 1981</option>
+          <option type="text" answer="false" weight=".00%">Leads to increased mortality in pregnancy around the first three months</option>
+          <option type="text" answer="false" weight=".00%">Always run a severe and fatal course</option>
+          <option type="text" answer="false" weight=".00%">Is transmitted by the house rat through its excreta</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="18">
+        <text type="text">Laboratory diagnosis of Lassa fever infection includes</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Virus isolation in Vero cells in a high containment facility</option>
+          <option type="text" answer="false" weight=".00%">Serology using complement fixation test</option>
+          <option type="text" answer="false" weight=".00%">Staining of sedimented cells from urine where virus is excreted foor months</option>
+          <option type="text" answer="false" weight=".00%">Dip-stick antibody detection during the early acute phase.</option>
+          <option type="text" answer="false" weight=".00%">
+          </option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="19">
+        <text type="text">Inactivation of Human Immunodeficiency Virus (HV) can be achieved by the following</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Pure ethyl alcohol</option>
+          <option type="text" answer="false" weight=".00%">0.1% hydrogen peroxide</option>
+          <option type="text" answer="false" weight=".00%">Heating at 60oC for 10minutes</option>
+          <option type="text" answer="false" weight=".00%">Formalin</option>
+          <option type="text" answer="false" weight=".00%">0.15 lysol</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="20">
+        <text type="text">Major signs of AIDS in adults include</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Generalized pruritic dermatitis</option>
+          <option type="text" answer="false" weight=".00%">Recurrent herpes zoster</option>
+          <option type="text" answer="false" weight=".00%">Persistent cough for more than one month</option>
+          <option type="text" answer="false" weight=".00%">Prolonged fever (intermittent or consistent) for more than one month</option>
+          <option type="text" answer="false" weight=".00%">Weight loss greater than 5% body weight within 6 months</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="21">
+        <text type="text">Hepatitis A Virus</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Has a variable but lingering viremia</option>
+          <option type="text" answer="false" weight=".00%">Has a single stranded DNA genome</option>
+          <option type="text" answer="false" weight=".00%">Has two serotypes</option>
+          <option type="text" answer="false" weight=".00%">May cause a state of chronicity after initial infection</option>
+          <option type="text" answer="false" weight=".00%">Is transmitted mainly by the faecal-oral route</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="22">
+        <text type="text">The core antigen of Hepatitis B Virus</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Is a marker of viral replication</option>
+          <option type="text" answer="false" weight=".00%">Elicits antibodies which indicate viral infection</option>
+          <option type="text" answer="false" weight=".00%">Leads to production of antibodies which signify recovery</option>
+          <option type="text" answer="false" weight=".00%">Persistence indicates chronicity</option>
+          <option type="text" answer="false" weight=".00%">Appears as the first marker of infection</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="23">
+        <text type="text">Hepatitis C Virus</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Infection may lead to persistence of nucleic acid of virus in spite of antibody production</option>
+          <option type="text" answer="false" weight=".00%">Is an enveloped icosahedral virus with a negative polarity of RNA</option>
+          <option type="text" answer="false" weight=".00%">Antigenic variability is due to genetic reassortment</option>
+          <option type="text" answer="false" weight=".00%">Infection has a high risk of hepatocellular carcinoma</option>
+          <option type="text" answer="false" weight=".00%">Has a high risk of infection after a needle prick</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="24">
+        <text type="text">Hepatitis E Virus</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Is a non-enveloped icosahedral single-stranded RNA virus</option>
+          <option type="text" answer="false" weight=".00%">Infection can lead to a chronic state</option>
+          <option type="text" answer="false" weight=".00%">Has a very efficient recombinant vaccine</option>
+          <option type="text" answer="false" weight=".00%">Viremia occurs during the late stages of infection</option>
+          <option type="text" answer="false" weight=".00%">Can be inactivated by heat at 56oC for 60 minutes.</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="25">
+        <text type="text">Urban or classic Fever epidemiological cycle involves</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Monkeys</option>
+          <option type="text" answer="false" weight=".00%">Aedes africanus</option>
+          <option type="text" answer="false" weight=".00%">Humans</option>
+          <option type="text" answer="false" weight=".00%">Aedes simpsoni</option>
+          <option type="text" answer="false" weight=".00%">Louse</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="26">
+        <text type="text">Rotaviruses</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Are categorized into eleven groups</option>
+          <option type="text" answer="false" weight=".00%">Have double-stranded RNA genome</option>
+          <option type="text" answer="false" weight=".00%">Their genome is divided into seven segments</option>
+          <option type="text" answer="false" weight=".00%">Have an inner capsid consisting of VP4 and VP7 structural proteins</option>
+          <option type="text" answer="false" weight=".00%">Groups B and C are important causes of hospitalization</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="27">
+        <text type="text">Rotavirus</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Group A is associated with sporadic cases</option>
+          <option type="text" answer="false" weight=".00%">Infection has vomiting preceding onset of diarrhea</option>
+          <option type="text" answer="false" weight=".00%">Infection increase glucose and sodium absorption from the intestinal lumen</option>
+          <option type="text" answer="false" weight=".00%">Infection has viremia as a major step in the development of disease</option>
+          <option type="text" answer="false" weight=".00%">Gastroenteritis has a maximum incidence at age 6 years</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="28">
+        <text type="text">The following virus infections are acquired from sources indicated against them</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Tears- Herpes simples type 2</option>
+          <option type="text" answer="false" weight=".00%">Large droplets of respiratory secretions – Rabies</option>
+          <option type="text" answer="false" weight=".00%">Faeces – Rhinoviruses</option>
+          <option type="text" answer="false" weight=".00%">Salivary secretions – Poliovirus</option>
+          <option type="text" answer="false" weight=".00%">Urine – Mumps</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="29">
+        <text type="text">Measles Virus</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Has a positive sense RNA genome</option>
+          <option type="text" answer="false" weight=".00%">Has animal reservoirs</option>
+          <option type="text" answer="false" weight=".00%">Infection may result in Giant cell pneumonia</option>
+          <option type="text" answer="false" weight=".00%">Causes vesicular rash</option>
+          <option type="text" answer="false" weight=".00%">Infection may respond to acyclovir treatment</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="30">
+        <text type="text">About Measles infection</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Antibodies to the F protein confers immunity against infection</option>
+          <option type="text" answer="false" weight=".00%">Koplik’s spots appear in the mouth before secondary viraemia</option>
+          <option type="text" answer="false" weight=".00%">Warthin-Finkeldey giant cell forms in lymphatic tissue before rash</option>
+          <option type="text" answer="false" weight=".00%">Primary replication occurs in the oropharyngeal mucosa</option>
+          <option type="text" answer="false" weight=".00%">Atypical measles is characterized by low-grade fever</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="31">
+        <text type="text">Mumps virus</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Has 2 serological types</option>
+          <option type="text" answer="false" weight=".00%">Infection is prevented by a killed vaccine</option>
+          <option type="text" answer="false" weight=".00%">Confers transient immunity after primary infection</option>
+          <option type="text" answer="false" weight=".00%">Causes enlargement of the thyroid gland</option>
+          <option type="text" answer="false" weight=".00%">Infection is by inhalation of airborne droplets</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="32">
+        <text type="text">About Mumps virus infection</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">All primates are its natural host</option>
+          <option type="text" answer="false" weight=".00%">May cause orchitis if infection occurs after adolescence</option>
+          <option type="text" answer="false" weight=".00%">Outbreaks occur mainly during the rainy season in the tropics</option>
+          <option type="text" answer="false" weight=".00%">Virus is present in Saliva before clinical symptoms develop</option>
+          <option type="text" answer="false" weight=".00%">Can be prevented with the administration of inactivated mumps vaccine</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="33">
+        <text type="text">The following clinical features are seen in Rubella Infection</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Bulbar paralysis</option>
+          <option type="text" answer="false" weight=".00%">High fever with convulsion</option>
+          <option type="text" answer="false" weight=".00%">Arthritis</option>
+          <option type="text" answer="false" weight=".00%">Neurosensory deafness</option>
+          <option type="text" answer="false" weight=".00%">Vomiting with abdominal pain</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="34">
+        <text type="text">About Rubella virus</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">It is a paramyxovirus</option>
+          <option type="text" answer="false" weight=".00%">It is prevented by a killed vaccine</option>
+          <option type="text" answer="false" weight=".00%">Produces transient immunity after primary infection</option>
+          <option type="text" answer="false" weight=".00%">It is isolated from throat swab samples</option>
+          <option type="text" answer="false" weight=".00%">IgG detection in fetus is an indication of congenital infection</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="35">
+        <text type="text">Polioviruses</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Infect all warm blooded animals</option>
+          <option type="text" answer="false" weight=".00%">Causes aseptic meningitis</option>
+          <option type="text" answer="false" weight=".00%">Have a helical nucleoplasmid</option>
+          <option type="text" answer="false" weight=".00%">Have type 3 as the most virulent</option>
+          <option type="text" answer="false" weight=".00%">Found in circulation mainly in the tropical countries</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="36">
+        <text type="text">About poliovirus infection</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Primary replication occurs in mesenteric lymph nodes</option>
+          <option type="text" answer="false" weight=".00%">The major route for CNS infection is through the peripheral nerves</option>
+          <option type="text" answer="false" weight=".00%">1% of all infections will show clinical symptoms</option>
+          <option type="text" answer="false" weight=".00%">Poliomyelitis is more severe in children than in adults</option>
+          <option type="text" answer="false" weight=".00%">For laboratory diagnosis, virus is isolated from blood</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="37">
+        <text type="text">About Coxsackieviruses</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">They are divided into groups A, B and C</option>
+          <option type="text" answer="false" weight=".00%">Are a major cause of diarrhea</option>
+          <option type="text" answer="false" weight=".00%">Are recovered from blood for laboratory diagnosis</option>
+          <option type="text" answer="false" weight=".00%">Produce maculopapular rash in infected individuals</option>
+          <option type="text" answer="false" weight=".00%">Some serotypes cause acute hemorrhagic conjunctivitis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="38">
+        <text type="text">One of the following antivral agents blocks a critical uncoating step in a viral replication cycle</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Amantidine</option>
+          <option type="text" answer="false" weight=".00%">Forscanet</option>
+          <option type="text" answer="false" weight=".00%">Nevirapine</option>
+          <option type="text" answer="false" weight=".00%">Ribavirin</option>
+          <option type="text" answer="false" weight=".00%">Acyclovir</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="39">
+        <text type="text">About interferons</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Inteferon Alpha is produced by lymphocytes</option>
+          <option type="text" answer="false" weight=".00%">Are produced in specific viruses</option>
+          <option type="text" answer="false" weight=".00%">Are produced in large amounts by infected cells</option>
+          <option type="text" answer="false" weight=".00%">DNA viruses are better inducers</option>
+          <option type="text" answer="false" weight=".00%">Induce antiviral state in uninfected cells</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="40">
+        <text type="text">About the pathogenesis of smallpox virus</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Involves one viraemic phase during the spread of the virus in host</option>
+          <option type="text" answer="false" weight=".00%">Pronounced lymphadenopathy occurs in most patients</option>
+          <option type="text" answer="false" weight=".00%">Produces skin lesions found to be at the same stage at anytime</option>
+          <option type="text" answer="false" weight=".00%">It infects all warm blooded animals apart from man</option>
+          <option type="text" answer="false" weight=".00%">Immunity following disease is transient</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="41">
+        <text type="text">About Monkey pox virus</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">It was first recognized in captive monkeys in 1958</option>
+          <option type="text" answer="false" weight=".00%">Infection of man from animals required by airborne transmission of infected saliva of animals</option>
+          <option type="text" answer="false" weight=".00%">Disease starts with eruptions beginning from macules through crust</option>
+          <option type="text" answer="false" weight=".00%">Infection is easily transmitted from infected person to a susceptible person</option>
+          <option type="text" answer="false" weight=".00%">It is a parapox virus</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="42">
+        <text type="text">Antigen / Antibody cross reactivity exists between Varicella-Zoster virus and the following viruses</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">CMV</option>
+          <option type="text" answer="false" weight=".00%">HBV</option>
+          <option type="text" answer="false" weight=".00%">HSV</option>
+          <option type="text" answer="false" weight=".00%">EBV</option>
+          <option type="text" answer="false" weight=".00%">HHV 8</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="43">
+        <text type="text">Latency after primary VZV infection will recur after several years in</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">100% of individuals</option>
+          <option type="text" answer="false" weight=".00%">90% of individuals</option>
+          <option type="text" answer="false" weight=".00%">1-2% of individuals</option>
+          <option type="text" answer="false" weight=".00%">10-20% of individuals</option>
+          <option type="text" answer="false" weight=".00%">50% of individuals</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="44">
+        <text type="text">Epstein Barr Virus is transmitted form healthy carriers to infect others through the following</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Blood</option>
+          <option type="text" answer="false" weight=".00%">Nasal secretions</option>
+          <option type="text" answer="false" weight=".00%">Saliva</option>
+          <option type="text" answer="false" weight=".00%">Urine</option>
+          <option type="text" answer="false" weight=".00%">Tears</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="45">
+        <text type="text">Epstein Barr Virus persists in the latent form in the following of the host</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Leucocytes</option>
+          <option type="text" answer="false" weight=".00%">Dorsal root ganglion</option>
+          <option type="text" answer="false" weight=".00%">B-Lymphocytes</option>
+          <option type="text" answer="false" weight=".00%">T-Lymphocytes</option>
+          <option type="text" answer="false" weight=".00%">Eosinophils</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="46">
+        <text type="text">About oncogenic viruses</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">All the currently known ones are RNA viruses</option>
+          <option type="text" answer="false" weight=".00%">Those which are Retroviruses possess integrated viral oncogenes</option>
+          <option type="text" answer="false" weight=".00%">May cause tumors by activating a cellular oncogene</option>
+          <option type="text" answer="false" weight=".00%">They can cause only malignant tumors</option>
+          <option type="text" answer="false" weight=".00%">Cause tumors by altering the permeability of the cell membrane</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="47">
+        <text type="text">Human papillomaviruses</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Replicate in the cytoplasm of infected cells</option>
+          <option type="text" answer="false" weight=".00%">DNA sequences have been detected in nearly 5% of penile carcinoma</option>
+          <option type="text" answer="false" weight=".00%">May cause laryngeal papillomata in adults</option>
+          <option type="text" answer="false" weight=".00%">Cause benign skin warts</option>
+          <option type="text" answer="false" weight=".00%">Can cause Adult T cell leukemia</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="48">
+        <text type="text">The following viruses are associated with the type of cancer named</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">HPV type 4 with laryngeal papillomata of infants</option>
+          <option type="text" answer="false" weight=".00%">EBV with squamous cell carcinoma</option>
+          <option type="text" answer="false" weight=".00%">EBV with nasopharyngeal carcinoma</option>
+          <option type="text" answer="false" weight=".00%">HTLV-1 with adult B-cell lymphoma</option>
+          <option type="text" answer="false" weight=".00%">HPV 18 with Hepatocellular carcinoma</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="49">
+        <text type="text">About CMV infection</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Paul Bunnel test is positive</option>
+          <option type="text" answer="false" weight=".00%">The disease is mild in AIDS patients</option>
+          <option type="text" answer="false" weight=".00%">Can be transmitted to sexual contact</option>
+          <option type="text" answer="false" weight=".00%">50% of congenital infections result in cytomegalic inclusion disease in infants</option>
+          <option type="text" answer="false" weight=".00%">Grows quickly in cell culture and produces characteristic CPE</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="50">
+        <text type="text">Herpes Simplex virus type 1 infection</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">Forms 4% of clinical isolates from genital sores</option>
+          <option type="text" answer="false" weight=".00%">Is transmitted mainly by infected blood</option>
+          <option type="text" answer="false" weight=".00%">May recur as gingivostomatitis in children under 5 years</option>
+          <option type="text" answer="false" weight=".00%">Undergo latency in T-lymphocytes</option>
+          <option type="text" answer="false" weight=".00%">Has incubation period 2-5 days</option>
+        </options>
+        <reason type="text" />
+      </question>
+    </section>
+  </sections>
+</examination>

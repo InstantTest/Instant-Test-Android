@@ -1,0 +1,314 @@
+<examination duration="0:30:0" kind="Bank" draw="25" instruction="Choose one correct option from the following options" subject="Chemical Pathology">
+  <sections>
+    <section format="multiple choice" instruction="">
+      <question number="1">
+        <text type="text">70 year old woman is admitted in coma to the hospital. On examination, she is found to have puffy face and low pulse. Electrolytes are normal. Sugar is normal; T4 and T3 are decreased; TSH increased. The most likely diagnosis is</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">diabetic ketoacidosis</option>
+          <option type="text" answer="false" weight="-100.00%">lactic acidosis</option>
+          <option type="text" answer="false" weight="-100.00%">hyperosmolar coma</option>
+          <option type="text" answer="true" weight="100.00%">myxoedema coma</option>
+          <option type="text" answer="false" weight="-100.00%">Electrolytes are normal</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="2">
+        <text type="text">Poor dietary intake of vitamin D leads to</text>
+        <options>
+          <option type="text" answer="true" weight="25.00%">poor absorption of calcium from the GIT</option>
+          <option type="text" answer="true" weight="25.00%">poor absorption of phosphorous from the GIT</option>
+          <option type="text" answer="true" weight="25.00%">hypocalcaemia</option>
+          <option type="text" answer="false" weight="-25.00%">primary hyperparathyroidism</option>
+          <option type="text" answer="true" weight="25.00%">secondary hyperparathyroidism</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="3">
+        <text type="text">Primary hyperparathyroidism is associated with</text>
+        <options>
+          <option type="text" answer="true" weight="50.00%">adenoma or carcinoma of the parathyroid gland</option>
+          <option type="text" answer="false" weight="-50.00%">hyperplasia of all the parathyroid glands</option>
+          <option type="text" answer="false" weight="-50.00%">depressed parathyroid hormone secretion</option>
+          <option type="text" answer="false" weight="-50.00%">hypoglycaemia</option>
+          <option type="text" answer="true" weight="50.00%">elevated plasma alkaline phosphatase levels</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="4">
+        <text type="text">The effects of parathyroid hormone include</text>
+        <options>
+          <option type="text" answer="false" weight="-33.33%">release of calcium from bone by osteoclasts</option>
+          <option type="text" answer="true" weight="33.33%">deposition of calcium in bone by osteoblasts</option>
+          <option type="text" answer="false" weight="-33.33%">release of cAMP in the kidney and the increase in the proximal tubular reabsorption of phosphate</option>
+          <option type="text" answer="true" weight="33.33%">increase in proximal tubular reabsorption of calcium</option>
+          <option type="text" answer="true" weight="33.33%">promotion of hydroxylation of 1, 25-dihydroxycholecalciferol</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="5">
+        <text type="text">In endemic goiter</text>
+        <options>
+          <option type="text" answer="true" weight="50.00%">plasma TSH is elevated</option>
+          <option type="text" answer="false" weight="-50.00%">plasma free T3 and free T4 may be low</option>
+          <option type="text" answer="false" weight="-50.00%">plasma total T3 and total T4 may be normal</option>
+          <option type="text" answer="false" weight="-50.00%">plasma free T3 and free T4 may be low-normal</option>
+          <option type="text" answer="true" weight="50.00%">there is a hypothyroid state</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="6">
+        <text type="text">The following can lead to an increase in serum sex hormone binding globulin (SHBG)</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Obesity</option>
+          <option type="text" answer="true" weight="100.00%">Cirrhosis</option>
+          <option type="text" answer="false" weight="-100.00%">Carbemazepine</option>
+          <option type="text" answer="false" weight="-100.00%">Fasting</option>
+          <option type="text" answer="false" weight="-100.00%">Danazol</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="7">
+        <text type="text">The following are causes of amenorrhoea</text>
+        <options>
+          <option type="text" answer="true" weight="25.00%">anorexia nervosa</option>
+          <option type="text" answer="true" weight="25.00%">severe exercise</option>
+          <option type="text" answer="false" weight="-25.00%">hyperthecosis</option>
+          <option type="text" answer="true" weight="25.00%">dysgenesis</option>
+          <option type="text" answer="true" weight="25.00%">psychological stress</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="8">
+        <text type="text">Prolactin</text>
+        <options>
+          <option type="text" answer="false" weight="-25.00%">is a polypeptide secreted by the hypothalamus</option>
+          <option type="text" answer="true" weight="25.00%">induces pre-pubertal lactation</option>
+          <option type="text" answer="true" weight="25.00%">levels increase in excess of 600ng/ml at parturition</option>
+          <option type="text" answer="true" weight="25.00%">secretion is sustained by puerperal period of suckling</option>
+          <option type="text" answer="true" weight="25.00%">secretion is under the control of an inhibitory factor – dopamine</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="9">
+        <text type="text">Conditions associated with increased sex hormone binding globulin (SHBG)</text>
+        <options>
+          <option type="text" answer="true" weight="50.00%">Oestrogens</option>
+          <option type="text" answer="false" weight="-50.00%">Obesity</option>
+          <option type="text" answer="false" weight="-50.00%">Androgens</option>
+          <option type="text" answer="true" weight="50.00%">Hyperthyroidism</option>
+          <option type="text" answer="false" weight="-50.00%">Hypothyroidism</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="10">
+        <text type="text">Virilism</text>
+        <options>
+          <option type="text" answer="false" weight="-50.00%">is characterized by excessive oestrogen secretion</option>
+          <option type="text" answer="false" weight="-50.00%">may be associated with receding temporal hair</option>
+          <option type="text" answer="true" weight="50.00%">may be caused by certain ovarian tumors</option>
+          <option type="text" answer="false" weight="-50.00%">thinning (atrophy) of the clitoris</option>
+          <option type="text" answer="true" weight="50.00%">adrenocortical carcinoma</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="11">
+        <text type="text">Hirsutism may be associated with</text>
+        <options>
+          <option type="text" answer="true" weight="25.00%">polycystic ovary syndrome</option>
+          <option type="text" answer="true" weight="25.00%">slightly raised testosterone</option>
+          <option type="text" answer="true" weight="25.00%">congenital hyperplasia</option>
+          <option type="text" answer="true" weight="25.00%">decreased prolactin levels</option>
+          <option type="text" answer="false" weight="-25.00%">excessive levels of oestrogen</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="12">
+        <text type="text">Serum calcium levels are decreased by</text>
+        <options>
+          <option type="text" answer="false" weight="-33.33%">increased levels of PTH F</option>
+          <option type="text" answer="true" weight="33.33%">increased levels of calcitonin</option>
+          <option type="text" answer="false" weight="-33.33%">increased 1,25-dihydroxyvitamin D</option>
+          <option type="text" answer="true" weight="33.33%">decreased levels of PTH</option>
+          <option type="text" answer="true" weight="33.33%">increased phosphate levels</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="13">
+        <text type="text">The biological action of PTH include</text>
+        <options>
+          <option type="text" answer="true" weight="50.00%">osteoclastic bone resorption</option>
+          <option type="text" answer="false" weight="-50.00%">increased renal tubular reabsorption of phosphate</option>
+          <option type="text" answer="false" weight="-50.00%">decreased renal absorption of calcium</option>
+          <option type="text" answer="true" weight="50.00%">1,25-dihydrovitamin D hydroxylation</option>
+          <option type="text" answer="false" weight="-50.00%">increase in serum phosphate</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="14">
+        <text type="text">The production of 1,25-dihydrovitamin D may be stimulated by</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">high plasma phosphate concentration</option>
+          <option type="text" answer="false" weight=".00%">decrease in plasma PTH concentration</option>
+          <option type="text" answer="false" weight=".00%">high levels of oestrogens</option>
+          <option type="text" answer="false" weight=".00%">free-ionized hypercalcaemia</option>
+          <option type="text" answer="false" weight=".00%">high levels prolactin</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="15">
+        <text type="text">Effects of increased free ionized calcium concentration include</text>
+        <options>
+          <option type="text" answer="false" weight="-50.00%">hyperkalaemia</option>
+          <option type="text" answer="true" weight="50.00%">renal calculi</option>
+          <option type="text" answer="false" weight="-50.00%">decreased gastric acid secretion</option>
+          <option type="text" answer="true" weight="50.00%">depression T</option>
+          <option type="text" answer="false" weight="-50.00%">cardiac arrest</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="16">
+        <text type="text">Possible effects of prolonged excess PTH include</text>
+        <options>
+          <option type="text" answer="false" weight="-33.33%">decreased number of osteoclasts</option>
+          <option type="text" answer="true" weight="33.33%">bone pain</option>
+          <option type="text" answer="true" weight="33.33%">bone cysts</option>
+          <option type="text" answer="true" weight="33.33%">raised alkaline phosphatase</option>
+          <option type="text" answer="false" weight="-33.33%">high phosphate concentration</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="17">
+        <text type="text">During pregnancy the levels of:</text>
+        <options>
+          <option type="text" answer="true" weight="33.33%">total protein is increased</option>
+          <option type="text" answer="false" weight="-33.33%">total T4 is decreased</option>
+          <option type="text" answer="true" weight="33.33%">cortisol is increased</option>
+          <option type="text" answer="true" weight="33.33%">alkaline phosphatase is decreased</option>
+          <option type="text" answer="false" weight="-33.33%">thyroxine binding globulin is decreased</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="18">
+        <text type="text">Hormones produced by the anterior pituitary include</text>
+        <options>
+          <option type="text" answer="false" weight="-50.00%">ADH/AVP</option>
+          <option type="text" answer="true" weight="50.00%">LH</option>
+          <option type="text" answer="false" weight="-50.00%">ACTH</option>
+          <option type="text" answer="false" weight="-50.00%">oxytocin</option>
+          <option type="text" answer="true" weight="50.00%">beta-lipotrophin</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="19">
+        <text type="text">Pituitary tumors may produce excess of:</text>
+        <options>
+          <option type="text" answer="true" weight="33.33%">growth hormone</option>
+          <option type="text" answer="true" weight="33.33%">prolactin</option>
+          <option type="text" answer="false" weight="-33.33%">ACTH</option>
+          <option type="text" answer="true" weight="33.33%">glucose</option>
+          <option type="text" answer="false" weight="-33.33%">dopamine</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="20">
+        <text type="text">Cushing’s syndrome is caused by:</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Hypersecretion of aldosterone</option>
+          <option type="text" answer="false" weight="-100.00%">Addison’s disease</option>
+          <option type="text" answer="false" weight="-100.00%">excess androgens</option>
+          <option type="text" answer="false" weight="-100.00%">adrenal insufficiency</option>
+          <option type="text" answer="true" weight="100.00%">excess cortisol</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="21">
+        <text type="text">Addison’s disease is caused by</text>
+        <options>
+          <option type="text" answer="true" weight="20.00%">destruction of the adrenal cortex</option>
+          <option type="text" answer="true" weight="20.00%">tuberculosis</option>
+          <option type="text" answer="true" weight="20.00%">metastatic cancer</option>
+          <option type="text" answer="true" weight="20.00%">amyloidosis</option>
+          <option type="text" answer="true" weight="20.00%">autoimmune disease</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="22">
+        <text type="text">Clinical features of Addison’s disease include:</text>
+        <options>
+          <option type="text" answer="true" weight="33.33%">hypovolumic shock</option>
+          <option type="text" answer="true" weight="33.33%">pigmentation of the skin</option>
+          <option type="text" answer="true" weight="33.33%">excessive tiredness</option>
+          <option type="text" answer="false" weight="-33.33%">hypertension</option>
+          <option type="text" answer="false" weight="-33.33%">sodium and water retention</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="23">
+        <text type="text">Congenital hyperplasia is characterized by</text>
+        <options>
+          <option type="text" answer="false" weight="-50.00%">normal levels of 21 hydroxylase</option>
+          <option type="text" answer="false" weight="-50.00%">increased synthesis of aldosterone</option>
+          <option type="text" answer="true" weight="50.00%">increased levels of 17-hydroxyprogesterone</option>
+          <option type="text" answer="true" weight="50.00%">virilisation</option>
+          <option type="text" answer="false" weight="-50.00%">excess cortisol</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="24">
+        <text type="text">The adrenal cortex produces the following hormones</text>
+        <options>
+          <option type="text" answer="false" weight="-50.00%">ACTH</option>
+          <option type="text" answer="false" weight="-50.00%">adrenalin</option>
+          <option type="text" answer="true" weight="50.00%">aldosterone</option>
+          <option type="text" answer="true" weight="50.00%">cortisol</option>
+          <option type="text" answer="false" weight="-50.00%">prolactin</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="25">
+        <text type="text">Causes of primary hypothyroidism include</text>
+        <options>
+          <option type="text" answer="false" weight="-25.00%">Grave’s disease</option>
+          <option type="text" answer="true" weight="25.00%">Ingestion of lithium carbonate</option>
+          <option type="text" answer="true" weight="25.00%">goitrogens</option>
+          <option type="text" answer="true" weight="25.00%">Hashimoto’s disease</option>
+          <option type="text" answer="true" weight="25.00%">ingestion of thyroid hormones</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="26">
+        <text type="text">Polycystic ovaries is characterized by</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">decreased testosterone</option>
+          <option type="text" answer="true" weight="100.00%">increased LH</option>
+          <option type="text" answer="false" weight="-100.00%">increased FSH</option>
+          <option type="text" answer="false" weight="-100.00%">normal levels of 17-OH-progesterone</option>
+          <option type="text" answer="false" weight="-100.00%">increased levels of 21-hydroxylase</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="27">
+        <text type="text">A 30 year old male was investigated for infertility and laboratory findings indicated: elevated LH; low testosterone; normal FSH. The diagnosis is:</text>
+        <options>
+          <option type="text" answer="true" weight="100.00%">Leydig cell failure</option>
+          <option type="text" answer="false" weight="-100.00%">pituitary disease</option>
+          <option type="text" answer="false" weight="-100.00%">defect in the seminal tubules</option>
+          <option type="text" answer="false" weight="-100.00%">hypothalamic disease</option>
+          <option type="text" answer="false" weight="-100.00%">inflammation of the prostate</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="28">
+        <text type="text">The following statements are true or false</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">LH stimulates spermatogenesis</option>
+          <option type="text" answer="false" weight="-100.00%">FSH stimulates testosterone</option>
+          <option type="text" answer="true" weight="100.00%">FSH is elevated in primary testicular failure</option>
+          <option type="text" answer="false" weight="-100.00%">HCG is low in choriocarcinoma</option>
+          <option type="text" answer="false" weight="-100.00%">oestrogens are elevated during menopause</option>
+        </options>
+        <reason type="text" />
+      </question>
+    </section>
+  </sections>
+</examination>

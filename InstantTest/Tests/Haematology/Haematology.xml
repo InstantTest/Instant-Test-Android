@@ -1,0 +1,325 @@
+<examination duration="0:30:0" kind="Bank" draw="25" instruction="Choose one correct option from the following options" subject="Hae">
+  <sections>
+    <section format="multiple choice" instruction="">
+      <question number="1">
+        <text type="text">Radionuclides can be used to investigate</text>
+        <options>
+          <option type="text" answer="true" weight="33.33%">The anemias</option>
+          <option type="text" answer="true" weight="33.33%">Blood loss</option>
+          <option type="text" answer="true" weight="33.33%">Polycythemia</option>
+          <option type="text" answer="false" weight="-33.33%">HDN</option>
+          <option type="text" answer="false" weight="-33.33%">ITP</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="2">
+        <text type="text">In performing the Schilling’s Test</text>
+        <options>
+          <option type="text" answer="false" weight=".00%">20mg of radioactive B12 is given orally</option>
+          <option type="text" answer="false" weight=".00%">10mg of non radioactive B12 is given IM</option>
+          <option type="text" answer="false" weight=".00%">Oral dose of Vitamin B12 is given before IM</option>
+          <option type="text" answer="false" weight=".00%">Fasting should continue for 72hrs after</option>
+          <option type="text" answer="false" weight=".00%">Normal individuals excrete &lt;5% after 2 hrs</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="3">
+        <text type="text">Hemolytic anemia (Causes)</text>
+        <options>
+          <option type="text" answer="true" weight="25.00%">artificial heart valves</option>
+          <option type="text" answer="true" weight="25.00%">Burns</option>
+          <option type="text" answer="false" weight="-25.00%">Bleeding</option>
+          <option type="text" answer="true" weight="25.00%">Transfusion Rxn</option>
+          <option type="text" answer="true" weight="25.00%">Bone marrow transplant</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="4">
+        <text type="text">Autoimmune Hemolytic Anemia occurs in</text>
+        <options>
+          <option type="text" answer="true" weight="25.00%">SLE</option>
+          <option type="text" answer="false" weight="-25.00%">Thalassemia</option>
+          <option type="text" answer="true" weight="25.00%">Lymphoma</option>
+          <option type="text" answer="true" weight="25.00%">Methyldopa injection</option>
+          <option type="text" answer="true" weight="25.00%">Ulcerative colitis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="5">
+        <text type="text">Coomb’s test is useful in investigating</text>
+        <options>
+          <option type="text" answer="true" weight="33.33%">Anemias in CLL</option>
+          <option type="text" answer="false" weight="-33.33%">IDA</option>
+          <option type="text" answer="true" weight="33.33%">Haemolytic transfusion reaction</option>
+          <option type="text" answer="true" weight="33.33%">HDN</option>
+          <option type="text" answer="false" weight="-33.33%">Sickle Cell Anemia</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="6">
+        <text type="text">In Indirect Coomb’s Test</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">Abs are sought for on surface of red cells</option>
+          <option type="text" answer="true" weight="100.00%">Abs are sought for in serum</option>
+          <option type="text" answer="false" weight="-100.00%">no need for incubation</option>
+          <option type="text" answer="false" weight="-100.00%">no requirement for AHG</option>
+          <option type="text" answer="false" weight="-100.00%">no need for washing of cells</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="7">
+        <text type="text">SCD is associated with</text>
+        <options>
+          <option type="text" answer="true" weight="20.00%">Chronic leg ulcers</option>
+          <option type="text" answer="true" weight="20.00%">hyposplenism</option>
+          <option type="text" answer="true" weight="20.00%">Gnathopathy</option>
+          <option type="text" answer="true" weight="20.00%">Indirect hyperbilirubinemia</option>
+          <option type="text" answer="true" weight="20.00%">delayed menarche</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="8">
+        <text type="text">The following may occur in SCD</text>
+        <options>
+          <option type="text" answer="true" weight="25.00%">thrombocytosis</option>
+          <option type="text" answer="true" weight="25.00%">Normoblastemia</option>
+          <option type="text" answer="true" weight="25.00%">Cholelithiasis</option>
+          <option type="text" answer="true" weight="25.00%">Hyposthenuria</option>
+          <option type="text" answer="false" weight="-25.00%">Polycythemia</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="9">
+        <text type="text">In the investigation of Beta-thalassemia major, the following are expected</text>
+        <options>
+          <option type="text" answer="false" weight="-50.00%">Normochromic normocytic anemia</option>
+          <option type="text" answer="false" weight="-50.00%">Reticulocytopenia</option>
+          <option type="text" answer="false" weight="-50.00%">Lymphadenopathy</option>
+          <option type="text" answer="true" weight="50.00%">Splenomegaly</option>
+          <option type="text" answer="true" weight="50.00%">Increase HbF levels</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="10">
+        <text type="text">…….. cells can occur in the following</text>
+        <options>
+          <option type="text" answer="true" weight="33.33%">Thalassemia</option>
+          <option type="text" answer="true" weight="33.33%">SCD</option>
+          <option type="text" answer="false" weight="-33.33%">G6PD deficiency</option>
+          <option type="text" answer="true" weight="33.33%">HbC disease</option>
+          <option type="text" answer="false" weight="-33.33%">Pb poisoning F (rather basophilic stippling)</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="11">
+        <text type="text">Differential diagnosis of Pancytopenia</text>
+        <options>
+          <option type="text" answer="true" weight="50.00%">aplastic anemia</option>
+          <option type="text" answer="true" weight="50.00%">Hypersplenism</option>
+          <option type="text" answer="false" weight="-50.00%">ALL</option>
+          <option type="text" answer="false" weight="-50.00%">ITP</option>
+          <option type="text" answer="false" weight="-50.00%">CML</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="12">
+        <text type="text">The following values occur in pancytpenia</text>
+        <options>
+          <option type="text" answer="false" weight="-33.33%">total volume 0\.6 x 109/L</option>
+          <option type="text" answer="false" weight="-33.33%">RCC 5 x 1012/L</option>
+          <option type="text" answer="true" weight="33.33%">Platelet 20 x 109/L</option>
+          <option type="text" answer="true" weight="33.33%">MCV 80fl</option>
+          <option type="text" answer="true" weight="33.33%">MCH 30pg</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="13">
+        <text type="text">Splenomegaly</text>
+        <options>
+          <option type="text" answer="false" weight="-50.00%">always occurs in CML</option>
+          <option type="text" answer="true" weight="50.00%">occurs in sub-acute bacterial endocarditis</option>
+          <option type="text" answer="false" weight="-50.00%">does not occur in Hb C disease</option>
+          <option type="text" answer="false" weight="-50.00%">is always detectable by palpation F (palpable at 2x its size)</option>
+          <option type="text" answer="true" weight="50.00%">can be caused by liver disease T (portal hypertension)</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="14">
+        <text type="text">Splenectomy is associated with</text>
+        <options>
+          <option type="text" answer="true" weight="20.00%">increased incidence of malaria</option>
+          <option type="text" answer="true" weight="20.00%">increased incidence of pneumococcal infection</option>
+          <option type="text" answer="true" weight="20.00%">Howell-Jolly bodies</option>
+          <option type="text" answer="true" weight="20.00%">thrombocytosis</option>
+          <option type="text" answer="true" weight="20.00%">red cell poikilocytosis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="15">
+        <text type="text">Acute leukemic terminology</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">M1 = promyelocytic</option>
+          <option type="text" answer="false" weight="-100.00%">M2 = Burkitt’s type</option>
+          <option type="text" answer="true" weight="100.00%">M7 = Megakaryoblastic</option>
+          <option type="text" answer="false" weight="-100.00%">M3 = Monoblastic</option>
+          <option type="text" answer="false" weight="-100.00%">M4 = undifferentiated</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="16">
+        <text type="text">Common findings in acute leukemia</text>
+        <options>
+          <option type="text" answer="false" weight="-50.00%">massive lymphadenopathy</option>
+          <option type="text" answer="true" weight="50.00%">gum bleeding</option>
+          <option type="text" answer="true" weight="50.00%">recurrent infection</option>
+          <option type="text" answer="false" weight="-50.00%">gout</option>
+          <option type="text" answer="false" weight="-50.00%">jaundice</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="17">
+        <text type="text">Burkitt’s Lymphoma</text>
+        <options>
+          <option type="text" answer="false" weight="-33.33%">doesn’t occur in developed world</option>
+          <option type="text" answer="false" weight="-33.33%">associated with t(3, 14) translocation</option>
+          <option type="text" answer="true" weight="33.33%">involves CNS</option>
+          <option type="text" answer="true" weight="33.33%">presents as jaw swelling in Africa</option>
+          <option type="text" answer="true" weight="33.33%">highly chemosensitive</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="18">
+        <text type="text">Hodgkins disease</text>
+        <options>
+          <option type="text" answer="true" weight="25.00%">has bimodal distribution</option>
+          <option type="text" answer="false" weight="-25.00%">does not occur in children</option>
+          <option type="text" answer="true" weight="25.00%">high incidence in jews</option>
+          <option type="text" answer="true" weight="25.00%">stage Ia is treated by chemotherapy</option>
+          <option type="text" answer="true" weight="25.00%">high incidence in wood workers T</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="19">
+        <text type="text">Non-hodgkins lymphoma</text>
+        <options>
+          <option type="text" answer="false" weight="-33.33%">orderly disease</option>
+          <option type="text" answer="true" weight="33.33%">common in the immunosupressed</option>
+          <option type="text" answer="true" weight="33.33%">commonly presents as lymphadenopathy</option>
+          <option type="text" answer="false" weight="-33.33%">does not invade bone marrow</option>
+          <option type="text" answer="true" weight="33.33%">commoner in males</option>
+        </options>
+        <reason type="text" />
+      </question>
+     
+      <question number="21">
+        <text type="text">Diagnosis of Multiple Myeloma (MM)</text>
+        <options>
+          <option type="text" answer="true" weight="25.00%">bone marrow aspirate</option>
+          <option type="text" answer="false" weight="-25.00%">Hb electrophoresis</option>
+          <option type="text" answer="true" weight="25.00%">chest X-ray</option>
+          <option type="text" answer="true" weight="25.00%">urine for Bence-Jones proteins</option>
+          <option type="text" answer="true" weight="25.00%">serum proteins</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="22">
+        <text type="text">Common complications of MM</text>
+        <options>
+          <option type="text" answer="true" weight="33.33%">pathological fractures</option>
+          <option type="text" answer="true" weight="33.33%">recurrent bacterial infections</option>
+          <option type="text" answer="true" weight="33.33%">renal failure</option>
+          <option type="text" answer="false" weight="-33.33%">hypocalcemia</option>
+          <option type="text" answer="false" weight="-33.33%">osteomyelitis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="23">
+        <text type="text">MGUS (Monoclonal Gammopathy of Uncertain Significance)</text>
+        <options>
+          <option type="text" answer="true" weight="50.00%">plasma cell disorders</option>
+          <option type="text" answer="false" weight="-50.00%">mostly occurs in children</option>
+          <option type="text" answer="false" weight="-50.00%">invariably develops in multiple myeloma</option>
+          <option type="text" answer="true" weight="50.00%">occurs much less frequently than multiple myeloma</option>
+          <option type="text" answer="false" weight="-50.00%">must be treated with steroids</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="24">
+        <text type="text">Malaria is associated with</text>
+        <options>
+          <option type="text" answer="true" weight="25.00%">Black water fever</option>
+          <option type="text" answer="true" weight="25.00%">enlarged spleen</option>
+          <option type="text" answer="true" weight="25.00%">intracellular parasites</option>
+          <option type="text" answer="true" weight="25.00%">leucocytosis</option>
+          <option type="text" answer="false" weight="-25.00%">thrombocytosis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="25">
+        <text type="text">The following stains are used for the purposes stated</text>
+        <options>
+          <option type="text" answer="true" weight="33.33%">methylene blue – reticulocytosis</option>
+          <option type="text" answer="true" weight="33.33%">Lesihmann stain – thin blood film</option>
+          <option type="text" answer="true" weight="33.33%">PAS – ALL</option>
+          <option type="text" answer="false" weight="-33.33%">Perls stain – Heinz bodies</option>
+          <option type="text" answer="false" weight="-33.33%">Geimsa stain – Reticulocytosis</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="26">
+        <text type="text">These individuals have Sickle Cell Disease</text>
+        <options>
+          <option type="text" answer="true" weight="33.33%">Hb SC</option>
+          <option type="text" answer="false" weight="-33.33%">Hb AS</option>
+          <option type="text" answer="false" weight="-33.33%">Hb CC</option>
+          <option type="text" answer="true" weight="33.33%">Hb SThal</option>
+          <option type="text" answer="true" weight="33.33%">Hb SE</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="27">
+        <text type="text">Spherocytosis occurs in</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">SCD</option>
+          <option type="text" answer="true" weight="100.00%">Warm autoimmune antibody reaction</option>
+          <option type="text" answer="false" weight="-100.00%">IDA</option>
+          <option type="text" answer="false" weight="-100.00%">Prosthetic valves</option>
+          <option type="text" answer="false" weight="-100.00%">ALL</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="28">
+        <text type="text">A patient with Hodgkins Lymphoma and liver involvement is in stage</text>
+        <options>
+          <option type="text" answer="false" weight="-100.00%">I</option>
+          <option type="text" answer="false" weight="-100.00%">II</option>
+          <option type="text" answer="false" weight="-100.00%">III</option>
+          <option type="text" answer="true" weight="100.00%">IV</option>
+          <option type="text" answer="false" weight="-100.00%">V</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="29">
+        <text type="text">Side effects of chemotherapy</text>
+        <options>
+          <option type="text" answer="true" weight="33.33%">hair loss</option>
+          <option type="text" answer="true" weight="33.33%">infections</option>
+          <option type="text" answer="false" weight="-33.33%">high white cell count</option>
+          <option type="text" answer="false" weight="-33.33%">thrombocytosis</option>
+          <option type="text" answer="true" weight="33.33%">marrow aplasia</option>
+        </options>
+        <reason type="text" />
+      </question>
+      <question number="30">
+        <text type="text">Supporting treatment for patients undergoing chemotherapy include</text>
+        <options>
+          <option type="text" answer="true" weight="50.00%">administration of CSF (Colony Stimulating Factor)</option>
+          <option type="text" answer="false" weight="-50.00%">Administration of Fresh Frozen Plasma daily</option>
+          <option type="text" answer="true" weight="50.00%">adequate pain relief</option>
+          <option type="text" answer="false" weight="-50.00%">regular antibiotics F</option>
+        </options>
+        <reason type="text" />
+      </question>
+    </section>
+  </sections>
+</examination>
